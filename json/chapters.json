@@ -1,0 +1,914 @@
+[
+  {
+    "id": 1,
+    "name": "الفاتحة",
+    "order": 5,
+    "type": 1,
+    "verse_count": 7,
+    "page_count": 1
+  },
+  {
+    "id": 2,
+    "name": "البقرة",
+    "order": 87,
+    "type": 0,
+    "verse_count": 286,
+    "page_count": 48
+  },
+  {
+    "id": 3,
+    "name": "آل عمران",
+    "order": 89,
+    "type": 0,
+    "verse_count": 200,
+    "page_count": 27
+  },
+  {
+    "id": 4,
+    "name": "النساء",
+    "order": 92,
+    "type": 0,
+    "verse_count": 176,
+    "page_count": 30
+  },
+  {
+    "id": 5,
+    "name": "المائدة",
+    "order": 112,
+    "type": 0,
+    "verse_count": 120,
+    "page_count": 21
+  },
+  {
+    "id": 6,
+    "name": "الأنعام",
+    "order": 55,
+    "type": 1,
+    "verse_count": 165,
+    "page_count": 23
+  },
+  {
+    "id": 7,
+    "name": "الأعراف",
+    "order": 39,
+    "type": 1,
+    "verse_count": 206,
+    "page_count": 26
+  },
+  {
+    "id": 8,
+    "name": "الأنفال",
+    "order": 88,
+    "type": 0,
+    "verse_count": 75,
+    "page_count": 10
+  },
+  {
+    "id": 9,
+    "name": "التوبة",
+    "order": 113,
+    "type": 0,
+    "verse_count": 129,
+    "page_count": 21
+  },
+  {
+    "id": 10,
+    "name": "يونس",
+    "order": 51,
+    "type": 1,
+    "verse_count": 109,
+    "page_count": 14
+  },
+  {
+    "id": 11,
+    "name": "هود",
+    "order": 52,
+    "type": 1,
+    "verse_count": 123,
+    "page_count": 14
+  },
+  {
+    "id": 12,
+    "name": "يوسف",
+    "order": 53,
+    "type": 1,
+    "verse_count": 111,
+    "page_count": 13
+  },
+  {
+    "id": 13,
+    "name": "الرعد",
+    "order": 96,
+    "type": 0,
+    "verse_count": 43,
+    "page_count": 7
+  },
+  {
+    "id": 14,
+    "name": "ابراهيم",
+    "order": 72,
+    "type": 1,
+    "verse_count": 52,
+    "page_count": 6
+  },
+  {
+    "id": 15,
+    "name": "الحجر",
+    "order": 54,
+    "type": 1,
+    "verse_count": 99,
+    "page_count": 6
+  },
+  {
+    "id": 16,
+    "name": "النحل",
+    "order": 70,
+    "type": 1,
+    "verse_count": 128,
+    "page_count": 14
+  },
+  {
+    "id": 17,
+    "name": "الإسراء",
+    "order": 50,
+    "type": 1,
+    "verse_count": 111,
+    "page_count": 12
+  },
+  {
+    "id": 18,
+    "name": "الكهف",
+    "order": 69,
+    "type": 1,
+    "verse_count": 110,
+    "page_count": 11
+  },
+  {
+    "id": 19,
+    "name": "مريم",
+    "order": 44,
+    "type": 1,
+    "verse_count": 98,
+    "page_count": 8
+  },
+  {
+    "id": 20,
+    "name": "طه",
+    "order": 45,
+    "type": 1,
+    "verse_count": 135,
+    "page_count": 9
+  },
+  {
+    "id": 21,
+    "name": "الأنبياء",
+    "order": 73,
+    "type": 1,
+    "verse_count": 112,
+    "page_count": 10
+  },
+  {
+    "id": 22,
+    "name": "الحج",
+    "order": 103,
+    "type": 0,
+    "verse_count": 78,
+    "page_count": 10
+  },
+  {
+    "id": 23,
+    "name": "المؤمنون",
+    "order": 74,
+    "type": 1,
+    "verse_count": 118,
+    "page_count": 8
+  },
+  {
+    "id": 24,
+    "name": "النور",
+    "order": 102,
+    "type": 0,
+    "verse_count": 64,
+    "page_count": 10
+  },
+  {
+    "id": 25,
+    "name": "الفرقان",
+    "order": 42,
+    "type": 1,
+    "verse_count": 77,
+    "page_count": 7
+  },
+  {
+    "id": 26,
+    "name": "الشعراء",
+    "order": 47,
+    "type": 1,
+    "verse_count": 227,
+    "page_count": 10
+  },
+  {
+    "id": 27,
+    "name": "النمل",
+    "order": 48,
+    "type": 1,
+    "verse_count": 93,
+    "page_count": 9
+  },
+  {
+    "id": 28,
+    "name": "القصص",
+    "order": 49,
+    "type": 1,
+    "verse_count": 88,
+    "page_count": 11
+  },
+  {
+    "id": 29,
+    "name": "العنكبوت",
+    "order": 85,
+    "type": 1,
+    "verse_count": 69,
+    "page_count": 8
+  },
+  {
+    "id": 30,
+    "name": "الروم",
+    "order": 84,
+    "type": 1,
+    "verse_count": 60,
+    "page_count": 6
+  },
+  {
+    "id": 31,
+    "name": "لقمان",
+    "order": 57,
+    "type": 1,
+    "verse_count": 34,
+    "page_count": 4
+  },
+  {
+    "id": 32,
+    "name": "السجدة",
+    "order": 75,
+    "type": 1,
+    "verse_count": 30,
+    "page_count": 3
+  },
+  {
+    "id": 33,
+    "name": "الأحزاب",
+    "order": 90,
+    "type": 0,
+    "verse_count": 73,
+    "page_count": 10
+  },
+  {
+    "id": 34,
+    "name": "سبإ",
+    "order": 58,
+    "type": 1,
+    "verse_count": 54,
+    "page_count": 7
+  },
+  {
+    "id": 35,
+    "name": "فاطر",
+    "order": 43,
+    "type": 1,
+    "verse_count": 45,
+    "page_count": 6
+  },
+  {
+    "id": 36,
+    "name": "يس",
+    "order": 41,
+    "type": 1,
+    "verse_count": 83,
+    "page_count": 5
+  },
+  {
+    "id": 37,
+    "name": "الصافات",
+    "order": 56,
+    "type": 1,
+    "verse_count": 182,
+    "page_count": 7
+  },
+  {
+    "id": 38,
+    "name": "ص",
+    "order": 38,
+    "type": 1,
+    "verse_count": 88,
+    "page_count": 6
+  },
+  {
+    "id": 39,
+    "name": "الزمر",
+    "order": 59,
+    "type": 1,
+    "verse_count": 75,
+    "page_count": 9
+  },
+  {
+    "id": 40,
+    "name": "غافر",
+    "order": 60,
+    "type": 1,
+    "verse_count": 85,
+    "page_count": 9
+  },
+  {
+    "id": 41,
+    "name": "فصلت",
+    "order": 61,
+    "type": 1,
+    "verse_count": 54,
+    "page_count": 6
+  },
+  {
+    "id": 42,
+    "name": "الشورى",
+    "order": 62,
+    "type": 1,
+    "verse_count": 53,
+    "page_count": 7
+  },
+  {
+    "id": 43,
+    "name": "الزخرف",
+    "order": 63,
+    "type": 1,
+    "verse_count": 89,
+    "page_count": 6
+  },
+  {
+    "id": 44,
+    "name": "الدخان",
+    "order": 64,
+    "type": 1,
+    "verse_count": 59,
+    "page_count": 3
+  },
+  {
+    "id": 45,
+    "name": "الجاثية",
+    "order": 65,
+    "type": 1,
+    "verse_count": 37,
+    "page_count": 4
+  },
+  {
+    "id": 46,
+    "name": "الأحقاف",
+    "order": 66,
+    "type": 1,
+    "verse_count": 35,
+    "page_count": 4
+  },
+  {
+    "id": 47,
+    "name": "محمد",
+    "order": 95,
+    "type": 0,
+    "verse_count": 38,
+    "page_count": 4
+  },
+  {
+    "id": 48,
+    "name": "الفتح",
+    "order": 111,
+    "type": 0,
+    "verse_count": 29,
+    "page_count": 5
+  },
+  {
+    "id": 49,
+    "name": "الحجرات",
+    "order": 106,
+    "type": 0,
+    "verse_count": 18,
+    "page_count": 2
+  },
+  {
+    "id": 50,
+    "name": "ق",
+    "order": 34,
+    "type": 1,
+    "verse_count": 45,
+    "page_count": 3
+  },
+  {
+    "id": 51,
+    "name": "الذاريات",
+    "order": 67,
+    "type": 1,
+    "verse_count": 60,
+    "page_count": 3
+  },
+  {
+    "id": 52,
+    "name": "الطور",
+    "order": 76,
+    "type": 1,
+    "verse_count": 49,
+    "page_count": 2
+  },
+  {
+    "id": 53,
+    "name": "النجم",
+    "order": 23,
+    "type": 1,
+    "verse_count": 62,
+    "page_count": 3
+  },
+  {
+    "id": 54,
+    "name": "القمر",
+    "order": 37,
+    "type": 1,
+    "verse_count": 55,
+    "page_count": 3
+  },
+  {
+    "id": 55,
+    "name": "الرحمن",
+    "order": 97,
+    "type": 0,
+    "verse_count": 78,
+    "page_count": 3
+  },
+  {
+    "id": 56,
+    "name": "الواقعة",
+    "order": 46,
+    "type": 1,
+    "verse_count": 96,
+    "page_count": 3
+  },
+  {
+    "id": 57,
+    "name": "الحديد",
+    "order": 94,
+    "type": 0,
+    "verse_count": 29,
+    "page_count": 4
+  },
+  {
+    "id": 58,
+    "name": "المجادلة",
+    "order": 105,
+    "type": 0,
+    "verse_count": 22,
+    "page_count": 4
+  },
+  {
+    "id": 59,
+    "name": "الحشر",
+    "order": 101,
+    "type": 0,
+    "verse_count": 24,
+    "page_count": 3
+  },
+  {
+    "id": 60,
+    "name": "الممتحنة",
+    "order": 91,
+    "type": 0,
+    "verse_count": 13,
+    "page_count": 3
+  },
+  {
+    "id": 61,
+    "name": "الصف",
+    "order": 109,
+    "type": 0,
+    "verse_count": 14,
+    "page_count": 1
+  },
+  {
+    "id": 62,
+    "name": "الجمعة",
+    "order": 110,
+    "type": 0,
+    "verse_count": 11,
+    "page_count": 2
+  },
+  {
+    "id": 63,
+    "name": "المنافقون",
+    "order": 104,
+    "type": 0,
+    "verse_count": 11,
+    "page_count": 1
+  },
+  {
+    "id": 64,
+    "name": "التغابن",
+    "order": 108,
+    "type": 0,
+    "verse_count": 18,
+    "page_count": 2
+  },
+  {
+    "id": 65,
+    "name": "الطلاق",
+    "order": 99,
+    "type": 0,
+    "verse_count": 12,
+    "page_count": 2
+  },
+  {
+    "id": 66,
+    "name": "التحريم",
+    "order": 107,
+    "type": 0,
+    "verse_count": 12,
+    "page_count": 2
+  },
+  {
+    "id": 67,
+    "name": "الملك",
+    "order": 77,
+    "type": 1,
+    "verse_count": 30,
+    "page_count": 3
+  },
+  {
+    "id": 68,
+    "name": "القلم",
+    "order": 2,
+    "type": 1,
+    "verse_count": 52,
+    "page_count": 2
+  },
+  {
+    "id": 69,
+    "name": "الحاقة",
+    "order": 78,
+    "type": 1,
+    "verse_count": 52,
+    "page_count": 2
+  },
+  {
+    "id": 70,
+    "name": "المعارج",
+    "order": 79,
+    "type": 1,
+    "verse_count": 44,
+    "page_count": 2
+  },
+  {
+    "id": 71,
+    "name": "نوح",
+    "order": 71,
+    "type": 1,
+    "verse_count": 28,
+    "page_count": 1
+  },
+  {
+    "id": 72,
+    "name": "الجن",
+    "order": 40,
+    "type": 1,
+    "verse_count": 28,
+    "page_count": 2
+  },
+  {
+    "id": 73,
+    "name": "المزمل",
+    "order": 3,
+    "type": 1,
+    "verse_count": 20,
+    "page_count": 2
+  },
+  {
+    "id": 74,
+    "name": "المدثر",
+    "order": 4,
+    "type": 1,
+    "verse_count": 56,
+    "page_count": 2
+  },
+  {
+    "id": 75,
+    "name": "القيامة",
+    "order": 31,
+    "type": 1,
+    "verse_count": 40,
+    "page_count": 1
+  },
+  {
+    "id": 76,
+    "name": "الانسان",
+    "order": 98,
+    "type": 0,
+    "verse_count": 31,
+    "page_count": 2
+  },
+  {
+    "id": 77,
+    "name": "المرسلات",
+    "order": 33,
+    "type": 1,
+    "verse_count": 50,
+    "page_count": 1
+  },
+  {
+    "id": 78,
+    "name": "النبإ",
+    "order": 80,
+    "type": 1,
+    "verse_count": 40,
+    "page_count": 2
+  },
+  {
+    "id": 79,
+    "name": "النازعات",
+    "order": 81,
+    "type": 1,
+    "verse_count": 46,
+    "page_count": 1
+  },
+  {
+    "id": 80,
+    "name": "عبس",
+    "order": 24,
+    "type": 1,
+    "verse_count": 42,
+    "page_count": 1
+  },
+  {
+    "id": 81,
+    "name": "التكوير",
+    "order": 7,
+    "type": 1,
+    "verse_count": 29,
+    "page_count": 1
+  },
+  {
+    "id": 82,
+    "name": "الإنفطار",
+    "order": 82,
+    "type": 1,
+    "verse_count": 19,
+    "page_count": 1
+  },
+  {
+    "id": 83,
+    "name": "المطففين",
+    "order": 86,
+    "type": 1,
+    "verse_count": 36,
+    "page_count": 2
+  },
+  {
+    "id": 84,
+    "name": "الإنشقاق",
+    "order": 83,
+    "type": 1,
+    "verse_count": 25,
+    "page_count": 1
+  },
+  {
+    "id": 85,
+    "name": "البروج",
+    "order": 27,
+    "type": 1,
+    "verse_count": 22,
+    "page_count": 1
+  },
+  {
+    "id": 86,
+    "name": "الطارق",
+    "order": 36,
+    "type": 1,
+    "verse_count": 17,
+    "page_count": 1
+  },
+  {
+    "id": 87,
+    "name": "الأعلى",
+    "order": 8,
+    "type": 1,
+    "verse_count": 19,
+    "page_count": 2
+  },
+  {
+    "id": 88,
+    "name": "الغاشية",
+    "order": 68,
+    "type": 1,
+    "verse_count": 26,
+    "page_count": 1
+  },
+  {
+    "id": 89,
+    "name": "الفجر",
+    "order": 10,
+    "type": 1,
+    "verse_count": 30,
+    "page_count": 1
+  },
+  {
+    "id": 90,
+    "name": "البلد",
+    "order": 35,
+    "type": 1,
+    "verse_count": 20,
+    "page_count": 1
+  },
+  {
+    "id": 91,
+    "name": "الشمس",
+    "order": 26,
+    "type": 1,
+    "verse_count": 15,
+    "page_count": 1
+  },
+  {
+    "id": 92,
+    "name": "الليل",
+    "order": 9,
+    "type": 1,
+    "verse_count": 21,
+    "page_count": 1
+  },
+  {
+    "id": 93,
+    "name": "الضحى",
+    "order": 11,
+    "type": 1,
+    "verse_count": 11,
+    "page_count": 1
+  },
+  {
+    "id": 94,
+    "name": "الشرح",
+    "order": 12,
+    "type": 1,
+    "verse_count": 8,
+    "page_count": 1
+  },
+  {
+    "id": 95,
+    "name": "التين",
+    "order": 28,
+    "type": 1,
+    "verse_count": 8,
+    "page_count": 1
+  },
+  {
+    "id": 96,
+    "name": "العلق",
+    "order": 1,
+    "type": 1,
+    "verse_count": 19,
+    "page_count": 1
+  },
+  {
+    "id": 97,
+    "name": "القدر",
+    "order": 25,
+    "type": 1,
+    "verse_count": 5,
+    "page_count": 1
+  },
+  {
+    "id": 98,
+    "name": "البينة",
+    "order": 100,
+    "type": 0,
+    "verse_count": 8,
+    "page_count": 1
+  },
+  {
+    "id": 99,
+    "name": "الزلزلة",
+    "order": 93,
+    "type": 0,
+    "verse_count": 8,
+    "page_count": 1
+  },
+  {
+    "id": 100,
+    "name": "العاديات",
+    "order": 14,
+    "type": 1,
+    "verse_count": 11,
+    "page_count": 1
+  },
+  {
+    "id": 101,
+    "name": "القارعة",
+    "order": 30,
+    "type": 1,
+    "verse_count": 11,
+    "page_count": 1
+  },
+  {
+    "id": 102,
+    "name": "التكاثر",
+    "order": 16,
+    "type": 1,
+    "verse_count": 8,
+    "page_count": 1
+  },
+  {
+    "id": 103,
+    "name": "العصر",
+    "order": 13,
+    "type": 1,
+    "verse_count": 3,
+    "page_count": 1
+  },
+  {
+    "id": 104,
+    "name": "الهمزة",
+    "order": 32,
+    "type": 1,
+    "verse_count": 9,
+    "page_count": 1
+  },
+  {
+    "id": 105,
+    "name": "الفيل",
+    "order": 19,
+    "type": 1,
+    "verse_count": 5,
+    "page_count": 1
+  },
+  {
+    "id": 106,
+    "name": "قريش",
+    "order": 29,
+    "type": 1,
+    "verse_count": 4,
+    "page_count": 1
+  },
+  {
+    "id": 107,
+    "name": "الماعون",
+    "order": 17,
+    "type": 1,
+    "verse_count": 7,
+    "page_count": 1
+  },
+  {
+    "id": 108,
+    "name": "الكوثر",
+    "order": 15,
+    "type": 1,
+    "verse_count": 3,
+    "page_count": 1
+  },
+  {
+    "id": 109,
+    "name": "الكافرون",
+    "order": 18,
+    "type": 1,
+    "verse_count": 6,
+    "page_count": 1
+  },
+  {
+    "id": 110,
+    "name": "النصر",
+    "order": 114,
+    "type": 0,
+    "verse_count": 3,
+    "page_count": 1
+  },
+  {
+    "id": 111,
+    "name": "المسد",
+    "order": 6,
+    "type": 1,
+    "verse_count": 5,
+    "page_count": 1
+  },
+  {
+    "id": 112,
+    "name": "الإخلاص",
+    "order": 22,
+    "type": 1,
+    "verse_count": 4,
+    "page_count": 1
+  },
+  {
+    "id": 113,
+    "name": "الفلق",
+    "order": 20,
+    "type": 1,
+    "verse_count": 5,
+    "page_count": 1
+  },
+  {
+    "id": 114,
+    "name": "الناس",
+    "order": 21,
+    "type": 1,
+    "verse_count": 6,
+    "page_count": 1
+  }
+]

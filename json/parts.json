@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Part 1",
+    "verse_count": 148,
+    "page_count": 21
+  },
+  {
+    "id": 2,
+    "name": "Part 2",
+    "verse_count": 111,
+    "page_count": 20
+  },
+  {
+    "id": 3,
+    "name": "Part 3",
+    "verse_count": 126,
+    "page_count": 21
+  },
+  {
+    "id": 4,
+    "name": "Part 4",
+    "verse_count": 131,
+    "page_count": 19
+  },
+  {
+    "id": 5,
+    "name": "Part 5",
+    "verse_count": 124,
+    "page_count": 20
+  },
+  {
+    "id": 6,
+    "name": "Part 6",
+    "verse_count": 110,
+    "page_count": 20
+  },
+  {
+    "id": 7,
+    "name": "Part 7",
+    "verse_count": 149,
+    "page_count": 20
+  },
+  {
+    "id": 8,
+    "name": "Part 8",
+    "verse_count": 142,
+    "page_count": 20
+  },
+  {
+    "id": 9,
+    "name": "Part 9",
+    "verse_count": 159,
+    "page_count": 20
+  },
+  {
+    "id": 10,
+    "name": "Part 10",
+    "verse_count": 127,
+    "page_count": 20
+  },
+  {
+    "id": 11,
+    "name": "Part 11",
+    "verse_count": 151,
+    "page_count": 20
+  },
+  {
+    "id": 12,
+    "name": "Part 12",
+    "verse_count": 170,
+    "page_count": 20
+  },
+  {
+    "id": 13,
+    "name": "Part 13",
+    "verse_count": 154,
+    "page_count": 20
+  },
+  {
+    "id": 14,
+    "name": "Part 14",
+    "verse_count": 227,
+    "page_count": 20
+  },
+  {
+    "id": 15,
+    "name": "Part 15",
+    "verse_count": 185,
+    "page_count": 20
+  },
+  {
+    "id": 16,
+    "name": "Part 16",
+    "verse_count": 269,
+    "page_count": 20
+  },
+  {
+    "id": 17,
+    "name": "Part 17",
+    "verse_count": 190,
+    "page_count": 20
+  },
+  {
+    "id": 18,
+    "name": "Part 18",
+    "verse_count": 202,
+    "page_count": 20
+  },
+  {
+    "id": 19,
+    "name": "Part 19",
+    "verse_count": 339,
+    "page_count": 20
+  },
+  {
+    "id": 20,
+    "name": "Part 20",
+    "verse_count": 171,
+    "page_count": 20
+  },
+  {
+    "id": 21,
+    "name": "Part 21",
+    "verse_count": 178,
+    "page_count": 20
+  },
+  {
+    "id": 22,
+    "name": "Part 22",
+    "verse_count": 169,
+    "page_count": 20
+  },
+  {
+    "id": 23,
+    "name": "Part 23",
+    "verse_count": 357,
+    "page_count": 20
+  },
+  {
+    "id": 24,
+    "name": "Part 24",
+    "verse_count": 175,
+    "page_count": 20
+  },
+  {
+    "id": 25,
+    "name": "Part 25",
+    "verse_count": 246,
+    "page_count": 21
+  },
+  {
+    "id": 26,
+    "name": "Part 26",
+    "verse_count": 195,
+    "page_count": 19
+  },
+  {
+    "id": 27,
+    "name": "Part 27",
+    "verse_count": 399,
+    "page_count": 20
+  },
+  {
+    "id": 28,
+    "name": "Part 28",
+    "verse_count": 137,
+    "page_count": 20
+  },
+  {
+    "id": 29,
+    "name": "Part 29",
+    "verse_count": 431,
+    "page_count": 20
+  },
+  {
+    "id": 30,
+    "name": "Part 30",
+    "verse_count": 564,
+    "page_count": 23
+  }
+]

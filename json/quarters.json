@@ -1,0 +1,1922 @@
+[
+  {
+    "id": 1,
+    "name": "Quarter 1",
+    "verse_count": 32,
+    "page_count": 5,
+    "group_id": 1,
+    "part_id": 1
+  },
+  {
+    "id": 2,
+    "name": "Quarter 2",
+    "verse_count": 18,
+    "page_count": 2,
+    "group_id": 1,
+    "part_id": 1
+  },
+  {
+    "id": 3,
+    "name": "Quarter 3",
+    "verse_count": 16,
+    "page_count": 2,
+    "group_id": 1,
+    "part_id": 1
+  },
+  {
+    "id": 4,
+    "name": "Quarter 4",
+    "verse_count": 15,
+    "page_count": 2,
+    "group_id": 1,
+    "part_id": 1
+  },
+  {
+    "id": 5,
+    "name": "Quarter 5",
+    "verse_count": 17,
+    "page_count": 3,
+    "group_id": 2,
+    "part_id": 1
+  },
+  {
+    "id": 6,
+    "name": "Quarter 6",
+    "verse_count": 14,
+    "page_count": 2,
+    "group_id": 2,
+    "part_id": 1
+  },
+  {
+    "id": 7,
+    "name": "Quarter 7",
+    "verse_count": 18,
+    "page_count": 3,
+    "group_id": 2,
+    "part_id": 1
+  },
+  {
+    "id": 8,
+    "name": "Quarter 8",
+    "verse_count": 18,
+    "page_count": 2,
+    "group_id": 2,
+    "part_id": 1
+  },
+  {
+    "id": 9,
+    "name": "Quarter 9",
+    "verse_count": 16,
+    "page_count": 3,
+    "group_id": 3,
+    "part_id": 2
+  },
+  {
+    "id": 10,
+    "name": "Quarter 10",
+    "verse_count": 19,
+    "page_count": 2,
+    "group_id": 3,
+    "part_id": 2
+  },
+  {
+    "id": 11,
+    "name": "Quarter 11",
+    "verse_count": 12,
+    "page_count": 3,
+    "group_id": 3,
+    "part_id": 2
+  },
+  {
+    "id": 12,
+    "name": "Quarter 12",
+    "verse_count": 14,
+    "page_count": 2,
+    "group_id": 3,
+    "part_id": 2
+  },
+  {
+    "id": 13,
+    "name": "Quarter 13",
+    "verse_count": 16,
+    "page_count": 3,
+    "group_id": 4,
+    "part_id": 2
+  },
+  {
+    "id": 14,
+    "name": "Quarter 14",
+    "verse_count": 14,
+    "page_count": 3,
+    "group_id": 4,
+    "part_id": 2
+  },
+  {
+    "id": 15,
+    "name": "Quarter 15",
+    "verse_count": 10,
+    "page_count": 2,
+    "group_id": 4,
+    "part_id": 2
+  },
+  {
+    "id": 16,
+    "name": "Quarter 16",
+    "verse_count": 10,
+    "page_count": 2,
+    "group_id": 4,
+    "part_id": 2
+  },
+  {
+    "id": 17,
+    "name": "Quarter 17",
+    "verse_count": 10,
+    "page_count": 3,
+    "group_id": 5,
+    "part_id": 3
+  },
+  {
+    "id": 18,
+    "name": "Quarter 18",
+    "verse_count": 9,
+    "page_count": 2,
+    "group_id": 5,
+    "part_id": 3
+  },
+  {
+    "id": 19,
+    "name": "Quarter 19",
+    "verse_count": 11,
+    "page_count": 2,
+    "group_id": 5,
+    "part_id": 3
+  },
+  {
+    "id": 20,
+    "name": "Quarter 20",
+    "verse_count": 18,
+    "page_count": 3,
+    "group_id": 5,
+    "part_id": 3
+  },
+  {
+    "id": 21,
+    "name": "Quarter 21",
+    "verse_count": 18,
+    "page_count": 3,
+    "group_id": 6,
+    "part_id": 3
+  },
+  {
+    "id": 22,
+    "name": "Quarter 22",
+    "verse_count": 19,
+    "page_count": 2,
+    "group_id": 6,
+    "part_id": 3
+  },
+  {
+    "id": 23,
+    "name": "Quarter 23",
+    "verse_count": 23,
+    "page_count": 3,
+    "group_id": 6,
+    "part_id": 3
+  },
+  {
+    "id": 24,
+    "name": "Quarter 24",
+    "verse_count": 18,
+    "page_count": 3,
+    "group_id": 6,
+    "part_id": 3
+  },
+  {
+    "id": 25,
+    "name": "Quarter 25",
+    "verse_count": 20,
+    "page_count": 2,
+    "group_id": 7,
+    "part_id": 4
+  },
+  {
+    "id": 26,
+    "name": "Quarter 26",
+    "verse_count": 20,
+    "page_count": 2,
+    "group_id": 7,
+    "part_id": 4
+  },
+  {
+    "id": 27,
+    "name": "Quarter 27",
+    "verse_count": 20,
+    "page_count": 3,
+    "group_id": 7,
+    "part_id": 4
+  },
+  {
+    "id": 28,
+    "name": "Quarter 28",
+    "verse_count": 18,
+    "page_count": 3,
+    "group_id": 7,
+    "part_id": 4
+  },
+  {
+    "id": 29,
+    "name": "Quarter 29",
+    "verse_count": 15,
+    "page_count": 2,
+    "group_id": 8,
+    "part_id": 4
+  },
+  {
+    "id": 30,
+    "name": "Quarter 30",
+    "verse_count": 15,
+    "page_count": 2,
+    "group_id": 8,
+    "part_id": 4
+  },
+  {
+    "id": 31,
+    "name": "Quarter 31",
+    "verse_count": 11,
+    "page_count": 2,
+    "group_id": 8,
+    "part_id": 4
+  },
+  {
+    "id": 32,
+    "name": "Quarter 32",
+    "verse_count": 12,
+    "page_count": 3,
+    "group_id": 8,
+    "part_id": 4
+  },
+  {
+    "id": 33,
+    "name": "Quarter 33",
+    "verse_count": 12,
+    "page_count": 3,
+    "group_id": 9,
+    "part_id": 5
+  },
+  {
+    "id": 34,
+    "name": "Quarter 34",
+    "verse_count": 22,
+    "page_count": 3,
+    "group_id": 9,
+    "part_id": 5
+  },
+  {
+    "id": 35,
+    "name": "Quarter 35",
+    "verse_count": 16,
+    "page_count": 2,
+    "group_id": 9,
+    "part_id": 5
+  },
+  {
+    "id": 36,
+    "name": "Quarter 36",
+    "verse_count": 14,
+    "page_count": 3,
+    "group_id": 9,
+    "part_id": 5
+  },
+  {
+    "id": 37,
+    "name": "Quarter 37",
+    "verse_count": 12,
+    "page_count": 2,
+    "group_id": 10,
+    "part_id": 5
+  },
+  {
+    "id": 38,
+    "name": "Quarter 38",
+    "verse_count": 14,
+    "page_count": 2,
+    "group_id": 10,
+    "part_id": 5
+  },
+  {
+    "id": 39,
+    "name": "Quarter 39",
+    "verse_count": 21,
+    "page_count": 3,
+    "group_id": 10,
+    "part_id": 5
+  },
+  {
+    "id": 40,
+    "name": "Quarter 40",
+    "verse_count": 13,
+    "page_count": 2,
+    "group_id": 10,
+    "part_id": 5
+  },
+  {
+    "id": 41,
+    "name": "Quarter 41",
+    "verse_count": 15,
+    "page_count": 2,
+    "group_id": 11,
+    "part_id": 6
+  },
+  {
+    "id": 42,
+    "name": "Quarter 42",
+    "verse_count": 14,
+    "page_count": 3,
+    "group_id": 11,
+    "part_id": 6
+  },
+  {
+    "id": 43,
+    "name": "Quarter 43",
+    "verse_count": 11,
+    "page_count": 3,
+    "group_id": 11,
+    "part_id": 6
+  },
+  {
+    "id": 44,
+    "name": "Quarter 44",
+    "verse_count": 15,
+    "page_count": 3,
+    "group_id": 11,
+    "part_id": 6
+  },
+  {
+    "id": 45,
+    "name": "Quarter 45",
+    "verse_count": 14,
+    "page_count": 2,
+    "group_id": 12,
+    "part_id": 6
+  },
+  {
+    "id": 46,
+    "name": "Quarter 46",
+    "verse_count": 10,
+    "page_count": 2,
+    "group_id": 12,
+    "part_id": 6
+  },
+  {
+    "id": 47,
+    "name": "Quarter 47",
+    "verse_count": 16,
+    "page_count": 3,
+    "group_id": 12,
+    "part_id": 6
+  },
+  {
+    "id": 48,
+    "name": "Quarter 48",
+    "verse_count": 15,
+    "page_count": 2,
+    "group_id": 12,
+    "part_id": 6
+  },
+  {
+    "id": 49,
+    "name": "Quarter 49",
+    "verse_count": 15,
+    "page_count": 3,
+    "group_id": 13,
+    "part_id": 7
+  },
+  {
+    "id": 50,
+    "name": "Quarter 50",
+    "verse_count": 12,
+    "page_count": 1,
+    "group_id": 13,
+    "part_id": 7
+  },
+  {
+    "id": 51,
+    "name": "Quarter 51",
+    "verse_count": 24,
+    "page_count": 4,
+    "group_id": 13,
+    "part_id": 7
+  },
+  {
+    "id": 52,
+    "name": "Quarter 52",
+    "verse_count": 23,
+    "page_count": 2,
+    "group_id": 13,
+    "part_id": 7
+  },
+  {
+    "id": 53,
+    "name": "Quarter 53",
+    "verse_count": 23,
+    "page_count": 3,
+    "group_id": 14,
+    "part_id": 7
+  },
+  {
+    "id": 54,
+    "name": "Quarter 54",
+    "verse_count": 15,
+    "page_count": 2,
+    "group_id": 14,
+    "part_id": 7
+  },
+  {
+    "id": 55,
+    "name": "Quarter 55",
+    "verse_count": 21,
+    "page_count": 3,
+    "group_id": 14,
+    "part_id": 7
+  },
+  {
+    "id": 56,
+    "name": "Quarter 56",
+    "verse_count": 16,
+    "page_count": 2,
+    "group_id": 14,
+    "part_id": 7
+  },
+  {
+    "id": 57,
+    "name": "Quarter 57",
+    "verse_count": 16,
+    "page_count": 3,
+    "group_id": 15,
+    "part_id": 8
+  },
+  {
+    "id": 58,
+    "name": "Quarter 58",
+    "verse_count": 14,
+    "page_count": 2,
+    "group_id": 15,
+    "part_id": 8
+  },
+  {
+    "id": 59,
+    "name": "Quarter 59",
+    "verse_count": 10,
+    "page_count": 2,
+    "group_id": 15,
+    "part_id": 8
+  },
+  {
+    "id": 60,
+    "name": "Quarter 60",
+    "verse_count": 15,
+    "page_count": 2,
+    "group_id": 15,
+    "part_id": 8
+  },
+  {
+    "id": 61,
+    "name": "Quarter 61",
+    "verse_count": 30,
+    "page_count": 3,
+    "group_id": 16,
+    "part_id": 8
+  },
+  {
+    "id": 62,
+    "name": "Quarter 62",
+    "verse_count": 16,
+    "page_count": 3,
+    "group_id": 16,
+    "part_id": 8
+  },
+  {
+    "id": 63,
+    "name": "Quarter 63",
+    "verse_count": 18,
+    "page_count": 2,
+    "group_id": 16,
+    "part_id": 8
+  },
+  {
+    "id": 64,
+    "name": "Quarter 64",
+    "verse_count": 23,
+    "page_count": 3,
+    "group_id": 16,
+    "part_id": 8
+  },
+  {
+    "id": 65,
+    "name": "Quarter 65",
+    "verse_count": 29,
+    "page_count": 3,
+    "group_id": 17,
+    "part_id": 9
+  },
+  {
+    "id": 66,
+    "name": "Quarter 66",
+    "verse_count": 25,
+    "page_count": 3,
+    "group_id": 17,
+    "part_id": 9
+  },
+  {
+    "id": 67,
+    "name": "Quarter 67",
+    "verse_count": 14,
+    "page_count": 2,
+    "group_id": 17,
+    "part_id": 9
+  },
+  {
+    "id": 68,
+    "name": "Quarter 68",
+    "verse_count": 15,
+    "page_count": 3,
+    "group_id": 17,
+    "part_id": 9
+  },
+  {
+    "id": 69,
+    "name": "Quarter 69",
+    "verse_count": 18,
+    "page_count": 3,
+    "group_id": 18,
+    "part_id": 9
+  },
+  {
+    "id": 70,
+    "name": "Quarter 70",
+    "verse_count": 18,
+    "page_count": 1,
+    "group_id": 18,
+    "part_id": 9
+  },
+  {
+    "id": 71,
+    "name": "Quarter 71",
+    "verse_count": 21,
+    "page_count": 3,
+    "group_id": 18,
+    "part_id": 9
+  },
+  {
+    "id": 72,
+    "name": "Quarter 72",
+    "verse_count": 19,
+    "page_count": 2,
+    "group_id": 18,
+    "part_id": 9
+  },
+  {
+    "id": 73,
+    "name": "Quarter 73",
+    "verse_count": 20,
+    "page_count": 3,
+    "group_id": 19,
+    "part_id": 10
+  },
+  {
+    "id": 74,
+    "name": "Quarter 74",
+    "verse_count": 15,
+    "page_count": 2,
+    "group_id": 19,
+    "part_id": 10
+  },
+  {
+    "id": 75,
+    "name": "Quarter 75",
+    "verse_count": 18,
+    "page_count": 3,
+    "group_id": 19,
+    "part_id": 10
+  },
+  {
+    "id": 76,
+    "name": "Quarter 76",
+    "verse_count": 15,
+    "page_count": 3,
+    "group_id": 19,
+    "part_id": 10
+  },
+  {
+    "id": 77,
+    "name": "Quarter 77",
+    "verse_count": 12,
+    "page_count": 2,
+    "group_id": 20,
+    "part_id": 10
+  },
+  {
+    "id": 78,
+    "name": "Quarter 78",
+    "verse_count": 14,
+    "page_count": 2,
+    "group_id": 20,
+    "part_id": 10
+  },
+  {
+    "id": 79,
+    "name": "Quarter 79",
+    "verse_count": 15,
+    "page_count": 3,
+    "group_id": 20,
+    "part_id": 10
+  },
+  {
+    "id": 80,
+    "name": "Quarter 80",
+    "verse_count": 18,
+    "page_count": 2,
+    "group_id": 20,
+    "part_id": 10
+  },
+  {
+    "id": 81,
+    "name": "Quarter 81",
+    "verse_count": 18,
+    "page_count": 3,
+    "group_id": 21,
+    "part_id": 11
+  },
+  {
+    "id": 82,
+    "name": "Quarter 82",
+    "verse_count": 11,
+    "page_count": 2,
+    "group_id": 21,
+    "part_id": 11
+  },
+  {
+    "id": 83,
+    "name": "Quarter 83",
+    "verse_count": 18,
+    "page_count": 3,
+    "group_id": 21,
+    "part_id": 11
+  },
+  {
+    "id": 84,
+    "name": "Quarter 84",
+    "verse_count": 15,
+    "page_count": 2,
+    "group_id": 21,
+    "part_id": 11
+  },
+  {
+    "id": 85,
+    "name": "Quarter 85",
+    "verse_count": 27,
+    "page_count": 3,
+    "group_id": 22,
+    "part_id": 11
+  },
+  {
+    "id": 86,
+    "name": "Quarter 86",
+    "verse_count": 18,
+    "page_count": 2,
+    "group_id": 22,
+    "part_id": 11
+  },
+  {
+    "id": 87,
+    "name": "Quarter 87",
+    "verse_count": 19,
+    "page_count": 3,
+    "group_id": 22,
+    "part_id": 11
+  },
+  {
+    "id": 88,
+    "name": "Quarter 88",
+    "verse_count": 25,
+    "page_count": 2,
+    "group_id": 22,
+    "part_id": 11
+  },
+  {
+    "id": 89,
+    "name": "Quarter 89",
+    "verse_count": 18,
+    "page_count": 3,
+    "group_id": 23,
+    "part_id": 12
+  },
+  {
+    "id": 90,
+    "name": "Quarter 90",
+    "verse_count": 17,
+    "page_count": 2,
+    "group_id": 23,
+    "part_id": 12
+  },
+  {
+    "id": 91,
+    "name": "Quarter 91",
+    "verse_count": 20,
+    "page_count": 2,
+    "group_id": 23,
+    "part_id": 12
+  },
+  {
+    "id": 92,
+    "name": "Quarter 92",
+    "verse_count": 23,
+    "page_count": 3,
+    "group_id": 23,
+    "part_id": 12
+  },
+  {
+    "id": 93,
+    "name": "Quarter 93",
+    "verse_count": 24,
+    "page_count": 2,
+    "group_id": 24,
+    "part_id": 12
+  },
+  {
+    "id": 94,
+    "name": "Quarter 94",
+    "verse_count": 22,
+    "page_count": 3,
+    "group_id": 24,
+    "part_id": 12
+  },
+  {
+    "id": 95,
+    "name": "Quarter 95",
+    "verse_count": 23,
+    "page_count": 2,
+    "group_id": 24,
+    "part_id": 12
+  },
+  {
+    "id": 96,
+    "name": "Quarter 96",
+    "verse_count": 23,
+    "page_count": 3,
+    "group_id": 24,
+    "part_id": 12
+  },
+  {
+    "id": 97,
+    "name": "Quarter 97",
+    "verse_count": 24,
+    "page_count": 3,
+    "group_id": 25,
+    "part_id": 13
+  },
+  {
+    "id": 98,
+    "name": "Quarter 98",
+    "verse_count": 24,
+    "page_count": 3,
+    "group_id": 25,
+    "part_id": 13
+  },
+  {
+    "id": 99,
+    "name": "Quarter 99",
+    "verse_count": 15,
+    "page_count": 2,
+    "group_id": 25,
+    "part_id": 13
+  },
+  {
+    "id": 100,
+    "name": "Quarter 100",
+    "verse_count": 14,
+    "page_count": 2,
+    "group_id": 25,
+    "part_id": 13
+  },
+  {
+    "id": 101,
+    "name": "Quarter 101",
+    "verse_count": 16,
+    "page_count": 2,
+    "group_id": 26,
+    "part_id": 13
+  },
+  {
+    "id": 102,
+    "name": "Quarter 102",
+    "verse_count": 18,
+    "page_count": 3,
+    "group_id": 26,
+    "part_id": 13
+  },
+  {
+    "id": 103,
+    "name": "Quarter 103",
+    "verse_count": 18,
+    "page_count": 3,
+    "group_id": 26,
+    "part_id": 13
+  },
+  {
+    "id": 104,
+    "name": "Quarter 104",
+    "verse_count": 25,
+    "page_count": 2,
+    "group_id": 26,
+    "part_id": 13
+  },
+  {
+    "id": 105,
+    "name": "Quarter 105",
+    "verse_count": 49,
+    "page_count": 3,
+    "group_id": 27,
+    "part_id": 14
+  },
+  {
+    "id": 106,
+    "name": "Quarter 106",
+    "verse_count": 50,
+    "page_count": 3,
+    "group_id": 27,
+    "part_id": 14
+  },
+  {
+    "id": 107,
+    "name": "Quarter 107",
+    "verse_count": 29,
+    "page_count": 3,
+    "group_id": 27,
+    "part_id": 14
+  },
+  {
+    "id": 108,
+    "name": "Quarter 108",
+    "verse_count": 21,
+    "page_count": 2,
+    "group_id": 27,
+    "part_id": 14
+  },
+  {
+    "id": 109,
+    "name": "Quarter 109",
+    "verse_count": 24,
+    "page_count": 3,
+    "group_id": 28,
+    "part_id": 14
+  },
+  {
+    "id": 110,
+    "name": "Quarter 110",
+    "verse_count": 15,
+    "page_count": 2,
+    "group_id": 28,
+    "part_id": 14
+  },
+  {
+    "id": 111,
+    "name": "Quarter 111",
+    "verse_count": 21,
+    "page_count": 2,
+    "group_id": 28,
+    "part_id": 14
+  },
+  {
+    "id": 112,
+    "name": "Quarter 112",
+    "verse_count": 18,
+    "page_count": 2,
+    "group_id": 28,
+    "part_id": 14
+  },
+  {
+    "id": 113,
+    "name": "Quarter 113",
+    "verse_count": 22,
+    "page_count": 3,
+    "group_id": 29,
+    "part_id": 15
+  },
+  {
+    "id": 114,
+    "name": "Quarter 114",
+    "verse_count": 27,
+    "page_count": 2,
+    "group_id": 29,
+    "part_id": 15
+  },
+  {
+    "id": 115,
+    "name": "Quarter 115",
+    "verse_count": 20,
+    "page_count": 3,
+    "group_id": 29,
+    "part_id": 15
+  },
+  {
+    "id": 116,
+    "name": "Quarter 116",
+    "verse_count": 29,
+    "page_count": 3,
+    "group_id": 29,
+    "part_id": 15
+  },
+  {
+    "id": 117,
+    "name": "Quarter 117",
+    "verse_count": 29,
+    "page_count": 3,
+    "group_id": 30,
+    "part_id": 15
+  },
+  {
+    "id": 118,
+    "name": "Quarter 118",
+    "verse_count": 15,
+    "page_count": 2,
+    "group_id": 30,
+    "part_id": 15
+  },
+  {
+    "id": 119,
+    "name": "Quarter 119",
+    "verse_count": 19,
+    "page_count": 2,
+    "group_id": 30,
+    "part_id": 15
+  },
+  {
+    "id": 120,
+    "name": "Quarter 120",
+    "verse_count": 24,
+    "page_count": 2,
+    "group_id": 30,
+    "part_id": 15
+  },
+  {
+    "id": 121,
+    "name": "Quarter 121",
+    "verse_count": 24,
+    "page_count": 3,
+    "group_id": 31,
+    "part_id": 16
+  },
+  {
+    "id": 122,
+    "name": "Quarter 122",
+    "verse_count": 33,
+    "page_count": 2,
+    "group_id": 31,
+    "part_id": 16
+  },
+  {
+    "id": 123,
+    "name": "Quarter 123",
+    "verse_count": 37,
+    "page_count": 3,
+    "group_id": 31,
+    "part_id": 16
+  },
+  {
+    "id": 124,
+    "name": "Quarter 124",
+    "verse_count": 40,
+    "page_count": 3,
+    "group_id": 31,
+    "part_id": 16
+  },
+  {
+    "id": 125,
+    "name": "Quarter 125",
+    "verse_count": 54,
+    "page_count": 3,
+    "group_id": 32,
+    "part_id": 16
+  },
+  {
+    "id": 126,
+    "name": "Quarter 126",
+    "verse_count": 28,
+    "page_count": 2,
+    "group_id": 32,
+    "part_id": 16
+  },
+  {
+    "id": 127,
+    "name": "Quarter 127",
+    "verse_count": 28,
+    "page_count": 2,
+    "group_id": 32,
+    "part_id": 16
+  },
+  {
+    "id": 128,
+    "name": "Quarter 128",
+    "verse_count": 25,
+    "page_count": 2,
+    "group_id": 32,
+    "part_id": 16
+  },
+  {
+    "id": 129,
+    "name": "Quarter 129",
+    "verse_count": 28,
+    "page_count": 3,
+    "group_id": 33,
+    "part_id": 17
+  },
+  {
+    "id": 130,
+    "name": "Quarter 130",
+    "verse_count": 22,
+    "page_count": 2,
+    "group_id": 33,
+    "part_id": 17
+  },
+  {
+    "id": 131,
+    "name": "Quarter 131",
+    "verse_count": 32,
+    "page_count": 3,
+    "group_id": 33,
+    "part_id": 17
+  },
+  {
+    "id": 132,
+    "name": "Quarter 132",
+    "verse_count": 30,
+    "page_count": 2,
+    "group_id": 33,
+    "part_id": 17
+  },
+  {
+    "id": 133,
+    "name": "Quarter 133",
+    "verse_count": 18,
+    "page_count": 3,
+    "group_id": 34,
+    "part_id": 17
+  },
+  {
+    "id": 134,
+    "name": "Quarter 134",
+    "verse_count": 19,
+    "page_count": 2,
+    "group_id": 34,
+    "part_id": 17
+  },
+  {
+    "id": 135,
+    "name": "Quarter 135",
+    "verse_count": 22,
+    "page_count": 3,
+    "group_id": 34,
+    "part_id": 17
+  },
+  {
+    "id": 136,
+    "name": "Quarter 136",
+    "verse_count": 19,
+    "page_count": 2,
+    "group_id": 34,
+    "part_id": 17
+  },
+  {
+    "id": 137,
+    "name": "Quarter 137",
+    "verse_count": 35,
+    "page_count": 3,
+    "group_id": 35,
+    "part_id": 18
+  },
+  {
+    "id": 138,
+    "name": "Quarter 138",
+    "verse_count": 39,
+    "page_count": 2,
+    "group_id": 35,
+    "part_id": 18
+  },
+  {
+    "id": 139,
+    "name": "Quarter 139",
+    "verse_count": 44,
+    "page_count": 3,
+    "group_id": 35,
+    "part_id": 18
+  },
+  {
+    "id": 140,
+    "name": "Quarter 140",
+    "verse_count": 20,
+    "page_count": 2,
+    "group_id": 35,
+    "part_id": 18
+  },
+  {
+    "id": 141,
+    "name": "Quarter 141",
+    "verse_count": 14,
+    "page_count": 3,
+    "group_id": 36,
+    "part_id": 18
+  },
+  {
+    "id": 142,
+    "name": "Quarter 142",
+    "verse_count": 18,
+    "page_count": 2,
+    "group_id": 36,
+    "part_id": 18
+  },
+  {
+    "id": 143,
+    "name": "Quarter 143",
+    "verse_count": 12,
+    "page_count": 3,
+    "group_id": 36,
+    "part_id": 18
+  },
+  {
+    "id": 144,
+    "name": "Quarter 144",
+    "verse_count": 20,
+    "page_count": 2,
+    "group_id": 36,
+    "part_id": 18
+  },
+  {
+    "id": 145,
+    "name": "Quarter 145",
+    "verse_count": 32,
+    "page_count": 3,
+    "group_id": 37,
+    "part_id": 19
+  },
+  {
+    "id": 146,
+    "name": "Quarter 146",
+    "verse_count": 25,
+    "page_count": 2,
+    "group_id": 37,
+    "part_id": 19
+  },
+  {
+    "id": 147,
+    "name": "Quarter 147",
+    "verse_count": 51,
+    "page_count": 3,
+    "group_id": 37,
+    "part_id": 19
+  },
+  {
+    "id": 148,
+    "name": "Quarter 148",
+    "verse_count": 59,
+    "page_count": 2,
+    "group_id": 37,
+    "part_id": 19
+  },
+  {
+    "id": 149,
+    "name": "Quarter 149",
+    "verse_count": 70,
+    "page_count": 3,
+    "group_id": 38,
+    "part_id": 19
+  },
+  {
+    "id": 150,
+    "name": "Quarter 150",
+    "verse_count": 47,
+    "page_count": 2,
+    "group_id": 38,
+    "part_id": 19
+  },
+  {
+    "id": 151,
+    "name": "Quarter 151",
+    "verse_count": 26,
+    "page_count": 3,
+    "group_id": 38,
+    "part_id": 19
+  },
+  {
+    "id": 152,
+    "name": "Quarter 152",
+    "verse_count": 29,
+    "page_count": 2,
+    "group_id": 38,
+    "part_id": 19
+  },
+  {
+    "id": 153,
+    "name": "Quarter 153",
+    "verse_count": 26,
+    "page_count": 3,
+    "group_id": 39,
+    "part_id": 20
+  },
+  {
+    "id": 154,
+    "name": "Quarter 154",
+    "verse_count": 23,
+    "page_count": 2,
+    "group_id": 39,
+    "part_id": 20
+  },
+  {
+    "id": 155,
+    "name": "Quarter 155",
+    "verse_count": 17,
+    "page_count": 2,
+    "group_id": 39,
+    "part_id": 20
+  },
+  {
+    "id": 156,
+    "name": "Quarter 156",
+    "verse_count": 22,
+    "page_count": 3,
+    "group_id": 39,
+    "part_id": 20
+  },
+  {
+    "id": 157,
+    "name": "Quarter 157",
+    "verse_count": 25,
+    "page_count": 3,
+    "group_id": 40,
+    "part_id": 20
+  },
+  {
+    "id": 158,
+    "name": "Quarter 158",
+    "verse_count": 13,
+    "page_count": 2,
+    "group_id": 40,
+    "part_id": 20
+  },
+  {
+    "id": 159,
+    "name": "Quarter 159",
+    "verse_count": 25,
+    "page_count": 3,
+    "group_id": 40,
+    "part_id": 20
+  },
+  {
+    "id": 160,
+    "name": "Quarter 160",
+    "verse_count": 20,
+    "page_count": 2,
+    "group_id": 40,
+    "part_id": 20
+  },
+  {
+    "id": 161,
+    "name": "Quarter 161",
+    "verse_count": 24,
+    "page_count": 3,
+    "group_id": 41,
+    "part_id": 21
+  },
+  {
+    "id": 162,
+    "name": "Quarter 162",
+    "verse_count": 30,
+    "page_count": 3,
+    "group_id": 41,
+    "part_id": 21
+  },
+  {
+    "id": 163,
+    "name": "Quarter 163",
+    "verse_count": 23,
+    "page_count": 3,
+    "group_id": 41,
+    "part_id": 21
+  },
+  {
+    "id": 164,
+    "name": "Quarter 164",
+    "verse_count": 28,
+    "page_count": 3,
+    "group_id": 41,
+    "part_id": 21
+  },
+  {
+    "id": 165,
+    "name": "Quarter 165",
+    "verse_count": 23,
+    "page_count": 2,
+    "group_id": 42,
+    "part_id": 21
+  },
+  {
+    "id": 166,
+    "name": "Quarter 166",
+    "verse_count": 20,
+    "page_count": 2,
+    "group_id": 42,
+    "part_id": 21
+  },
+  {
+    "id": 167,
+    "name": "Quarter 167",
+    "verse_count": 17,
+    "page_count": 3,
+    "group_id": 42,
+    "part_id": 21
+  },
+  {
+    "id": 168,
+    "name": "Quarter 168",
+    "verse_count": 13,
+    "page_count": 1,
+    "group_id": 42,
+    "part_id": 21
+  },
+  {
+    "id": 169,
+    "name": "Quarter 169",
+    "verse_count": 20,
+    "page_count": 3,
+    "group_id": 43,
+    "part_id": 22
+  },
+  {
+    "id": 170,
+    "name": "Quarter 170",
+    "verse_count": 9,
+    "page_count": 2,
+    "group_id": 43,
+    "part_id": 22
+  },
+  {
+    "id": 171,
+    "name": "Quarter 171",
+    "verse_count": 23,
+    "page_count": 3,
+    "group_id": 43,
+    "part_id": 22
+  },
+  {
+    "id": 172,
+    "name": "Quarter 172",
+    "verse_count": 14,
+    "page_count": 2,
+    "group_id": 43,
+    "part_id": 22
+  },
+  {
+    "id": 173,
+    "name": "Quarter 173",
+    "verse_count": 22,
+    "page_count": 2,
+    "group_id": 44,
+    "part_id": 22
+  },
+  {
+    "id": 174,
+    "name": "Quarter 174",
+    "verse_count": 23,
+    "page_count": 3,
+    "group_id": 44,
+    "part_id": 22
+  },
+  {
+    "id": 175,
+    "name": "Quarter 175",
+    "verse_count": 26,
+    "page_count": 3,
+    "group_id": 44,
+    "part_id": 22
+  },
+  {
+    "id": 176,
+    "name": "Quarter 176",
+    "verse_count": 32,
+    "page_count": 2,
+    "group_id": 44,
+    "part_id": 22
+  },
+  {
+    "id": 177,
+    "name": "Quarter 177",
+    "verse_count": 32,
+    "page_count": 3,
+    "group_id": 45,
+    "part_id": 23
+  },
+  {
+    "id": 178,
+    "name": "Quarter 178",
+    "verse_count": 45,
+    "page_count": 2,
+    "group_id": 45,
+    "part_id": 23
+  },
+  {
+    "id": 179,
+    "name": "Quarter 179",
+    "verse_count": 61,
+    "page_count": 3,
+    "group_id": 45,
+    "part_id": 23
+  },
+  {
+    "id": 180,
+    "name": "Quarter 180",
+    "verse_count": 62,
+    "page_count": 2,
+    "group_id": 45,
+    "part_id": 23
+  },
+  {
+    "id": 181,
+    "name": "Quarter 181",
+    "verse_count": 58,
+    "page_count": 3,
+    "group_id": 46,
+    "part_id": 23
+  },
+  {
+    "id": 182,
+    "name": "Quarter 182",
+    "verse_count": 31,
+    "page_count": 2,
+    "group_id": 46,
+    "part_id": 23
+  },
+  {
+    "id": 183,
+    "name": "Quarter 183",
+    "verse_count": 44,
+    "page_count": 3,
+    "group_id": 46,
+    "part_id": 23
+  },
+  {
+    "id": 184,
+    "name": "Quarter 184",
+    "verse_count": 24,
+    "page_count": 2,
+    "group_id": 46,
+    "part_id": 23
+  },
+  {
+    "id": 185,
+    "name": "Quarter 185",
+    "verse_count": 21,
+    "page_count": 3,
+    "group_id": 47,
+    "part_id": 24
+  },
+  {
+    "id": 186,
+    "name": "Quarter 186",
+    "verse_count": 23,
+    "page_count": 3,
+    "group_id": 47,
+    "part_id": 24
+  },
+  {
+    "id": 187,
+    "name": "Quarter 187",
+    "verse_count": 20,
+    "page_count": 2,
+    "group_id": 47,
+    "part_id": 24
+  },
+  {
+    "id": 188,
+    "name": "Quarter 188",
+    "verse_count": 20,
+    "page_count": 2,
+    "group_id": 47,
+    "part_id": 24
+  },
+  {
+    "id": 189,
+    "name": "Quarter 189",
+    "verse_count": 25,
+    "page_count": 3,
+    "group_id": 48,
+    "part_id": 24
+  },
+  {
+    "id": 190,
+    "name": "Quarter 190",
+    "verse_count": 28,
+    "page_count": 3,
+    "group_id": 48,
+    "part_id": 24
+  },
+  {
+    "id": 191,
+    "name": "Quarter 191",
+    "verse_count": 16,
+    "page_count": 2,
+    "group_id": 48,
+    "part_id": 24
+  },
+  {
+    "id": 192,
+    "name": "Quarter 192",
+    "verse_count": 22,
+    "page_count": 2,
+    "group_id": 48,
+    "part_id": 24
+  },
+  {
+    "id": 193,
+    "name": "Quarter 193",
+    "verse_count": 20,
+    "page_count": 3,
+    "group_id": 49,
+    "part_id": 25
+  },
+  {
+    "id": 194,
+    "name": "Quarter 194",
+    "verse_count": 14,
+    "page_count": 2,
+    "group_id": 49,
+    "part_id": 25
+  },
+  {
+    "id": 195,
+    "name": "Quarter 195",
+    "verse_count": 24,
+    "page_count": 2,
+    "group_id": 49,
+    "part_id": 25
+  },
+  {
+    "id": 196,
+    "name": "Quarter 196",
+    "verse_count": 26,
+    "page_count": 3,
+    "group_id": 49,
+    "part_id": 25
+  },
+  {
+    "id": 197,
+    "name": "Quarter 197",
+    "verse_count": 33,
+    "page_count": 2,
+    "group_id": 50,
+    "part_id": 25
+  },
+  {
+    "id": 198,
+    "name": "Quarter 198",
+    "verse_count": 49,
+    "page_count": 3,
+    "group_id": 50,
+    "part_id": 25
+  },
+  {
+    "id": 199,
+    "name": "Quarter 199",
+    "verse_count": 54,
+    "page_count": 3,
+    "group_id": 50,
+    "part_id": 25
+  },
+  {
+    "id": 200,
+    "name": "Quarter 200",
+    "verse_count": 26,
+    "page_count": 3,
+    "group_id": 50,
+    "part_id": 25
+  },
+  {
+    "id": 201,
+    "name": "Quarter 201",
+    "verse_count": 20,
+    "page_count": 2,
+    "group_id": 51,
+    "part_id": 26
+  },
+  {
+    "id": 202,
+    "name": "Quarter 202",
+    "verse_count": 24,
+    "page_count": 3,
+    "group_id": 51,
+    "part_id": 26
+  },
+  {
+    "id": 203,
+    "name": "Quarter 203",
+    "verse_count": 23,
+    "page_count": 3,
+    "group_id": 51,
+    "part_id": 26
+  },
+  {
+    "id": 204,
+    "name": "Quarter 204",
+    "verse_count": 23,
+    "page_count": 3,
+    "group_id": 51,
+    "part_id": 26
+  },
+  {
+    "id": 205,
+    "name": "Quarter 205",
+    "verse_count": 12,
+    "page_count": 2,
+    "group_id": 52,
+    "part_id": 26
+  },
+  {
+    "id": 206,
+    "name": "Quarter 206",
+    "verse_count": 13,
+    "page_count": 2,
+    "group_id": 52,
+    "part_id": 26
+  },
+  {
+    "id": 207,
+    "name": "Quarter 207",
+    "verse_count": 31,
+    "page_count": 2,
+    "group_id": 52,
+    "part_id": 26
+  },
+  {
+    "id": 208,
+    "name": "Quarter 208",
+    "verse_count": 49,
+    "page_count": 2,
+    "group_id": 52,
+    "part_id": 26
+  },
+  {
+    "id": 209,
+    "name": "Quarter 209",
+    "verse_count": 53,
+    "page_count": 3,
+    "group_id": 53,
+    "part_id": 27
+  },
+  {
+    "id": 210,
+    "name": "Quarter 210",
+    "verse_count": 51,
+    "page_count": 2,
+    "group_id": 53,
+    "part_id": 27
+  },
+  {
+    "id": 211,
+    "name": "Quarter 211",
+    "verse_count": 45,
+    "page_count": 3,
+    "group_id": 53,
+    "part_id": 27
+  },
+  {
+    "id": 212,
+    "name": "Quarter 212",
+    "verse_count": 47,
+    "page_count": 2,
+    "group_id": 53,
+    "part_id": 27
+  },
+  {
+    "id": 213,
+    "name": "Quarter 213",
+    "verse_count": 78,
+    "page_count": 3,
+    "group_id": 54,
+    "part_id": 27
+  },
+  {
+    "id": 214,
+    "name": "Quarter 214",
+    "verse_count": 74,
+    "page_count": 2,
+    "group_id": 54,
+    "part_id": 27
+  },
+  {
+    "id": 215,
+    "name": "Quarter 215",
+    "verse_count": 37,
+    "page_count": 3,
+    "group_id": 54,
+    "part_id": 27
+  },
+  {
+    "id": 216,
+    "name": "Quarter 216",
+    "verse_count": 14,
+    "page_count": 2,
+    "group_id": 54,
+    "part_id": 27
+  },
+  {
+    "id": 217,
+    "name": "Quarter 217",
+    "verse_count": 13,
+    "page_count": 3,
+    "group_id": 55,
+    "part_id": 28
+  },
+  {
+    "id": 218,
+    "name": "Quarter 218",
+    "verse_count": 19,
+    "page_count": 3,
+    "group_id": 55,
+    "part_id": 28
+  },
+  {
+    "id": 219,
+    "name": "Quarter 219",
+    "verse_count": 20,
+    "page_count": 3,
+    "group_id": 55,
+    "part_id": 28
+  },
+  {
+    "id": 220,
+    "name": "Quarter 220",
+    "verse_count": 21,
+    "page_count": 2,
+    "group_id": 55,
+    "part_id": 28
+  },
+  {
+    "id": 221,
+    "name": "Quarter 221",
+    "verse_count": 14,
+    "page_count": 2,
+    "group_id": 56,
+    "part_id": 28
+  },
+  {
+    "id": 222,
+    "name": "Quarter 222",
+    "verse_count": 26,
+    "page_count": 3,
+    "group_id": 56,
+    "part_id": 28
+  },
+  {
+    "id": 223,
+    "name": "Quarter 223",
+    "verse_count": 12,
+    "page_count": 2,
+    "group_id": 56,
+    "part_id": 28
+  },
+  {
+    "id": 224,
+    "name": "Quarter 224",
+    "verse_count": 12,
+    "page_count": 2,
+    "group_id": 56,
+    "part_id": 28
+  },
+  {
+    "id": 225,
+    "name": "Quarter 225",
+    "verse_count": 30,
+    "page_count": 3,
+    "group_id": 57,
+    "part_id": 29
+  },
+  {
+    "id": 226,
+    "name": "Quarter 226",
+    "verse_count": 52,
+    "page_count": 2,
+    "group_id": 57,
+    "part_id": 29
+  },
+  {
+    "id": 227,
+    "name": "Quarter 227",
+    "verse_count": 70,
+    "page_count": 3,
+    "group_id": 57,
+    "part_id": 29
+  },
+  {
+    "id": 228,
+    "name": "Quarter 228",
+    "verse_count": 54,
+    "page_count": 2,
+    "group_id": 57,
+    "part_id": 29
+  },
+  {
+    "id": 229,
+    "name": "Quarter 229",
+    "verse_count": 47,
+    "page_count": 3,
+    "group_id": 58,
+    "part_id": 29
+  },
+  {
+    "id": 230,
+    "name": "Quarter 230",
+    "verse_count": 57,
+    "page_count": 3,
+    "group_id": 58,
+    "part_id": 29
+  },
+  {
+    "id": 231,
+    "name": "Quarter 231",
+    "verse_count": 58,
+    "page_count": 2,
+    "group_id": 58,
+    "part_id": 29
+  },
+  {
+    "id": 232,
+    "name": "Quarter 232",
+    "verse_count": 63,
+    "page_count": 2,
+    "group_id": 58,
+    "part_id": 29
+  },
+  {
+    "id": 233,
+    "name": "Quarter 233",
+    "verse_count": 86,
+    "page_count": 3,
+    "group_id": 59,
+    "part_id": 30
+  },
+  {
+    "id": 234,
+    "name": "Quarter 234",
+    "verse_count": 71,
+    "page_count": 2,
+    "group_id": 59,
+    "part_id": 30
+  },
+  {
+    "id": 235,
+    "name": "Quarter 235",
+    "verse_count": 55,
+    "page_count": 3,
+    "group_id": 59,
+    "part_id": 30
+  },
+  {
+    "id": 236,
+    "name": "Quarter 236",
+    "verse_count": 64,
+    "page_count": 2,
+    "group_id": 59,
+    "part_id": 30
+  },
+  {
+    "id": 237,
+    "name": "Quarter 237",
+    "verse_count": 75,
+    "page_count": 3,
+    "group_id": 60,
+    "part_id": 30
+  },
+  {
+    "id": 238,
+    "name": "Quarter 238",
+    "verse_count": 67,
+    "page_count": 2,
+    "group_id": 60,
+    "part_id": 30
+  },
+  {
+    "id": 239,
+    "name": "Quarter 239",
+    "verse_count": 64,
+    "page_count": 3,
+    "group_id": 60,
+    "part_id": 30
+  },
+  {
+    "id": 240,
+    "name": "Quarter 240",
+    "verse_count": 82,
+    "page_count": 5,
+    "group_id": 60,
+    "part_id": 30
+  }
+]

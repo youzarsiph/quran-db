@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "name": "Group 1",
+    "verse_count": 81,
+    "page_count": 11,
+    "part_id": 1
+  },
+  {
+    "id": 2,
+    "name": "Group 2",
+    "verse_count": 67,
+    "page_count": 10,
+    "part_id": 1
+  },
+  {
+    "id": 3,
+    "name": "Group 3",
+    "verse_count": 61,
+    "page_count": 10,
+    "part_id": 2
+  },
+  {
+    "id": 4,
+    "name": "Group 4",
+    "verse_count": 50,
+    "page_count": 10,
+    "part_id": 2
+  },
+  {
+    "id": 5,
+    "name": "Group 5",
+    "verse_count": 48,
+    "page_count": 10,
+    "part_id": 3
+  },
+  {
+    "id": 6,
+    "name": "Group 6",
+    "verse_count": 78,
+    "page_count": 11,
+    "part_id": 3
+  },
+  {
+    "id": 7,
+    "name": "Group 7",
+    "verse_count": 78,
+    "page_count": 10,
+    "part_id": 4
+  },
+  {
+    "id": 8,
+    "name": "Group 8",
+    "verse_count": 53,
+    "page_count": 9,
+    "part_id": 4
+  },
+  {
+    "id": 9,
+    "name": "Group 9",
+    "verse_count": 64,
+    "page_count": 11,
+    "part_id": 5
+  },
+  {
+    "id": 10,
+    "name": "Group 10",
+    "verse_count": 60,
+    "page_count": 9,
+    "part_id": 5
+  },
+  {
+    "id": 11,
+    "name": "Group 11",
+    "verse_count": 55,
+    "page_count": 11,
+    "part_id": 6
+  },
+  {
+    "id": 12,
+    "name": "Group 12",
+    "verse_count": 55,
+    "page_count": 9,
+    "part_id": 6
+  },
+  {
+    "id": 13,
+    "name": "Group 13",
+    "verse_count": 74,
+    "page_count": 10,
+    "part_id": 7
+  },
+  {
+    "id": 14,
+    "name": "Group 14",
+    "verse_count": 75,
+    "page_count": 10,
+    "part_id": 7
+  },
+  {
+    "id": 15,
+    "name": "Group 15",
+    "verse_count": 55,
+    "page_count": 9,
+    "part_id": 8
+  },
+  {
+    "id": 16,
+    "name": "Group 16",
+    "verse_count": 87,
+    "page_count": 11,
+    "part_id": 8
+  },
+  {
+    "id": 17,
+    "name": "Group 17",
+    "verse_count": 83,
+    "page_count": 11,
+    "part_id": 9
+  },
+  {
+    "id": 18,
+    "name": "Group 18",
+    "verse_count": 76,
+    "page_count": 9,
+    "part_id": 9
+  },
+  {
+    "id": 19,
+    "name": "Group 19",
+    "verse_count": 68,
+    "page_count": 11,
+    "part_id": 10
+  },
+  {
+    "id": 20,
+    "name": "Group 20",
+    "verse_count": 59,
+    "page_count": 9,
+    "part_id": 10
+  },
+  {
+    "id": 21,
+    "name": "Group 21",
+    "verse_count": 62,
+    "page_count": 10,
+    "part_id": 11
+  },
+  {
+    "id": 22,
+    "name": "Group 22",
+    "verse_count": 89,
+    "page_count": 10,
+    "part_id": 11
+  },
+  {
+    "id": 23,
+    "name": "Group 23",
+    "verse_count": 78,
+    "page_count": 10,
+    "part_id": 12
+  },
+  {
+    "id": 24,
+    "name": "Group 24",
+    "verse_count": 92,
+    "page_count": 10,
+    "part_id": 12
+  },
+  {
+    "id": 25,
+    "name": "Group 25",
+    "verse_count": 77,
+    "page_count": 10,
+    "part_id": 13
+  },
+  {
+    "id": 26,
+    "name": "Group 26",
+    "verse_count": 77,
+    "page_count": 10,
+    "part_id": 13
+  },
+  {
+    "id": 27,
+    "name": "Group 27",
+    "verse_count": 149,
+    "page_count": 11,
+    "part_id": 14
+  },
+  {
+    "id": 28,
+    "name": "Group 28",
+    "verse_count": 78,
+    "page_count": 9,
+    "part_id": 14
+  },
+  {
+    "id": 29,
+    "name": "Group 29",
+    "verse_count": 98,
+    "page_count": 11,
+    "part_id": 15
+  },
+  {
+    "id": 30,
+    "name": "Group 30",
+    "verse_count": 87,
+    "page_count": 9,
+    "part_id": 15
+  },
+  {
+    "id": 31,
+    "name": "Group 31",
+    "verse_count": 134,
+    "page_count": 11,
+    "part_id": 16
+  },
+  {
+    "id": 32,
+    "name": "Group 32",
+    "verse_count": 135,
+    "page_count": 9,
+    "part_id": 16
+  },
+  {
+    "id": 33,
+    "name": "Group 33",
+    "verse_count": 112,
+    "page_count": 10,
+    "part_id": 17
+  },
+  {
+    "id": 34,
+    "name": "Group 34",
+    "verse_count": 78,
+    "page_count": 10,
+    "part_id": 17
+  },
+  {
+    "id": 35,
+    "name": "Group 35",
+    "verse_count": 138,
+    "page_count": 10,
+    "part_id": 18
+  },
+  {
+    "id": 36,
+    "name": "Group 36",
+    "verse_count": 64,
+    "page_count": 10,
+    "part_id": 18
+  },
+  {
+    "id": 37,
+    "name": "Group 37",
+    "verse_count": 167,
+    "page_count": 10,
+    "part_id": 19
+  },
+  {
+    "id": 38,
+    "name": "Group 38",
+    "verse_count": 172,
+    "page_count": 10,
+    "part_id": 19
+  },
+  {
+    "id": 39,
+    "name": "Group 39",
+    "verse_count": 88,
+    "page_count": 10,
+    "part_id": 20
+  },
+  {
+    "id": 40,
+    "name": "Group 40",
+    "verse_count": 83,
+    "page_count": 10,
+    "part_id": 20
+  },
+  {
+    "id": 41,
+    "name": "Group 41",
+    "verse_count": 105,
+    "page_count": 12,
+    "part_id": 21
+  },
+  {
+    "id": 42,
+    "name": "Group 42",
+    "verse_count": 73,
+    "page_count": 8,
+    "part_id": 21
+  },
+  {
+    "id": 43,
+    "name": "Group 43",
+    "verse_count": 66,
+    "page_count": 10,
+    "part_id": 22
+  },
+  {
+    "id": 44,
+    "name": "Group 44",
+    "verse_count": 103,
+    "page_count": 10,
+    "part_id": 22
+  },
+  {
+    "id": 45,
+    "name": "Group 45",
+    "verse_count": 200,
+    "page_count": 10,
+    "part_id": 23
+  },
+  {
+    "id": 46,
+    "name": "Group 46",
+    "verse_count": 157,
+    "page_count": 10,
+    "part_id": 23
+  },
+  {
+    "id": 47,
+    "name": "Group 47",
+    "verse_count": 84,
+    "page_count": 10,
+    "part_id": 24
+  },
+  {
+    "id": 48,
+    "name": "Group 48",
+    "verse_count": 91,
+    "page_count": 10,
+    "part_id": 24
+  },
+  {
+    "id": 49,
+    "name": "Group 49",
+    "verse_count": 84,
+    "page_count": 10,
+    "part_id": 25
+  },
+  {
+    "id": 50,
+    "name": "Group 50",
+    "verse_count": 162,
+    "page_count": 11,
+    "part_id": 25
+  },
+  {
+    "id": 51,
+    "name": "Group 51",
+    "verse_count": 90,
+    "page_count": 11,
+    "part_id": 26
+  },
+  {
+    "id": 52,
+    "name": "Group 52",
+    "verse_count": 105,
+    "page_count": 8,
+    "part_id": 26
+  },
+  {
+    "id": 53,
+    "name": "Group 53",
+    "verse_count": 196,
+    "page_count": 10,
+    "part_id": 27
+  },
+  {
+    "id": 54,
+    "name": "Group 54",
+    "verse_count": 203,
+    "page_count": 10,
+    "part_id": 27
+  },
+  {
+    "id": 55,
+    "name": "Group 55",
+    "verse_count": 73,
+    "page_count": 11,
+    "part_id": 28
+  },
+  {
+    "id": 56,
+    "name": "Group 56",
+    "verse_count": 64,
+    "page_count": 9,
+    "part_id": 28
+  },
+  {
+    "id": 57,
+    "name": "Group 57",
+    "verse_count": 206,
+    "page_count": 10,
+    "part_id": 29
+  },
+  {
+    "id": 58,
+    "name": "Group 58",
+    "verse_count": 225,
+    "page_count": 10,
+    "part_id": 29
+  },
+  {
+    "id": 59,
+    "name": "Group 59",
+    "verse_count": 276,
+    "page_count": 10,
+    "part_id": 30
+  },
+  {
+    "id": 60,
+    "name": "Group 60",
+    "verse_count": 288,
+    "page_count": 13,
+    "part_id": 30
+  }
+]
