@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Quran-DB** is a sophisticated and comprehensive database of the Quran, available in both SQLite3 and JSON formats. Designed for optimal data organization and retrieval, it provides robust and efficient access to Quranic content and metadata. The database is meticulously structured to support various applications, including scholarly research, educational tools, and digital Quranic resources.
+**Quran-DB** is a sophisticated and comprehensive database of the Quran, available in both SQLite3 and JSON formats. Designed for optimal data organization and retrieval, it provides robust and efficient access to Quranic content and metadata. The database is meticulously structured to support various applications, including scholarly research, educational tools, and digital Quranic resources. The data in this repo is generated using [`quran-cli`](https://github.com/youzarsiph/quran-cli), you can use it to generate your own version.
 
 ## Features
 
@@ -33,7 +33,7 @@ Quran-DB is available in the following formats:
 
 2. **Set Up SQLite3 Database:**
 
-   - Use the `quran.sqlite3` file provided in the repository.
+   - Use the `quran-db.sqlite3` file provided in the repository.
    - Import the database using SQLite3 tools:
      ```bash
      sqlite3 quran.sqlite3
