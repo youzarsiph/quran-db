@@ -36,7 +36,7 @@ Quran-DB is available in the following formats:
    - Use the `quran-db.sqlite3` file provided in the repository.
    - Import the database using SQLite3 tools:
      ```bash
-     sqlite3 quran.sqlite3
+     sqlite3 quran-db.sqlite3
      ```
 
 3. **Use JSON Files:**
@@ -175,26 +175,14 @@ Contains the text and metadata for each verse in the Quran.
 
 ### Views
 
-#### **al_quran**
+#### **unaccent_verses**
 
 **Description:**  
-Provides a unified and comprehensive view of the Quran's verses along with their associated chapters.
+Provides a unified and comprehensive view to search the verses.
 
 **Columns:**
 
-- `id`: Unique identifier for each verse (from `verses` table).
-- `number`: Numerical order of the verse within its chapter (from `verses` table).
-- `content`: Text content of the verse (from `verses` table).
-- `chapter`: Identifier for the chapter the verse belongs to (from `chapters` table).
-- `name`: Name of the chapter (from `chapters` table).
-- `order`: Chronological order of the chapter in the Quran (from `chapters` table).
-- `type`: Type of chapter (Meccan or Medinan) (from `chapters` table).
-- `verse_count`: Number of verses in the chapter (from `chapters` table).
-- `page_count`: Number of pages occupied by the chapter (from `chapters` table).
-- `part`: Identifier for the part the verse belongs to (from `groups` or `chapters` table).
-- `group`: Identifier for the group the verse belongs to (from `groups` table).
-- `quarter`: Identifier for the quarter the verse belongs to (from `quarters` table).
-- `page`: Identifier for the page the verse belongs to (from `pages` table).
+The columns of this view are columns of `verses` tables but `content` column is without diacritics.
 
 ## Usage
 
@@ -218,6 +206,8 @@ Provides a unified and comprehensive view of the Quran's verses along with their
   ```sql
   SELECT * FROM verses ORDER BY chapter_id, number LIMIT 10;
   ```
+
+For more examples you can check the [`sql/queries.md`](sql/queries.md).
 
 ### Example JSON Queries
 
@@ -295,7 +285,6 @@ Before submitting an issue, please check if a similar issue has already been rep
 Join our community to get involved, ask questions, and share your experiences:
 
 - **GitHub Discussions:** [Quran-DB GitHub Discussions](https://github.com/youzarsiph/quran-db/discussions)
-- **Email:** [support@qurandb.org](mailto:support@qurandb.org)
 
 ## License
 
