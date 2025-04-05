@@ -10,6 +10,7 @@
 - **Comprehensive Data Organization:** Divides the Quran into chapters, parts, groups, quarters, and pages, with detailed metadata.
 - **Efficient Querying:** Utilizes indexing and views for fast data retrieval and analysis.
 - **Data Integrity:** Ensures accurate and consistent Quranic data through well-defined schemas and relationships.
+- **Diacritics:** Now chapter names include Arabic diacritics.
 
 ## Formats
 
@@ -35,6 +36,7 @@ Quran-DB is available in the following formats:
 
    - Use the `quran-db.sqlite3` file provided in the repository.
    - Import the database using SQLite3 tools:
+
      ```bash
      sqlite3 quran-db.sqlite3
      ```
@@ -203,6 +205,7 @@ The columns of this view are columns of `verses` tables but `content` column is 
   ```
 
 - **Retrieve the first 10 verses from the database:**
+
   ```sql
   SELECT * FROM verses ORDER BY chapter_id, number LIMIT 10;
   ```
@@ -267,17 +270,23 @@ Before submitting an issue, please check if a similar issue has already been rep
 
 1. **Fork the Repository:** Create a fork of the repository on GitHub.
 2. **Create a Branch:** Check out a new branch for your feature or bug fix.
+
    ```bash
    git checkout -b feature/your-feature-name
    ```
+
 3. **Make Changes:** Implement your changes and commit them.
+
    ```bash
    git commit -m "Add your feature or fix"
    ```
+
 4. **Push Changes:** Push your changes to the forked repository.
+
    ```bash
    git push origin feature/your-feature-name
    ```
+
 5. **Submit a Pull Request:** Open a pull request to the main repository, explaining the changes you made and why they should be merged.
 
 ## Community and Support
