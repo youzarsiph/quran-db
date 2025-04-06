@@ -41,5 +41,7 @@ jobs:
       - name: Push to repo
         run: |
           now=$(date)
+          git config --global user.email "youzarsiph@quran.com"
+          git config --global user.name "Yousuf Abu Shanab"
           git add .
           git commit -m 'Scheduled run $now'
