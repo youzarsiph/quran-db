@@ -1,0 +1,45 @@
+# This workflow automate the generation of the data using quran-cli
+# For more info: https://github.com/youzarsiph/quran-cli
+
+name: CD
+
+on:
+  push:
+
+  schedule:
+    - cron: '0 0 1 * 5'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+
+      - name: Install deps
+        run: |
+          python -m venv .venv
+          source .venv/bin/activate
+          python -m pip install --upgrade pip
+          pip install quran-cli
+
+      - name: Generate data
+        run: |
+          source .venv/bin/activate
+          quran-cli init db.sqlite3
+          quran-cli normalize -d db.sqlite3
+          quran-cli export db.sqlite3 -o json
+          rm sql/quran-db.sqlite3
+          mv db.sqlite3 sql/quran-db.sqlite3
+
+      - name: Push to repo
+        run: |
+          now=$(date)
+          git add .
+          git commit -m 'Scheduled run $now'
