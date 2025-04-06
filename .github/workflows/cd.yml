@@ -4,8 +4,7 @@
 name: CD
 
 on:
-  push:
-
+  workflow_dispatch:
   schedule:
     - cron: '0 0 1 * 5'
 
@@ -45,3 +44,4 @@ jobs:
           git config --global user.name "Yousuf Abu Shanab"
           git add .
           git commit -m 'Scheduled run $now'
+          git push
