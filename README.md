@@ -1,5 +1,7 @@
 # Quran-DB
 
+[![CD](https://github.com/youzarsiph/quran-db/actions/workflows/cd.yml/badge.svg)](https://github.com/youzarsiph/quran-db/actions/workflows/cd.yml)
+
 ## Overview
 
 **Quran-DB** is a sophisticated and comprehensive database of the Quran, available in both SQLite3 and JSON formats. Designed for optimal data organization and retrieval, it provides robust and efficient access to Quranic content and metadata. The database is meticulously structured to support various applications, including scholarly research, educational tools, and digital Quranic resources. The data in this repo is generated using [`quran-cli`](https://github.com/youzarsiph/quran-cli), you can use it to generate your own version.
