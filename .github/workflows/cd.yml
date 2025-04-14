@@ -31,8 +31,8 @@ jobs:
       - name: Generate data
         run: |
           source .venv/bin/activate
-          quran-cli init db.sqlite3
-          quran-cli normalize -d db.sqlite3
+          quran-cli init -g db.sqlite3
+          quran-cli normalize -d -g db.sqlite3
           quran-cli export db.sqlite3 -o json
           rm sql/quran-db.sqlite3
           mv db.sqlite3 sql/quran-db.sqlite3
