@@ -137,7 +137,7 @@ UPDATE "chapters" SET "name" = "طه" WHERE "id" = 20;
 UPDATE "chapters" SET "name" = "ٱلْأَنۢبِيَآءِ" WHERE "id" = 21;
 UPDATE "chapters" SET "name" = "ٱلْحَجِّ" WHERE "id" = 22;
 UPDATE "chapters" SET "name" = "ٱلْمُؤْمِنُونَ" WHERE "id" = 23;
-UPDATE "chapters" SET "name" = "ٱلنُّورٍ" WHERE "id" = 24;
+UPDATE "chapters" SET "name" = "ٱلنُّورِ" WHERE "id" = 24;
 UPDATE "chapters" SET "name" = "ٱلْفُرْقَانِ" WHERE "id" = 25;
 UPDATE "chapters" SET "name" = "ٱلشُّعَرَآءِ" WHERE "id" = 26;
 UPDATE "chapters" SET "name" = "ٱلنَّمْلِ" WHERE "id" = 27;
