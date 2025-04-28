@@ -33,9 +33,10 @@ jobs:
           source .venv/bin/activate
           quran-cli init -g db.sqlite3
           quran-cli normalize -d -g db.sqlite3
+          quran-cli interpret -g db.sqlite3
           quran-cli export db.sqlite3 -o json
           rm sql/quran-db.sqlite3
-          mv db.sqlite3 sql/quran-db.sqlite3
+          mv db.sqlite3 database/q-db.sqlite3
 
       - name: Push to repo
         run: |
