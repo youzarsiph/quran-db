@@ -5,5 +5,19 @@
     "name": "التَّفسِيرُ المُيَسَّرُ",
     "description": null,
     "language_id": 1
+  },
+  {
+    "id": 2,
+    "type": 0,
+    "name": "Translation",
+    "description": null,
+    "language_id": 2
+  },
+  {
+    "id": 3,
+    "type": 1,
+    "name": "Transliteration",
+    "description": null,
+    "language_id": 2
   }
 ]

@@ -3,5 +3,10 @@
     "id": 1,
     "name": "العربيّة",
     "code": "ar"
+  },
+  {
+    "id": 2,
+    "name": "English",
+    "code": "en"
   }
 ]

@@ -1,0 +1,1 @@
+INSERT INTO "items"("content", "collection_id", "verse_id") SELECT "content", 2, "id" FROM "quran"
