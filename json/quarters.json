@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Quarter 1",
+    "name": "الربع 1",
     "verse_count": 32,
     "page_count": 5,
     "group_id": 1,
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "name": "Quarter 2",
+    "name": "الربع 2",
     "verse_count": 18,
     "page_count": 3,
     "group_id": 1,
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "name": "Quarter 3",
+    "name": "الربع 3",
     "verse_count": 16,
     "page_count": 3,
     "group_id": 1,
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "name": "Quarter 4",
+    "name": "الربع 4",
     "verse_count": 15,
     "page_count": 3,
     "group_id": 1,
@@ -33,7 +33,7 @@
   },
   {
     "id": 5,
-    "name": "Quarter 5",
+    "name": "الربع 5",
     "verse_count": 17,
     "page_count": 4,
     "group_id": 2,
@@ -41,7 +41,7 @@
   },
   {
     "id": 6,
-    "name": "Quarter 6",
+    "name": "الربع 6",
     "verse_count": 14,
     "page_count": 3,
     "group_id": 2,
@@ -49,7 +49,7 @@
   },
   {
     "id": 7,
-    "name": "Quarter 7",
+    "name": "الربع 7",
     "verse_count": 18,
     "page_count": 3,
     "group_id": 2,
@@ -57,7 +57,7 @@
   },
   {
     "id": 8,
-    "name": "Quarter 8",
+    "name": "الربع 8",
     "verse_count": 18,
     "page_count": 3,
     "group_id": 2,
@@ -65,7 +65,7 @@
   },
   {
     "id": 9,
-    "name": "Quarter 9",
+    "name": "الربع 9",
     "verse_count": 16,
     "page_count": 3,
     "group_id": 3,
@@ -73,7 +73,7 @@
   },
   {
     "id": 10,
-    "name": "Quarter 10",
+    "name": "الربع 10",
     "verse_count": 19,
     "page_count": 3,
     "group_id": 3,
@@ -81,7 +81,7 @@
   },
   {
     "id": 11,
-    "name": "Quarter 11",
+    "name": "الربع 11",
     "verse_count": 12,
     "page_count": 3,
     "group_id": 3,
@@ -89,7 +89,7 @@
   },
   {
     "id": 12,
-    "name": "Quarter 12",
+    "name": "الربع 12",
     "verse_count": 14,
     "page_count": 3,
     "group_id": 3,
@@ -97,7 +97,7 @@
   },
   {
     "id": 13,
-    "name": "Quarter 13",
+    "name": "الربع 13",
     "verse_count": 16,
     "page_count": 3,
     "group_id": 4,
@@ -105,7 +105,7 @@
   },
   {
     "id": 14,
-    "name": "Quarter 14",
+    "name": "الربع 14",
     "verse_count": 14,
     "page_count": 4,
     "group_id": 4,
@@ -113,7 +113,7 @@
   },
   {
     "id": 15,
-    "name": "Quarter 15",
+    "name": "الربع 15",
     "verse_count": 10,
     "page_count": 3,
     "group_id": 4,
@@ -121,7 +121,7 @@
   },
   {
     "id": 16,
-    "name": "Quarter 16",
+    "name": "الربع 16",
     "verse_count": 10,
     "page_count": 3,
     "group_id": 4,
@@ -129,7 +129,7 @@
   },
   {
     "id": 17,
-    "name": "Quarter 17",
+    "name": "الربع 17",
     "verse_count": 10,
     "page_count": 3,
     "group_id": 5,
@@ -137,7 +137,7 @@
   },
   {
     "id": 18,
-    "name": "Quarter 18",
+    "name": "الربع 18",
     "verse_count": 9,
     "page_count": 3,
     "group_id": 5,
@@ -145,7 +145,7 @@
   },
   {
     "id": 19,
-    "name": "Quarter 19",
+    "name": "الربع 19",
     "verse_count": 11,
     "page_count": 3,
     "group_id": 5,
@@ -153,7 +153,7 @@
   },
   {
     "id": 20,
-    "name": "Quarter 20",
+    "name": "الربع 20",
     "verse_count": 18,
     "page_count": 3,
     "group_id": 5,
@@ -161,7 +161,7 @@
   },
   {
     "id": 21,
-    "name": "Quarter 21",
+    "name": "الربع 21",
     "verse_count": 18,
     "page_count": 4,
     "group_id": 6,
@@ -169,7 +169,7 @@
   },
   {
     "id": 22,
-    "name": "Quarter 22",
+    "name": "الربع 22",
     "verse_count": 19,
     "page_count": 3,
     "group_id": 6,
@@ -177,7 +177,7 @@
   },
   {
     "id": 23,
-    "name": "Quarter 23",
+    "name": "الربع 23",
     "verse_count": 23,
     "page_count": 4,
     "group_id": 6,
@@ -185,7 +185,7 @@
   },
   {
     "id": 24,
-    "name": "Quarter 24",
+    "name": "الربع 24",
     "verse_count": 18,
     "page_count": 4,
     "group_id": 6,
@@ -193,7 +193,7 @@
   },
   {
     "id": 25,
-    "name": "Quarter 25",
+    "name": "الربع 25",
     "verse_count": 20,
     "page_count": 3,
     "group_id": 7,
@@ -201,7 +201,7 @@
   },
   {
     "id": 26,
-    "name": "Quarter 26",
+    "name": "الربع 26",
     "verse_count": 20,
     "page_count": 3,
     "group_id": 7,
@@ -209,7 +209,7 @@
   },
   {
     "id": 27,
-    "name": "Quarter 27",
+    "name": "الربع 27",
     "verse_count": 20,
     "page_count": 3,
     "group_id": 7,
@@ -217,7 +217,7 @@
   },
   {
     "id": 28,
-    "name": "Quarter 28",
+    "name": "الربع 28",
     "verse_count": 18,
     "page_count": 4,
     "group_id": 7,
@@ -225,7 +225,7 @@
   },
   {
     "id": 29,
-    "name": "Quarter 29",
+    "name": "الربع 29",
     "verse_count": 15,
     "page_count": 3,
     "group_id": 8,
@@ -233,7 +233,7 @@
   },
   {
     "id": 30,
-    "name": "Quarter 30",
+    "name": "الربع 30",
     "verse_count": 15,
     "page_count": 3,
     "group_id": 8,
@@ -241,7 +241,7 @@
   },
   {
     "id": 31,
-    "name": "Quarter 31",
+    "name": "الربع 31",
     "verse_count": 11,
     "page_count": 2,
     "group_id": 8,
@@ -249,7 +249,7 @@
   },
   {
     "id": 32,
-    "name": "Quarter 32",
+    "name": "الربع 32",
     "verse_count": 12,
     "page_count": 3,
     "group_id": 8,
@@ -257,7 +257,7 @@
   },
   {
     "id": 33,
-    "name": "Quarter 33",
+    "name": "الربع 33",
     "verse_count": 12,
     "page_count": 3,
     "group_id": 9,
@@ -265,7 +265,7 @@
   },
   {
     "id": 34,
-    "name": "Quarter 34",
+    "name": "الربع 34",
     "verse_count": 22,
     "page_count": 4,
     "group_id": 9,
@@ -273,7 +273,7 @@
   },
   {
     "id": 35,
-    "name": "Quarter 35",
+    "name": "الربع 35",
     "verse_count": 16,
     "page_count": 3,
     "group_id": 9,
@@ -281,7 +281,7 @@
   },
   {
     "id": 36,
-    "name": "Quarter 36",
+    "name": "الربع 36",
     "verse_count": 14,
     "page_count": 4,
     "group_id": 9,
@@ -289,7 +289,7 @@
   },
   {
     "id": 37,
-    "name": "Quarter 37",
+    "name": "الربع 37",
     "verse_count": 12,
     "page_count": 3,
     "group_id": 10,
@@ -297,7 +297,7 @@
   },
   {
     "id": 38,
-    "name": "Quarter 38",
+    "name": "الربع 38",
     "verse_count": 14,
     "page_count": 3,
     "group_id": 10,
@@ -305,7 +305,7 @@
   },
   {
     "id": 39,
-    "name": "Quarter 39",
+    "name": "الربع 39",
     "verse_count": 21,
     "page_count": 3,
     "group_id": 10,
@@ -313,7 +313,7 @@
   },
   {
     "id": 40,
-    "name": "Quarter 40",
+    "name": "الربع 40",
     "verse_count": 13,
     "page_count": 2,
     "group_id": 10,
@@ -321,7 +321,7 @@
   },
   {
     "id": 41,
-    "name": "Quarter 41",
+    "name": "الربع 41",
     "verse_count": 15,
     "page_count": 2,
     "group_id": 11,
@@ -329,7 +329,7 @@
   },
   {
     "id": 42,
-    "name": "Quarter 42",
+    "name": "الربع 42",
     "verse_count": 14,
     "page_count": 3,
     "group_id": 11,
@@ -337,7 +337,7 @@
   },
   {
     "id": 43,
-    "name": "Quarter 43",
+    "name": "الربع 43",
     "verse_count": 11,
     "page_count": 4,
     "group_id": 11,
@@ -345,7 +345,7 @@
   },
   {
     "id": 44,
-    "name": "Quarter 44",
+    "name": "الربع 44",
     "verse_count": 15,
     "page_count": 4,
     "group_id": 11,
@@ -353,7 +353,7 @@
   },
   {
     "id": 45,
-    "name": "Quarter 45",
+    "name": "الربع 45",
     "verse_count": 14,
     "page_count": 3,
     "group_id": 12,
@@ -361,7 +361,7 @@
   },
   {
     "id": 46,
-    "name": "Quarter 46",
+    "name": "الربع 46",
     "verse_count": 10,
     "page_count": 3,
     "group_id": 12,
@@ -369,7 +369,7 @@
   },
   {
     "id": 47,
-    "name": "Quarter 47",
+    "name": "الربع 47",
     "verse_count": 16,
     "page_count": 3,
     "group_id": 12,
@@ -377,7 +377,7 @@
   },
   {
     "id": 48,
-    "name": "Quarter 48",
+    "name": "الربع 48",
     "verse_count": 15,
     "page_count": 3,
     "group_id": 12,
@@ -385,7 +385,7 @@
   },
   {
     "id": 49,
-    "name": "Quarter 49",
+    "name": "الربع 49",
     "verse_count": 15,
     "page_count": 4,
     "group_id": 13,
@@ -393,7 +393,7 @@
   },
   {
     "id": 50,
-    "name": "Quarter 50",
+    "name": "الربع 50",
     "verse_count": 12,
     "page_count": 2,
     "group_id": 13,
@@ -401,7 +401,7 @@
   },
   {
     "id": 51,
-    "name": "Quarter 51",
+    "name": "الربع 51",
     "verse_count": 24,
     "page_count": 4,
     "group_id": 13,
@@ -409,7 +409,7 @@
   },
   {
     "id": 52,
-    "name": "Quarter 52",
+    "name": "الربع 52",
     "verse_count": 23,
     "page_count": 3,
     "group_id": 13,
@@ -417,7 +417,7 @@
   },
   {
     "id": 53,
-    "name": "Quarter 53",
+    "name": "الربع 53",
     "verse_count": 23,
     "page_count": 3,
     "group_id": 14,
@@ -425,7 +425,7 @@
   },
   {
     "id": 54,
-    "name": "Quarter 54",
+    "name": "الربع 54",
     "verse_count": 15,
     "page_count": 3,
     "group_id": 14,
@@ -433,7 +433,7 @@
   },
   {
     "id": 55,
-    "name": "Quarter 55",
+    "name": "الربع 55",
     "verse_count": 21,
     "page_count": 3,
     "group_id": 14,
@@ -441,7 +441,7 @@
   },
   {
     "id": 56,
-    "name": "Quarter 56",
+    "name": "الربع 56",
     "verse_count": 16,
     "page_count": 2,
     "group_id": 14,
@@ -449,7 +449,7 @@
   },
   {
     "id": 57,
-    "name": "Quarter 57",
+    "name": "الربع 57",
     "verse_count": 16,
     "page_count": 3,
     "group_id": 15,
@@ -457,7 +457,7 @@
   },
   {
     "id": 58,
-    "name": "Quarter 58",
+    "name": "الربع 58",
     "verse_count": 14,
     "page_count": 3,
     "group_id": 15,
@@ -465,7 +465,7 @@
   },
   {
     "id": 59,
-    "name": "Quarter 59",
+    "name": "الربع 59",
     "verse_count": 10,
     "page_count": 3,
     "group_id": 15,
@@ -473,7 +473,7 @@
   },
   {
     "id": 60,
-    "name": "Quarter 60",
+    "name": "الربع 60",
     "verse_count": 15,
     "page_count": 3,
     "group_id": 15,
@@ -481,7 +481,7 @@
   },
   {
     "id": 61,
-    "name": "Quarter 61",
+    "name": "الربع 61",
     "verse_count": 30,
     "page_count": 3,
     "group_id": 16,
@@ -489,7 +489,7 @@
   },
   {
     "id": 62,
-    "name": "Quarter 62",
+    "name": "الربع 62",
     "verse_count": 16,
     "page_count": 3,
     "group_id": 16,
@@ -497,7 +497,7 @@
   },
   {
     "id": 63,
-    "name": "Quarter 63",
+    "name": "الربع 63",
     "verse_count": 18,
     "page_count": 3,
     "group_id": 16,
@@ -505,7 +505,7 @@
   },
   {
     "id": 64,
-    "name": "Quarter 64",
+    "name": "الربع 64",
     "verse_count": 23,
     "page_count": 4,
     "group_id": 16,
@@ -513,7 +513,7 @@
   },
   {
     "id": 65,
-    "name": "Quarter 65",
+    "name": "الربع 65",
     "verse_count": 29,
     "page_count": 3,
     "group_id": 17,
@@ -521,7 +521,7 @@
   },
   {
     "id": 66,
-    "name": "Quarter 66",
+    "name": "الربع 66",
     "verse_count": 25,
     "page_count": 4,
     "group_id": 17,
@@ -529,7 +529,7 @@
   },
   {
     "id": 67,
-    "name": "Quarter 67",
+    "name": "الربع 67",
     "verse_count": 14,
     "page_count": 3,
     "group_id": 17,
@@ -537,7 +537,7 @@
   },
   {
     "id": 68,
-    "name": "Quarter 68",
+    "name": "الربع 68",
     "verse_count": 15,
     "page_count": 3,
     "group_id": 17,
@@ -545,7 +545,7 @@
   },
   {
     "id": 69,
-    "name": "Quarter 69",
+    "name": "الربع 69",
     "verse_count": 18,
     "page_count": 3,
     "group_id": 18,
@@ -553,7 +553,7 @@
   },
   {
     "id": 70,
-    "name": "Quarter 70",
+    "name": "الربع 70",
     "verse_count": 18,
     "page_count": 2,
     "group_id": 18,
@@ -561,7 +561,7 @@
   },
   {
     "id": 71,
-    "name": "Quarter 71",
+    "name": "الربع 71",
     "verse_count": 21,
     "page_count": 3,
     "group_id": 18,
@@ -569,7 +569,7 @@
   },
   {
     "id": 72,
-    "name": "Quarter 72",
+    "name": "الربع 72",
     "verse_count": 19,
     "page_count": 3,
     "group_id": 18,
@@ -577,7 +577,7 @@
   },
   {
     "id": 73,
-    "name": "Quarter 73",
+    "name": "الربع 73",
     "verse_count": 20,
     "page_count": 3,
     "group_id": 19,
@@ -585,7 +585,7 @@
   },
   {
     "id": 74,
-    "name": "Quarter 74",
+    "name": "الربع 74",
     "verse_count": 15,
     "page_count": 3,
     "group_id": 19,
@@ -593,7 +593,7 @@
   },
   {
     "id": 75,
-    "name": "Quarter 75",
+    "name": "الربع 75",
     "verse_count": 18,
     "page_count": 3,
     "group_id": 19,
@@ -601,7 +601,7 @@
   },
   {
     "id": 76,
-    "name": "Quarter 76",
+    "name": "الربع 76",
     "verse_count": 15,
     "page_count": 4,
     "group_id": 19,
@@ -609,7 +609,7 @@
   },
   {
     "id": 77,
-    "name": "Quarter 77",
+    "name": "الربع 77",
     "verse_count": 12,
     "page_count": 3,
     "group_id": 20,
@@ -617,7 +617,7 @@
   },
   {
     "id": 78,
-    "name": "Quarter 78",
+    "name": "الربع 78",
     "verse_count": 14,
     "page_count": 3,
     "group_id": 20,
@@ -625,7 +625,7 @@
   },
   {
     "id": 79,
-    "name": "Quarter 79",
+    "name": "الربع 79",
     "verse_count": 15,
     "page_count": 4,
     "group_id": 20,
@@ -633,7 +633,7 @@
   },
   {
     "id": 80,
-    "name": "Quarter 80",
+    "name": "الربع 80",
     "verse_count": 18,
     "page_count": 3,
     "group_id": 20,
@@ -641,7 +641,7 @@
   },
   {
     "id": 81,
-    "name": "Quarter 81",
+    "name": "الربع 81",
     "verse_count": 18,
     "page_count": 4,
     "group_id": 21,
@@ -649,7 +649,7 @@
   },
   {
     "id": 82,
-    "name": "Quarter 82",
+    "name": "الربع 82",
     "verse_count": 11,
     "page_count": 3,
     "group_id": 21,
@@ -657,7 +657,7 @@
   },
   {
     "id": 83,
-    "name": "Quarter 83",
+    "name": "الربع 83",
     "verse_count": 18,
     "page_count": 4,
     "group_id": 21,
@@ -665,7 +665,7 @@
   },
   {
     "id": 84,
-    "name": "Quarter 84",
+    "name": "الربع 84",
     "verse_count": 15,
     "page_count": 3,
     "group_id": 21,
@@ -673,7 +673,7 @@
   },
   {
     "id": 85,
-    "name": "Quarter 85",
+    "name": "الربع 85",
     "verse_count": 27,
     "page_count": 3,
     "group_id": 22,
@@ -681,7 +681,7 @@
   },
   {
     "id": 86,
-    "name": "Quarter 86",
+    "name": "الربع 86",
     "verse_count": 18,
     "page_count": 3,
     "group_id": 22,
@@ -689,7 +689,7 @@
   },
   {
     "id": 87,
-    "name": "Quarter 87",
+    "name": "الربع 87",
     "verse_count": 19,
     "page_count": 3,
     "group_id": 22,
@@ -697,7 +697,7 @@
   },
   {
     "id": 88,
-    "name": "Quarter 88",
+    "name": "الربع 88",
     "verse_count": 25,
     "page_count": 3,
     "group_id": 22,
@@ -705,7 +705,7 @@
   },
   {
     "id": 89,
-    "name": "Quarter 89",
+    "name": "الربع 89",
     "verse_count": 18,
     "page_count": 3,
     "group_id": 23,
@@ -713,7 +713,7 @@
   },
   {
     "id": 90,
-    "name": "Quarter 90",
+    "name": "الربع 90",
     "verse_count": 17,
     "page_count": 3,
     "group_id": 23,
@@ -721,7 +721,7 @@
   },
   {
     "id": 91,
-    "name": "Quarter 91",
+    "name": "الربع 91",
     "verse_count": 20,
     "page_count": 3,
     "group_id": 23,
@@ -729,7 +729,7 @@
   },
   {
     "id": 92,
-    "name": "Quarter 92",
+    "name": "الربع 92",
     "verse_count": 23,
     "page_count": 4,
     "group_id": 23,
@@ -737,7 +737,7 @@
   },
   {
     "id": 93,
-    "name": "Quarter 93",
+    "name": "الربع 93",
     "verse_count": 24,
     "page_count": 3,
     "group_id": 24,
@@ -745,7 +745,7 @@
   },
   {
     "id": 94,
-    "name": "Quarter 94",
+    "name": "الربع 94",
     "verse_count": 22,
     "page_count": 4,
     "group_id": 24,
@@ -753,7 +753,7 @@
   },
   {
     "id": 95,
-    "name": "Quarter 95",
+    "name": "الربع 95",
     "verse_count": 23,
     "page_count": 3,
     "group_id": 24,
@@ -761,7 +761,7 @@
   },
   {
     "id": 96,
-    "name": "Quarter 96",
+    "name": "الربع 96",
     "verse_count": 23,
     "page_count": 4,
     "group_id": 24,
@@ -769,7 +769,7 @@
   },
   {
     "id": 97,
-    "name": "Quarter 97",
+    "name": "الربع 97",
     "verse_count": 24,
     "page_count": 3,
     "group_id": 25,
@@ -777,7 +777,7 @@
   },
   {
     "id": 98,
-    "name": "Quarter 98",
+    "name": "الربع 98",
     "verse_count": 24,
     "page_count": 4,
     "group_id": 25,
@@ -785,7 +785,7 @@
   },
   {
     "id": 99,
-    "name": "Quarter 99",
+    "name": "الربع 99",
     "verse_count": 15,
     "page_count": 3,
     "group_id": 25,
@@ -793,7 +793,7 @@
   },
   {
     "id": 100,
-    "name": "Quarter 100",
+    "name": "الربع 100",
     "verse_count": 14,
     "page_count": 3,
     "group_id": 25,
@@ -801,7 +801,7 @@
   },
   {
     "id": 101,
-    "name": "Quarter 101",
+    "name": "الربع 101",
     "verse_count": 16,
     "page_count": 2,
     "group_id": 26,
@@ -809,7 +809,7 @@
   },
   {
     "id": 102,
-    "name": "Quarter 102",
+    "name": "الربع 102",
     "verse_count": 18,
     "page_count": 3,
     "group_id": 26,
@@ -817,7 +817,7 @@
   },
   {
     "id": 103,
-    "name": "Quarter 103",
+    "name": "الربع 103",
     "verse_count": 18,
     "page_count": 4,
     "group_id": 26,
@@ -825,7 +825,7 @@
   },
   {
     "id": 104,
-    "name": "Quarter 104",
+    "name": "الربع 104",
     "verse_count": 25,
     "page_count": 3,
     "group_id": 26,
@@ -833,7 +833,7 @@
   },
   {
     "id": 105,
-    "name": "Quarter 105",
+    "name": "الربع 105",
     "verse_count": 49,
     "page_count": 3,
     "group_id": 27,
@@ -841,7 +841,7 @@
   },
   {
     "id": 106,
-    "name": "Quarter 106",
+    "name": "الربع 106",
     "verse_count": 50,
     "page_count": 4,
     "group_id": 27,
@@ -849,7 +849,7 @@
   },
   {
     "id": 107,
-    "name": "Quarter 107",
+    "name": "الربع 107",
     "verse_count": 29,
     "page_count": 4,
     "group_id": 27,
@@ -857,7 +857,7 @@
   },
   {
     "id": 108,
-    "name": "Quarter 108",
+    "name": "الربع 108",
     "verse_count": 21,
     "page_count": 3,
     "group_id": 27,
@@ -865,7 +865,7 @@
   },
   {
     "id": 109,
-    "name": "Quarter 109",
+    "name": "الربع 109",
     "verse_count": 24,
     "page_count": 4,
     "group_id": 28,
@@ -873,7 +873,7 @@
   },
   {
     "id": 110,
-    "name": "Quarter 110",
+    "name": "الربع 110",
     "verse_count": 15,
     "page_count": 3,
     "group_id": 28,
@@ -881,7 +881,7 @@
   },
   {
     "id": 111,
-    "name": "Quarter 111",
+    "name": "الربع 111",
     "verse_count": 21,
     "page_count": 3,
     "group_id": 28,
@@ -889,7 +889,7 @@
   },
   {
     "id": 112,
-    "name": "Quarter 112",
+    "name": "الربع 112",
     "verse_count": 18,
     "page_count": 2,
     "group_id": 28,
@@ -897,7 +897,7 @@
   },
   {
     "id": 113,
-    "name": "Quarter 113",
+    "name": "الربع 113",
     "verse_count": 22,
     "page_count": 3,
     "group_id": 29,
@@ -905,7 +905,7 @@
   },
   {
     "id": 114,
-    "name": "Quarter 114",
+    "name": "الربع 114",
     "verse_count": 27,
     "page_count": 3,
     "group_id": 29,
@@ -913,7 +913,7 @@
   },
   {
     "id": 115,
-    "name": "Quarter 115",
+    "name": "الربع 115",
     "verse_count": 20,
     "page_count": 3,
     "group_id": 29,
@@ -921,7 +921,7 @@
   },
   {
     "id": 116,
-    "name": "Quarter 116",
+    "name": "الربع 116",
     "verse_count": 29,
     "page_count": 4,
     "group_id": 29,
@@ -929,7 +929,7 @@
   },
   {
     "id": 117,
-    "name": "Quarter 117",
+    "name": "الربع 117",
     "verse_count": 29,
     "page_count": 4,
     "group_id": 30,
@@ -937,7 +937,7 @@
   },
   {
     "id": 118,
-    "name": "Quarter 118",
+    "name": "الربع 118",
     "verse_count": 15,
     "page_count": 3,
     "group_id": 30,
@@ -945,7 +945,7 @@
   },
   {
     "id": 119,
-    "name": "Quarter 119",
+    "name": "الربع 119",
     "verse_count": 19,
     "page_count": 3,
     "group_id": 30,
@@ -953,7 +953,7 @@
   },
   {
     "id": 120,
-    "name": "Quarter 120",
+    "name": "الربع 120",
     "verse_count": 24,
     "page_count": 3,
     "group_id": 30,
@@ -961,7 +961,7 @@
   },
   {
     "id": 121,
-    "name": "Quarter 121",
+    "name": "الربع 121",
     "verse_count": 24,
     "page_count": 3,
     "group_id": 31,
@@ -969,7 +969,7 @@
   },
   {
     "id": 122,
-    "name": "Quarter 122",
+    "name": "الربع 122",
     "verse_count": 33,
     "page_count": 3,
     "group_id": 31,
@@ -977,7 +977,7 @@
   },
   {
     "id": 123,
-    "name": "Quarter 123",
+    "name": "الربع 123",
     "verse_count": 37,
     "page_count": 4,
     "group_id": 31,
@@ -985,7 +985,7 @@
   },
   {
     "id": 124,
-    "name": "Quarter 124",
+    "name": "الربع 124",
     "verse_count": 40,
     "page_count": 4,
     "group_id": 31,
@@ -993,7 +993,7 @@
   },
   {
     "id": 125,
-    "name": "Quarter 125",
+    "name": "الربع 125",
     "verse_count": 54,
     "page_count": 4,
     "group_id": 32,
@@ -1001,7 +1001,7 @@
   },
   {
     "id": 126,
-    "name": "Quarter 126",
+    "name": "الربع 126",
     "verse_count": 28,
     "page_count": 3,
     "group_id": 32,
@@ -1009,7 +1009,7 @@
   },
   {
     "id": 127,
-    "name": "Quarter 127",
+    "name": "الربع 127",
     "verse_count": 28,
     "page_count": 3,
     "group_id": 32,
@@ -1017,7 +1017,7 @@
   },
   {
     "id": 128,
-    "name": "Quarter 128",
+    "name": "الربع 128",
     "verse_count": 25,
     "page_count": 3,
     "group_id": 32,
@@ -1025,7 +1025,7 @@
   },
   {
     "id": 129,
-    "name": "Quarter 129",
+    "name": "الربع 129",
     "verse_count": 28,
     "page_count": 3,
     "group_id": 33,
@@ -1033,7 +1033,7 @@
   },
   {
     "id": 130,
-    "name": "Quarter 130",
+    "name": "الربع 130",
     "verse_count": 22,
     "page_count": 3,
     "group_id": 33,
@@ -1041,7 +1041,7 @@
   },
   {
     "id": 131,
-    "name": "Quarter 131",
+    "name": "الربع 131",
     "verse_count": 32,
     "page_count": 4,
     "group_id": 33,
@@ -1049,7 +1049,7 @@
   },
   {
     "id": 132,
-    "name": "Quarter 132",
+    "name": "الربع 132",
     "verse_count": 30,
     "page_count": 3,
     "group_id": 33,
@@ -1057,7 +1057,7 @@
   },
   {
     "id": 133,
-    "name": "Quarter 133",
+    "name": "الربع 133",
     "verse_count": 18,
     "page_count": 3,
     "group_id": 34,
@@ -1065,7 +1065,7 @@
   },
   {
     "id": 134,
-    "name": "Quarter 134",
+    "name": "الربع 134",
     "verse_count": 19,
     "page_count": 3,
     "group_id": 34,
@@ -1073,7 +1073,7 @@
   },
   {
     "id": 135,
-    "name": "Quarter 135",
+    "name": "الربع 135",
     "verse_count": 22,
     "page_count": 4,
     "group_id": 34,
@@ -1081,7 +1081,7 @@
   },
   {
     "id": 136,
-    "name": "Quarter 136",
+    "name": "الربع 136",
     "verse_count": 19,
     "page_count": 3,
     "group_id": 34,
@@ -1089,7 +1089,7 @@
   },
   {
     "id": 137,
-    "name": "Quarter 137",
+    "name": "الربع 137",
     "verse_count": 35,
     "page_count": 3,
     "group_id": 35,
@@ -1097,7 +1097,7 @@
   },
   {
     "id": 138,
-    "name": "Quarter 138",
+    "name": "الربع 138",
     "verse_count": 39,
     "page_count": 3,
     "group_id": 35,
@@ -1105,7 +1105,7 @@
   },
   {
     "id": 139,
-    "name": "Quarter 139",
+    "name": "الربع 139",
     "verse_count": 44,
     "page_count": 3,
     "group_id": 35,
@@ -1113,7 +1113,7 @@
   },
   {
     "id": 140,
-    "name": "Quarter 140",
+    "name": "الربع 140",
     "verse_count": 20,
     "page_count": 2,
     "group_id": 35,
@@ -1121,7 +1121,7 @@
   },
   {
     "id": 141,
-    "name": "Quarter 141",
+    "name": "الربع 141",
     "verse_count": 14,
     "page_count": 3,
     "group_id": 36,
@@ -1129,7 +1129,7 @@
   },
   {
     "id": 142,
-    "name": "Quarter 142",
+    "name": "الربع 142",
     "verse_count": 18,
     "page_count": 3,
     "group_id": 36,
@@ -1137,7 +1137,7 @@
   },
   {
     "id": 143,
-    "name": "Quarter 143",
+    "name": "الربع 143",
     "verse_count": 12,
     "page_count": 4,
     "group_id": 36,
@@ -1145,7 +1145,7 @@
   },
   {
     "id": 144,
-    "name": "Quarter 144",
+    "name": "الربع 144",
     "verse_count": 20,
     "page_count": 3,
     "group_id": 36,
@@ -1153,7 +1153,7 @@
   },
   {
     "id": 145,
-    "name": "Quarter 145",
+    "name": "الربع 145",
     "verse_count": 32,
     "page_count": 3,
     "group_id": 37,
@@ -1161,7 +1161,7 @@
   },
   {
     "id": 146,
-    "name": "Quarter 146",
+    "name": "الربع 146",
     "verse_count": 25,
     "page_count": 3,
     "group_id": 37,
@@ -1169,7 +1169,7 @@
   },
   {
     "id": 147,
-    "name": "Quarter 147",
+    "name": "الربع 147",
     "verse_count": 51,
     "page_count": 3,
     "group_id": 37,
@@ -1177,7 +1177,7 @@
   },
   {
     "id": 148,
-    "name": "Quarter 148",
+    "name": "الربع 148",
     "verse_count": 59,
     "page_count": 3,
     "group_id": 37,
@@ -1185,7 +1185,7 @@
   },
   {
     "id": 149,
-    "name": "Quarter 149",
+    "name": "الربع 149",
     "verse_count": 70,
     "page_count": 4,
     "group_id": 38,
@@ -1193,7 +1193,7 @@
   },
   {
     "id": 150,
-    "name": "Quarter 150",
+    "name": "الربع 150",
     "verse_count": 47,
     "page_count": 3,
     "group_id": 38,
@@ -1201,7 +1201,7 @@
   },
   {
     "id": 151,
-    "name": "Quarter 151",
+    "name": "الربع 151",
     "verse_count": 26,
     "page_count": 3,
     "group_id": 38,
@@ -1209,7 +1209,7 @@
   },
   {
     "id": 152,
-    "name": "Quarter 152",
+    "name": "الربع 152",
     "verse_count": 29,
     "page_count": 3,
     "group_id": 38,
@@ -1217,7 +1217,7 @@
   },
   {
     "id": 153,
-    "name": "Quarter 153",
+    "name": "الربع 153",
     "verse_count": 26,
     "page_count": 3,
     "group_id": 39,
@@ -1225,7 +1225,7 @@
   },
   {
     "id": 154,
-    "name": "Quarter 154",
+    "name": "الربع 154",
     "verse_count": 23,
     "page_count": 3,
     "group_id": 39,
@@ -1233,7 +1233,7 @@
   },
   {
     "id": 155,
-    "name": "Quarter 155",
+    "name": "الربع 155",
     "verse_count": 17,
     "page_count": 3,
     "group_id": 39,
@@ -1241,7 +1241,7 @@
   },
   {
     "id": 156,
-    "name": "Quarter 156",
+    "name": "الربع 156",
     "verse_count": 22,
     "page_count": 3,
     "group_id": 39,
@@ -1249,7 +1249,7 @@
   },
   {
     "id": 157,
-    "name": "Quarter 157",
+    "name": "الربع 157",
     "verse_count": 25,
     "page_count": 3,
     "group_id": 40,
@@ -1257,7 +1257,7 @@
   },
   {
     "id": 158,
-    "name": "Quarter 158",
+    "name": "الربع 158",
     "verse_count": 13,
     "page_count": 3,
     "group_id": 40,
@@ -1265,7 +1265,7 @@
   },
   {
     "id": 159,
-    "name": "Quarter 159",
+    "name": "الربع 159",
     "verse_count": 25,
     "page_count": 4,
     "group_id": 40,
@@ -1273,7 +1273,7 @@
   },
   {
     "id": 160,
-    "name": "Quarter 160",
+    "name": "الربع 160",
     "verse_count": 20,
     "page_count": 3,
     "group_id": 40,
@@ -1281,7 +1281,7 @@
   },
   {
     "id": 161,
-    "name": "Quarter 161",
+    "name": "الربع 161",
     "verse_count": 24,
     "page_count": 3,
     "group_id": 41,
@@ -1289,7 +1289,7 @@
   },
   {
     "id": 162,
-    "name": "Quarter 162",
+    "name": "الربع 162",
     "verse_count": 30,
     "page_count": 4,
     "group_id": 41,
@@ -1297,7 +1297,7 @@
   },
   {
     "id": 163,
-    "name": "Quarter 163",
+    "name": "الربع 163",
     "verse_count": 23,
     "page_count": 4,
     "group_id": 41,
@@ -1305,7 +1305,7 @@
   },
   {
     "id": 164,
-    "name": "Quarter 164",
+    "name": "الربع 164",
     "verse_count": 28,
     "page_count": 4,
     "group_id": 41,
@@ -1313,7 +1313,7 @@
   },
   {
     "id": 165,
-    "name": "Quarter 165",
+    "name": "الربع 165",
     "verse_count": 23,
     "page_count": 3,
     "group_id": 42,
@@ -1321,7 +1321,7 @@
   },
   {
     "id": 166,
-    "name": "Quarter 166",
+    "name": "الربع 166",
     "verse_count": 20,
     "page_count": 3,
     "group_id": 42,
@@ -1329,7 +1329,7 @@
   },
   {
     "id": 167,
-    "name": "Quarter 167",
+    "name": "الربع 167",
     "verse_count": 17,
     "page_count": 3,
     "group_id": 42,
@@ -1337,7 +1337,7 @@
   },
   {
     "id": 168,
-    "name": "Quarter 168",
+    "name": "الربع 168",
     "verse_count": 13,
     "page_count": 2,
     "group_id": 42,
@@ -1345,7 +1345,7 @@
   },
   {
     "id": 169,
-    "name": "Quarter 169",
+    "name": "الربع 169",
     "verse_count": 20,
     "page_count": 3,
     "group_id": 43,
@@ -1353,7 +1353,7 @@
   },
   {
     "id": 170,
-    "name": "Quarter 170",
+    "name": "الربع 170",
     "verse_count": 9,
     "page_count": 2,
     "group_id": 43,
@@ -1361,7 +1361,7 @@
   },
   {
     "id": 171,
-    "name": "Quarter 171",
+    "name": "الربع 171",
     "verse_count": 23,
     "page_count": 4,
     "group_id": 43,
@@ -1369,7 +1369,7 @@
   },
   {
     "id": 172,
-    "name": "Quarter 172",
+    "name": "الربع 172",
     "verse_count": 14,
     "page_count": 3,
     "group_id": 43,
@@ -1377,7 +1377,7 @@
   },
   {
     "id": 173,
-    "name": "Quarter 173",
+    "name": "الربع 173",
     "verse_count": 22,
     "page_count": 3,
     "group_id": 44,
@@ -1385,7 +1385,7 @@
   },
   {
     "id": 174,
-    "name": "Quarter 174",
+    "name": "الربع 174",
     "verse_count": 23,
     "page_count": 4,
     "group_id": 44,
@@ -1393,7 +1393,7 @@
   },
   {
     "id": 175,
-    "name": "Quarter 175",
+    "name": "الربع 175",
     "verse_count": 26,
     "page_count": 4,
     "group_id": 44,
@@ -1401,7 +1401,7 @@
   },
   {
     "id": 176,
-    "name": "Quarter 176",
+    "name": "الربع 176",
     "verse_count": 32,
     "page_count": 3,
     "group_id": 44,
@@ -1409,7 +1409,7 @@
   },
   {
     "id": 177,
-    "name": "Quarter 177",
+    "name": "الربع 177",
     "verse_count": 32,
     "page_count": 3,
     "group_id": 45,
@@ -1417,7 +1417,7 @@
   },
   {
     "id": 178,
-    "name": "Quarter 178",
+    "name": "الربع 178",
     "verse_count": 45,
     "page_count": 3,
     "group_id": 45,
@@ -1425,7 +1425,7 @@
   },
   {
     "id": 179,
-    "name": "Quarter 179",
+    "name": "الربع 179",
     "verse_count": 61,
     "page_count": 4,
     "group_id": 45,
@@ -1433,7 +1433,7 @@
   },
   {
     "id": 180,
-    "name": "Quarter 180",
+    "name": "الربع 180",
     "verse_count": 62,
     "page_count": 3,
     "group_id": 45,
@@ -1441,7 +1441,7 @@
   },
   {
     "id": 181,
-    "name": "Quarter 181",
+    "name": "الربع 181",
     "verse_count": 58,
     "page_count": 4,
     "group_id": 46,
@@ -1449,7 +1449,7 @@
   },
   {
     "id": 182,
-    "name": "Quarter 182",
+    "name": "الربع 182",
     "verse_count": 31,
     "page_count": 3,
     "group_id": 46,
@@ -1457,7 +1457,7 @@
   },
   {
     "id": 183,
-    "name": "Quarter 183",
+    "name": "الربع 183",
     "verse_count": 44,
     "page_count": 4,
     "group_id": 46,
@@ -1465,7 +1465,7 @@
   },
   {
     "id": 184,
-    "name": "Quarter 184",
+    "name": "الربع 184",
     "verse_count": 24,
     "page_count": 3,
     "group_id": 46,
@@ -1473,7 +1473,7 @@
   },
   {
     "id": 185,
-    "name": "Quarter 185",
+    "name": "الربع 185",
     "verse_count": 21,
     "page_count": 3,
     "group_id": 47,
@@ -1481,7 +1481,7 @@
   },
   {
     "id": 186,
-    "name": "Quarter 186",
+    "name": "الربع 186",
     "verse_count": 23,
     "page_count": 4,
     "group_id": 47,
@@ -1489,7 +1489,7 @@
   },
   {
     "id": 187,
-    "name": "Quarter 187",
+    "name": "الربع 187",
     "verse_count": 20,
     "page_count": 3,
     "group_id": 47,
@@ -1497,7 +1497,7 @@
   },
   {
     "id": 188,
-    "name": "Quarter 188",
+    "name": "الربع 188",
     "verse_count": 20,
     "page_count": 3,
     "group_id": 47,
@@ -1505,7 +1505,7 @@
   },
   {
     "id": 189,
-    "name": "Quarter 189",
+    "name": "الربع 189",
     "verse_count": 25,
     "page_count": 3,
     "group_id": 48,
@@ -1513,7 +1513,7 @@
   },
   {
     "id": 190,
-    "name": "Quarter 190",
+    "name": "الربع 190",
     "verse_count": 28,
     "page_count": 4,
     "group_id": 48,
@@ -1521,7 +1521,7 @@
   },
   {
     "id": 191,
-    "name": "Quarter 191",
+    "name": "الربع 191",
     "verse_count": 16,
     "page_count": 3,
     "group_id": 48,
@@ -1529,7 +1529,7 @@
   },
   {
     "id": 192,
-    "name": "Quarter 192",
+    "name": "الربع 192",
     "verse_count": 22,
     "page_count": 3,
     "group_id": 48,
@@ -1537,7 +1537,7 @@
   },
   {
     "id": 193,
-    "name": "Quarter 193",
+    "name": "الربع 193",
     "verse_count": 20,
     "page_count": 3,
     "group_id": 49,
@@ -1545,7 +1545,7 @@
   },
   {
     "id": 194,
-    "name": "Quarter 194",
+    "name": "الربع 194",
     "verse_count": 14,
     "page_count": 3,
     "group_id": 49,
@@ -1553,7 +1553,7 @@
   },
   {
     "id": 195,
-    "name": "Quarter 195",
+    "name": "الربع 195",
     "verse_count": 24,
     "page_count": 3,
     "group_id": 49,
@@ -1561,7 +1561,7 @@
   },
   {
     "id": 196,
-    "name": "Quarter 196",
+    "name": "الربع 196",
     "verse_count": 26,
     "page_count": 4,
     "group_id": 49,
@@ -1569,7 +1569,7 @@
   },
   {
     "id": 197,
-    "name": "Quarter 197",
+    "name": "الربع 197",
     "verse_count": 33,
     "page_count": 3,
     "group_id": 50,
@@ -1577,7 +1577,7 @@
   },
   {
     "id": 198,
-    "name": "Quarter 198",
+    "name": "الربع 198",
     "verse_count": 49,
     "page_count": 4,
     "group_id": 50,
@@ -1585,7 +1585,7 @@
   },
   {
     "id": 199,
-    "name": "Quarter 199",
+    "name": "الربع 199",
     "verse_count": 54,
     "page_count": 4,
     "group_id": 50,
@@ -1593,7 +1593,7 @@
   },
   {
     "id": 200,
-    "name": "Quarter 200",
+    "name": "الربع 200",
     "verse_count": 26,
     "page_count": 4,
     "group_id": 50,
@@ -1601,7 +1601,7 @@
   },
   {
     "id": 201,
-    "name": "Quarter 201",
+    "name": "الربع 201",
     "verse_count": 20,
     "page_count": 3,
     "group_id": 51,
@@ -1609,7 +1609,7 @@
   },
   {
     "id": 202,
-    "name": "Quarter 202",
+    "name": "الربع 202",
     "verse_count": 24,
     "page_count": 3,
     "group_id": 51,
@@ -1617,7 +1617,7 @@
   },
   {
     "id": 203,
-    "name": "Quarter 203",
+    "name": "الربع 203",
     "verse_count": 23,
     "page_count": 4,
     "group_id": 51,
@@ -1625,7 +1625,7 @@
   },
   {
     "id": 204,
-    "name": "Quarter 204",
+    "name": "الربع 204",
     "verse_count": 23,
     "page_count": 4,
     "group_id": 51,
@@ -1633,7 +1633,7 @@
   },
   {
     "id": 205,
-    "name": "Quarter 205",
+    "name": "الربع 205",
     "verse_count": 12,
     "page_count": 3,
     "group_id": 52,
@@ -1641,7 +1641,7 @@
   },
   {
     "id": 206,
-    "name": "Quarter 206",
+    "name": "الربع 206",
     "verse_count": 13,
     "page_count": 3,
     "group_id": 52,
@@ -1649,7 +1649,7 @@
   },
   {
     "id": 207,
-    "name": "Quarter 207",
+    "name": "الربع 207",
     "verse_count": 31,
     "page_count": 3,
     "group_id": 52,
@@ -1657,7 +1657,7 @@
   },
   {
     "id": 208,
-    "name": "Quarter 208",
+    "name": "الربع 208",
     "verse_count": 49,
     "page_count": 3,
     "group_id": 52,
@@ -1665,7 +1665,7 @@
   },
   {
     "id": 209,
-    "name": "Quarter 209",
+    "name": "الربع 209",
     "verse_count": 53,
     "page_count": 3,
     "group_id": 53,
@@ -1673,7 +1673,7 @@
   },
   {
     "id": 210,
-    "name": "Quarter 210",
+    "name": "الربع 210",
     "verse_count": 51,
     "page_count": 3,
     "group_id": 53,
@@ -1681,7 +1681,7 @@
   },
   {
     "id": 211,
-    "name": "Quarter 211",
+    "name": "الربع 211",
     "verse_count": 45,
     "page_count": 4,
     "group_id": 53,
@@ -1689,7 +1689,7 @@
   },
   {
     "id": 212,
-    "name": "Quarter 212",
+    "name": "الربع 212",
     "verse_count": 47,
     "page_count": 3,
     "group_id": 53,
@@ -1697,7 +1697,7 @@
   },
   {
     "id": 213,
-    "name": "Quarter 213",
+    "name": "الربع 213",
     "verse_count": 78,
     "page_count": 4,
     "group_id": 54,
@@ -1705,7 +1705,7 @@
   },
   {
     "id": 214,
-    "name": "Quarter 214",
+    "name": "الربع 214",
     "verse_count": 74,
     "page_count": 3,
     "group_id": 54,
@@ -1713,7 +1713,7 @@
   },
   {
     "id": 215,
-    "name": "Quarter 215",
+    "name": "الربع 215",
     "verse_count": 37,
     "page_count": 4,
     "group_id": 54,
@@ -1721,7 +1721,7 @@
   },
   {
     "id": 216,
-    "name": "Quarter 216",
+    "name": "الربع 216",
     "verse_count": 14,
     "page_count": 3,
     "group_id": 54,
@@ -1729,7 +1729,7 @@
   },
   {
     "id": 217,
-    "name": "Quarter 217",
+    "name": "الربع 217",
     "verse_count": 13,
     "page_count": 3,
     "group_id": 55,
@@ -1737,7 +1737,7 @@
   },
   {
     "id": 218,
-    "name": "Quarter 218",
+    "name": "الربع 218",
     "verse_count": 19,
     "page_count": 4,
     "group_id": 55,
@@ -1745,7 +1745,7 @@
   },
   {
     "id": 219,
-    "name": "Quarter 219",
+    "name": "الربع 219",
     "verse_count": 20,
     "page_count": 4,
     "group_id": 55,
@@ -1753,7 +1753,7 @@
   },
   {
     "id": 220,
-    "name": "Quarter 220",
+    "name": "الربع 220",
     "verse_count": 21,
     "page_count": 3,
     "group_id": 55,
@@ -1761,7 +1761,7 @@
   },
   {
     "id": 221,
-    "name": "Quarter 221",
+    "name": "الربع 221",
     "verse_count": 14,
     "page_count": 2,
     "group_id": 56,
@@ -1769,7 +1769,7 @@
   },
   {
     "id": 222,
-    "name": "Quarter 222",
+    "name": "الربع 222",
     "verse_count": 26,
     "page_count": 4,
     "group_id": 56,
@@ -1777,7 +1777,7 @@
   },
   {
     "id": 223,
-    "name": "Quarter 223",
+    "name": "الربع 223",
     "verse_count": 12,
     "page_count": 2,
     "group_id": 56,
@@ -1785,7 +1785,7 @@
   },
   {
     "id": 224,
-    "name": "Quarter 224",
+    "name": "الربع 224",
     "verse_count": 12,
     "page_count": 2,
     "group_id": 56,
@@ -1793,7 +1793,7 @@
   },
   {
     "id": 225,
-    "name": "Quarter 225",
+    "name": "الربع 225",
     "verse_count": 30,
     "page_count": 3,
     "group_id": 57,
@@ -1801,7 +1801,7 @@
   },
   {
     "id": 226,
-    "name": "Quarter 226",
+    "name": "الربع 226",
     "verse_count": 52,
     "page_count": 3,
     "group_id": 57,
@@ -1809,7 +1809,7 @@
   },
   {
     "id": 227,
-    "name": "Quarter 227",
+    "name": "الربع 227",
     "verse_count": 70,
     "page_count": 4,
     "group_id": 57,
@@ -1817,7 +1817,7 @@
   },
   {
     "id": 228,
-    "name": "Quarter 228",
+    "name": "الربع 228",
     "verse_count": 54,
     "page_count": 3,
     "group_id": 57,
@@ -1825,7 +1825,7 @@
   },
   {
     "id": 229,
-    "name": "Quarter 229",
+    "name": "الربع 229",
     "verse_count": 47,
     "page_count": 3,
     "group_id": 58,
@@ -1833,7 +1833,7 @@
   },
   {
     "id": 230,
-    "name": "Quarter 230",
+    "name": "الربع 230",
     "verse_count": 57,
     "page_count": 3,
     "group_id": 58,
@@ -1841,7 +1841,7 @@
   },
   {
     "id": 231,
-    "name": "Quarter 231",
+    "name": "الربع 231",
     "verse_count": 58,
     "page_count": 3,
     "group_id": 58,
@@ -1849,7 +1849,7 @@
   },
   {
     "id": 232,
-    "name": "Quarter 232",
+    "name": "الربع 232",
     "verse_count": 63,
     "page_count": 3,
     "group_id": 58,
@@ -1857,7 +1857,7 @@
   },
   {
     "id": 233,
-    "name": "Quarter 233",
+    "name": "الربع 233",
     "verse_count": 86,
     "page_count": 3,
     "group_id": 59,
@@ -1865,7 +1865,7 @@
   },
   {
     "id": 234,
-    "name": "Quarter 234",
+    "name": "الربع 234",
     "verse_count": 71,
     "page_count": 2,
     "group_id": 59,
@@ -1873,7 +1873,7 @@
   },
   {
     "id": 235,
-    "name": "Quarter 235",
+    "name": "الربع 235",
     "verse_count": 55,
     "page_count": 3,
     "group_id": 59,
@@ -1881,7 +1881,7 @@
   },
   {
     "id": 236,
-    "name": "Quarter 236",
+    "name": "الربع 236",
     "verse_count": 64,
     "page_count": 3,
     "group_id": 59,
@@ -1889,7 +1889,7 @@
   },
   {
     "id": 237,
-    "name": "Quarter 237",
+    "name": "الربع 237",
     "verse_count": 75,
     "page_count": 4,
     "group_id": 60,
@@ -1897,7 +1897,7 @@
   },
   {
     "id": 238,
-    "name": "Quarter 238",
+    "name": "الربع 238",
     "verse_count": 67,
     "page_count": 3,
     "group_id": 60,
@@ -1905,7 +1905,7 @@
   },
   {
     "id": 239,
-    "name": "Quarter 239",
+    "name": "الربع 239",
     "verse_count": 64,
     "page_count": 4,
     "group_id": 60,
@@ -1913,7 +1913,7 @@
   },
   {
     "id": 240,
-    "name": "Quarter 240",
+    "name": "الربع 240",
     "verse_count": 82,
     "page_count": 6,
     "group_id": 60,

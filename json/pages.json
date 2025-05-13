@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Page 1",
+    "name": "الصفحة 1",
     "verse_count": 7,
     "chapter_id": 1,
     "group_id": 1,
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "name": "Page 2",
+    "name": "الصفحة 2",
     "verse_count": 5,
     "chapter_id": 2,
     "group_id": 1,
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "name": "Page 3",
+    "name": "الصفحة 3",
     "verse_count": 11,
     "chapter_id": 2,
     "group_id": 1,
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "name": "Page 4",
+    "name": "الصفحة 4",
     "verse_count": 8,
     "chapter_id": 2,
     "group_id": 1,
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "name": "Page 5",
+    "name": "الصفحة 5",
     "verse_count": 5,
     "chapter_id": 2,
     "group_id": 1,
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "name": "Page 6",
+    "name": "الصفحة 6",
     "verse_count": 8,
     "chapter_id": 2,
     "group_id": 1,
@@ -55,7 +55,7 @@
   },
   {
     "id": 7,
-    "name": "Page 7",
+    "name": "الصفحة 7",
     "verse_count": 11,
     "chapter_id": 2,
     "group_id": 1,
@@ -64,7 +64,7 @@
   },
   {
     "id": 8,
-    "name": "Page 8",
+    "name": "الصفحة 8",
     "verse_count": 9,
     "chapter_id": 2,
     "group_id": 1,
@@ -73,7 +73,7 @@
   },
   {
     "id": 9,
-    "name": "Page 9",
+    "name": "الصفحة 9",
     "verse_count": 4,
     "chapter_id": 2,
     "group_id": 1,
@@ -82,7 +82,7 @@
   },
   {
     "id": 10,
-    "name": "Page 10",
+    "name": "الصفحة 10",
     "verse_count": 8,
     "chapter_id": 2,
     "group_id": 1,
@@ -91,7 +91,7 @@
   },
   {
     "id": 11,
-    "name": "Page 11",
+    "name": "الصفحة 11",
     "verse_count": 7,
     "chapter_id": 2,
     "group_id": 1,
@@ -100,7 +100,7 @@
   },
   {
     "id": 12,
-    "name": "Page 12",
+    "name": "الصفحة 12",
     "verse_count": 7,
     "chapter_id": 2,
     "group_id": 2,
@@ -109,7 +109,7 @@
   },
   {
     "id": 13,
-    "name": "Page 13",
+    "name": "الصفحة 13",
     "verse_count": 5,
     "chapter_id": 2,
     "group_id": 2,
@@ -118,7 +118,7 @@
   },
   {
     "id": 14,
-    "name": "Page 14",
+    "name": "الصفحة 14",
     "verse_count": 5,
     "chapter_id": 2,
     "group_id": 2,
@@ -127,7 +127,7 @@
   },
   {
     "id": 15,
-    "name": "Page 15",
+    "name": "الصفحة 15",
     "verse_count": 8,
     "chapter_id": 2,
     "group_id": 2,
@@ -136,7 +136,7 @@
   },
   {
     "id": 16,
-    "name": "Page 16",
+    "name": "الصفحة 16",
     "verse_count": 4,
     "chapter_id": 2,
     "group_id": 2,
@@ -145,7 +145,7 @@
   },
   {
     "id": 17,
-    "name": "Page 17",
+    "name": "الصفحة 17",
     "verse_count": 7,
     "chapter_id": 2,
     "group_id": 2,
@@ -154,7 +154,7 @@
   },
   {
     "id": 18,
-    "name": "Page 18",
+    "name": "الصفحة 18",
     "verse_count": 7,
     "chapter_id": 2,
     "group_id": 2,
@@ -163,7 +163,7 @@
   },
   {
     "id": 19,
-    "name": "Page 19",
+    "name": "الصفحة 19",
     "verse_count": 7,
     "chapter_id": 2,
     "group_id": 2,
@@ -172,7 +172,7 @@
   },
   {
     "id": 20,
-    "name": "Page 20",
+    "name": "الصفحة 20",
     "verse_count": 8,
     "chapter_id": 2,
     "group_id": 2,
@@ -181,7 +181,7 @@
   },
   {
     "id": 21,
-    "name": "Page 21",
+    "name": "الصفحة 21",
     "verse_count": 7,
     "chapter_id": 2,
     "group_id": 2,
@@ -190,7 +190,7 @@
   },
   {
     "id": 22,
-    "name": "Page 22",
+    "name": "الصفحة 22",
     "verse_count": 4,
     "chapter_id": 2,
     "group_id": 3,
@@ -199,7 +199,7 @@
   },
   {
     "id": 23,
-    "name": "Page 23",
+    "name": "الصفحة 23",
     "verse_count": 8,
     "chapter_id": 2,
     "group_id": 3,
@@ -208,7 +208,7 @@
   },
   {
     "id": 24,
-    "name": "Page 24",
+    "name": "الصفحة 24",
     "verse_count": 10,
     "chapter_id": 2,
     "group_id": 3,
@@ -217,7 +217,7 @@
   },
   {
     "id": 25,
-    "name": "Page 25",
+    "name": "الصفحة 25",
     "verse_count": 6,
     "chapter_id": 2,
     "group_id": 3,
@@ -226,7 +226,7 @@
   },
   {
     "id": 26,
-    "name": "Page 26",
+    "name": "الصفحة 26",
     "verse_count": 7,
     "chapter_id": 2,
     "group_id": 3,
@@ -235,7 +235,7 @@
   },
   {
     "id": 27,
-    "name": "Page 27",
+    "name": "الصفحة 27",
     "verse_count": 5,
     "chapter_id": 2,
     "group_id": 3,
@@ -244,7 +244,7 @@
   },
   {
     "id": 28,
-    "name": "Page 28",
+    "name": "الصفحة 28",
     "verse_count": 5,
     "chapter_id": 2,
     "group_id": 3,
@@ -253,7 +253,7 @@
   },
   {
     "id": 29,
-    "name": "Page 29",
+    "name": "الصفحة 29",
     "verse_count": 4,
     "chapter_id": 2,
     "group_id": 3,
@@ -262,7 +262,7 @@
   },
   {
     "id": 30,
-    "name": "Page 30",
+    "name": "الصفحة 30",
     "verse_count": 6,
     "chapter_id": 2,
     "group_id": 3,
@@ -271,7 +271,7 @@
   },
   {
     "id": 31,
-    "name": "Page 31",
+    "name": "الصفحة 31",
     "verse_count": 6,
     "chapter_id": 2,
     "group_id": 3,
@@ -280,7 +280,7 @@
   },
   {
     "id": 32,
-    "name": "Page 32",
+    "name": "الصفحة 32",
     "verse_count": 8,
     "chapter_id": 2,
     "group_id": 4,
@@ -289,7 +289,7 @@
   },
   {
     "id": 33,
-    "name": "Page 33",
+    "name": "الصفحة 33",
     "verse_count": 5,
     "chapter_id": 2,
     "group_id": 4,
@@ -298,7 +298,7 @@
   },
   {
     "id": 34,
-    "name": "Page 34",
+    "name": "الصفحة 34",
     "verse_count": 4,
     "chapter_id": 2,
     "group_id": 4,
@@ -307,7 +307,7 @@
   },
   {
     "id": 35,
-    "name": "Page 35",
+    "name": "الصفحة 35",
     "verse_count": 5,
     "chapter_id": 2,
     "group_id": 4,
@@ -316,7 +316,7 @@
   },
   {
     "id": 36,
-    "name": "Page 36",
+    "name": "الصفحة 36",
     "verse_count": 6,
     "chapter_id": 2,
     "group_id": 4,
@@ -325,7 +325,7 @@
   },
   {
     "id": 37,
-    "name": "Page 37",
+    "name": "الصفحة 37",
     "verse_count": 3,
     "chapter_id": 2,
     "group_id": 4,
@@ -334,7 +334,7 @@
   },
   {
     "id": 38,
-    "name": "Page 38",
+    "name": "الصفحة 38",
     "verse_count": 4,
     "chapter_id": 2,
     "group_id": 4,
@@ -343,7 +343,7 @@
   },
   {
     "id": 39,
-    "name": "Page 39",
+    "name": "الصفحة 39",
     "verse_count": 8,
     "chapter_id": 2,
     "group_id": 4,
@@ -352,7 +352,7 @@
   },
   {
     "id": 40,
-    "name": "Page 40",
+    "name": "الصفحة 40",
     "verse_count": 3,
     "chapter_id": 2,
     "group_id": 4,
@@ -361,7 +361,7 @@
   },
   {
     "id": 41,
-    "name": "Page 41",
+    "name": "الصفحة 41",
     "verse_count": 4,
     "chapter_id": 2,
     "group_id": 4,
@@ -370,7 +370,7 @@
   },
   {
     "id": 42,
-    "name": "Page 42",
+    "name": "الصفحة 42",
     "verse_count": 4,
     "chapter_id": 2,
     "group_id": 5,
@@ -379,7 +379,7 @@
   },
   {
     "id": 43,
-    "name": "Page 43",
+    "name": "الصفحة 43",
     "verse_count": 3,
     "chapter_id": 2,
     "group_id": 5,
@@ -388,7 +388,7 @@
   },
   {
     "id": 44,
-    "name": "Page 44",
+    "name": "الصفحة 44",
     "verse_count": 5,
     "chapter_id": 2,
     "group_id": 5,
@@ -397,7 +397,7 @@
   },
   {
     "id": 45,
-    "name": "Page 45",
+    "name": "الصفحة 45",
     "verse_count": 5,
     "chapter_id": 2,
     "group_id": 5,
@@ -406,7 +406,7 @@
   },
   {
     "id": 46,
-    "name": "Page 46",
+    "name": "الصفحة 46",
     "verse_count": 5,
     "chapter_id": 2,
     "group_id": 5,
@@ -415,7 +415,7 @@
   },
   {
     "id": 47,
-    "name": "Page 47",
+    "name": "الصفحة 47",
     "verse_count": 7,
     "chapter_id": 2,
     "group_id": 5,
@@ -424,7 +424,7 @@
   },
   {
     "id": 48,
-    "name": "Page 48",
+    "name": "الصفحة 48",
     "verse_count": 1,
     "chapter_id": 2,
     "group_id": 5,
@@ -433,7 +433,7 @@
   },
   {
     "id": 49,
-    "name": "Page 49",
+    "name": "الصفحة 49",
     "verse_count": 4,
     "chapter_id": 2,
     "group_id": 5,
@@ -442,7 +442,7 @@
   },
   {
     "id": 50,
-    "name": "Page 50",
+    "name": "الصفحة 50",
     "verse_count": 9,
     "chapter_id": 3,
     "group_id": 5,
@@ -451,7 +451,7 @@
   },
   {
     "id": 51,
-    "name": "Page 51",
+    "name": "الصفحة 51",
     "verse_count": 6,
     "chapter_id": 3,
     "group_id": 5,
@@ -460,7 +460,7 @@
   },
   {
     "id": 52,
-    "name": "Page 52",
+    "name": "الصفحة 52",
     "verse_count": 7,
     "chapter_id": 3,
     "group_id": 6,
@@ -469,7 +469,7 @@
   },
   {
     "id": 53,
-    "name": "Page 53",
+    "name": "الصفحة 53",
     "verse_count": 7,
     "chapter_id": 3,
     "group_id": 6,
@@ -478,7 +478,7 @@
   },
   {
     "id": 54,
-    "name": "Page 54",
+    "name": "الصفحة 54",
     "verse_count": 8,
     "chapter_id": 3,
     "group_id": 6,
@@ -487,7 +487,7 @@
   },
   {
     "id": 55,
-    "name": "Page 55",
+    "name": "الصفحة 55",
     "verse_count": 8,
     "chapter_id": 3,
     "group_id": 6,
@@ -496,7 +496,7 @@
   },
   {
     "id": 56,
-    "name": "Page 56",
+    "name": "الصفحة 56",
     "verse_count": 7,
     "chapter_id": 3,
     "group_id": 6,
@@ -505,7 +505,7 @@
   },
   {
     "id": 57,
-    "name": "Page 57",
+    "name": "الصفحة 57",
     "verse_count": 9,
     "chapter_id": 3,
     "group_id": 6,
@@ -514,7 +514,7 @@
   },
   {
     "id": 58,
-    "name": "Page 58",
+    "name": "الصفحة 58",
     "verse_count": 9,
     "chapter_id": 3,
     "group_id": 6,
@@ -523,7 +523,7 @@
   },
   {
     "id": 59,
-    "name": "Page 59",
+    "name": "الصفحة 59",
     "verse_count": 7,
     "chapter_id": 3,
     "group_id": 6,
@@ -532,7 +532,7 @@
   },
   {
     "id": 60,
-    "name": "Page 60",
+    "name": "الصفحة 60",
     "verse_count": 6,
     "chapter_id": 3,
     "group_id": 6,
@@ -541,7 +541,7 @@
   },
   {
     "id": 61,
-    "name": "Page 61",
+    "name": "الصفحة 61",
     "verse_count": 8,
     "chapter_id": 3,
     "group_id": 6,
@@ -550,7 +550,7 @@
   },
   {
     "id": 62,
-    "name": "Page 62",
+    "name": "الصفحة 62",
     "verse_count": 9,
     "chapter_id": 3,
     "group_id": 6,
@@ -559,7 +559,7 @@
   },
   {
     "id": 63,
-    "name": "Page 63",
+    "name": "الصفحة 63",
     "verse_count": 8,
     "chapter_id": 3,
     "group_id": 7,
@@ -568,7 +568,7 @@
   },
   {
     "id": 64,
-    "name": "Page 64",
+    "name": "الصفحة 64",
     "verse_count": 7,
     "chapter_id": 3,
     "group_id": 7,
@@ -577,7 +577,7 @@
   },
   {
     "id": 65,
-    "name": "Page 65",
+    "name": "الصفحة 65",
     "verse_count": 6,
     "chapter_id": 3,
     "group_id": 7,
@@ -586,7 +586,7 @@
   },
   {
     "id": 66,
-    "name": "Page 66",
+    "name": "الصفحة 66",
     "verse_count": 11,
     "chapter_id": 3,
     "group_id": 7,
@@ -595,7 +595,7 @@
   },
   {
     "id": 67,
-    "name": "Page 67",
+    "name": "الصفحة 67",
     "verse_count": 8,
     "chapter_id": 3,
     "group_id": 7,
@@ -604,7 +604,7 @@
   },
   {
     "id": 68,
-    "name": "Page 68",
+    "name": "الصفحة 68",
     "verse_count": 8,
     "chapter_id": 3,
     "group_id": 7,
@@ -613,7 +613,7 @@
   },
   {
     "id": 69,
-    "name": "Page 69",
+    "name": "الصفحة 69",
     "verse_count": 5,
     "chapter_id": 3,
     "group_id": 7,
@@ -622,7 +622,7 @@
   },
   {
     "id": 70,
-    "name": "Page 70",
+    "name": "الصفحة 70",
     "verse_count": 4,
     "chapter_id": 3,
     "group_id": 7,
@@ -631,7 +631,7 @@
   },
   {
     "id": 71,
-    "name": "Page 71",
+    "name": "الصفحة 71",
     "verse_count": 8,
     "chapter_id": 3,
     "group_id": 7,
@@ -640,7 +640,7 @@
   },
   {
     "id": 72,
-    "name": "Page 72",
+    "name": "الصفحة 72",
     "verse_count": 8,
     "chapter_id": 3,
     "group_id": 7,
@@ -649,7 +649,7 @@
   },
   {
     "id": 73,
-    "name": "Page 73",
+    "name": "الصفحة 73",
     "verse_count": 7,
     "chapter_id": 3,
     "group_id": 8,
@@ -658,7 +658,7 @@
   },
   {
     "id": 74,
-    "name": "Page 74",
+    "name": "الصفحة 74",
     "verse_count": 6,
     "chapter_id": 3,
     "group_id": 8,
@@ -667,7 +667,7 @@
   },
   {
     "id": 75,
-    "name": "Page 75",
+    "name": "الصفحة 75",
     "verse_count": 8,
     "chapter_id": 3,
     "group_id": 8,
@@ -676,7 +676,7 @@
   },
   {
     "id": 76,
-    "name": "Page 76",
+    "name": "الصفحة 76",
     "verse_count": 6,
     "chapter_id": 3,
     "group_id": 8,
@@ -685,7 +685,7 @@
   },
   {
     "id": 77,
-    "name": "Page 77",
+    "name": "الصفحة 77",
     "verse_count": 6,
     "chapter_id": 4,
     "group_id": 8,
@@ -694,7 +694,7 @@
   },
   {
     "id": 78,
-    "name": "Page 78",
+    "name": "الصفحة 78",
     "verse_count": 5,
     "chapter_id": 4,
     "group_id": 8,
@@ -703,7 +703,7 @@
   },
   {
     "id": 79,
-    "name": "Page 79",
+    "name": "الصفحة 79",
     "verse_count": 3,
     "chapter_id": 4,
     "group_id": 8,
@@ -712,7 +712,7 @@
   },
   {
     "id": 80,
-    "name": "Page 80",
+    "name": "الصفحة 80",
     "verse_count": 5,
     "chapter_id": 4,
     "group_id": 8,
@@ -721,7 +721,7 @@
   },
   {
     "id": 81,
-    "name": "Page 81",
+    "name": "الصفحة 81",
     "verse_count": 4,
     "chapter_id": 4,
     "group_id": 8,
@@ -730,7 +730,7 @@
   },
   {
     "id": 82,
-    "name": "Page 82",
+    "name": "الصفحة 82",
     "verse_count": 3,
     "chapter_id": 4,
     "group_id": 9,
@@ -739,7 +739,7 @@
   },
   {
     "id": 83,
-    "name": "Page 83",
+    "name": "الصفحة 83",
     "verse_count": 7,
     "chapter_id": 4,
     "group_id": 9,
@@ -748,7 +748,7 @@
   },
   {
     "id": 84,
-    "name": "Page 84",
+    "name": "الصفحة 84",
     "verse_count": 4,
     "chapter_id": 4,
     "group_id": 9,
@@ -757,7 +757,7 @@
   },
   {
     "id": 85,
-    "name": "Page 85",
+    "name": "الصفحة 85",
     "verse_count": 7,
     "chapter_id": 4,
     "group_id": 9,
@@ -766,7 +766,7 @@
   },
   {
     "id": 86,
-    "name": "Page 86",
+    "name": "الصفحة 86",
     "verse_count": 7,
     "chapter_id": 4,
     "group_id": 9,
@@ -775,7 +775,7 @@
   },
   {
     "id": 87,
-    "name": "Page 87",
+    "name": "الصفحة 87",
     "verse_count": 8,
     "chapter_id": 4,
     "group_id": 9,
@@ -784,7 +784,7 @@
   },
   {
     "id": 88,
-    "name": "Page 88",
+    "name": "الصفحة 88",
     "verse_count": 6,
     "chapter_id": 4,
     "group_id": 9,
@@ -793,7 +793,7 @@
   },
   {
     "id": 89,
-    "name": "Page 89",
+    "name": "الصفحة 89",
     "verse_count": 9,
     "chapter_id": 4,
     "group_id": 9,
@@ -802,7 +802,7 @@
   },
   {
     "id": 90,
-    "name": "Page 90",
+    "name": "الصفحة 90",
     "verse_count": 5,
     "chapter_id": 4,
     "group_id": 9,
@@ -811,7 +811,7 @@
   },
   {
     "id": 91,
-    "name": "Page 91",
+    "name": "الصفحة 91",
     "verse_count": 7,
     "chapter_id": 4,
     "group_id": 9,
@@ -820,7 +820,7 @@
   },
   {
     "id": 92,
-    "name": "Page 92",
+    "name": "الصفحة 92",
     "verse_count": 5,
     "chapter_id": 4,
     "group_id": 9,
@@ -829,7 +829,7 @@
   },
   {
     "id": 93,
-    "name": "Page 93",
+    "name": "الصفحة 93",
     "verse_count": 3,
     "chapter_id": 4,
     "group_id": 10,
@@ -838,7 +838,7 @@
   },
   {
     "id": 94,
-    "name": "Page 94",
+    "name": "الصفحة 94",
     "verse_count": 7,
     "chapter_id": 4,
     "group_id": 10,
@@ -847,7 +847,7 @@
   },
   {
     "id": 95,
-    "name": "Page 95",
+    "name": "الصفحة 95",
     "verse_count": 4,
     "chapter_id": 4,
     "group_id": 10,
@@ -856,7 +856,7 @@
   },
   {
     "id": 96,
-    "name": "Page 96",
+    "name": "الصفحة 96",
     "verse_count": 8,
     "chapter_id": 4,
     "group_id": 10,
@@ -865,7 +865,7 @@
   },
   {
     "id": 97,
-    "name": "Page 97",
+    "name": "الصفحة 97",
     "verse_count": 8,
     "chapter_id": 4,
     "group_id": 10,
@@ -874,7 +874,7 @@
   },
   {
     "id": 98,
-    "name": "Page 98",
+    "name": "الصفحة 98",
     "verse_count": 6,
     "chapter_id": 4,
     "group_id": 10,
@@ -883,7 +883,7 @@
   },
   {
     "id": 99,
-    "name": "Page 99",
+    "name": "الصفحة 99",
     "verse_count": 7,
     "chapter_id": 4,
     "group_id": 10,
@@ -892,7 +892,7 @@
   },
   {
     "id": 100,
-    "name": "Page 100",
+    "name": "الصفحة 100",
     "verse_count": 6,
     "chapter_id": 4,
     "group_id": 10,
@@ -901,7 +901,7 @@
   },
   {
     "id": 101,
-    "name": "Page 101",
+    "name": "الصفحة 101",
     "verse_count": 7,
     "chapter_id": 4,
     "group_id": 10,
@@ -910,7 +910,7 @@
   },
   {
     "id": 102,
-    "name": "Page 102",
+    "name": "الصفحة 102",
     "verse_count": 7,
     "chapter_id": 4,
     "group_id": 11,
@@ -919,7 +919,7 @@
   },
   {
     "id": 103,
-    "name": "Page 103",
+    "name": "الصفحة 103",
     "verse_count": 8,
     "chapter_id": 4,
     "group_id": 11,
@@ -928,7 +928,7 @@
   },
   {
     "id": 104,
-    "name": "Page 104",
+    "name": "الصفحة 104",
     "verse_count": 8,
     "chapter_id": 4,
     "group_id": 11,
@@ -937,7 +937,7 @@
   },
   {
     "id": 105,
-    "name": "Page 105",
+    "name": "الصفحة 105",
     "verse_count": 5,
     "chapter_id": 4,
     "group_id": 11,
@@ -946,7 +946,7 @@
   },
   {
     "id": 106,
-    "name": "Page 106",
+    "name": "الصفحة 106",
     "verse_count": 3,
     "chapter_id": 4,
     "group_id": 11,
@@ -955,7 +955,7 @@
   },
   {
     "id": 107,
-    "name": "Page 107",
+    "name": "الصفحة 107",
     "verse_count": 3,
     "chapter_id": 5,
     "group_id": 11,
@@ -964,7 +964,7 @@
   },
   {
     "id": 108,
-    "name": "Page 108",
+    "name": "الصفحة 108",
     "verse_count": 4,
     "chapter_id": 5,
     "group_id": 11,
@@ -973,7 +973,7 @@
   },
   {
     "id": 109,
-    "name": "Page 109",
+    "name": "الصفحة 109",
     "verse_count": 4,
     "chapter_id": 5,
     "group_id": 11,
@@ -982,7 +982,7 @@
   },
   {
     "id": 110,
-    "name": "Page 110",
+    "name": "الصفحة 110",
     "verse_count": 4,
     "chapter_id": 5,
     "group_id": 11,
@@ -991,7 +991,7 @@
   },
   {
     "id": 111,
-    "name": "Page 111",
+    "name": "الصفحة 111",
     "verse_count": 6,
     "chapter_id": 5,
     "group_id": 11,
@@ -1000,7 +1000,7 @@
   },
   {
     "id": 112,
-    "name": "Page 112",
+    "name": "الصفحة 112",
     "verse_count": 8,
     "chapter_id": 5,
     "group_id": 11,
@@ -1009,7 +1009,7 @@
   },
   {
     "id": 113,
-    "name": "Page 113",
+    "name": "الصفحة 113",
     "verse_count": 5,
     "chapter_id": 5,
     "group_id": 12,
@@ -1018,7 +1018,7 @@
   },
   {
     "id": 114,
-    "name": "Page 114",
+    "name": "الصفحة 114",
     "verse_count": 5,
     "chapter_id": 5,
     "group_id": 12,
@@ -1027,7 +1027,7 @@
   },
   {
     "id": 115,
-    "name": "Page 115",
+    "name": "الصفحة 115",
     "verse_count": 4,
     "chapter_id": 5,
     "group_id": 12,
@@ -1036,7 +1036,7 @@
   },
   {
     "id": 116,
-    "name": "Page 116",
+    "name": "الصفحة 116",
     "verse_count": 5,
     "chapter_id": 5,
     "group_id": 12,
@@ -1045,7 +1045,7 @@
   },
   {
     "id": 117,
-    "name": "Page 117",
+    "name": "الصفحة 117",
     "verse_count": 7,
     "chapter_id": 5,
     "group_id": 12,
@@ -1054,7 +1054,7 @@
   },
   {
     "id": 118,
-    "name": "Page 118",
+    "name": "الصفحة 118",
     "verse_count": 7,
     "chapter_id": 5,
     "group_id": 12,
@@ -1063,7 +1063,7 @@
   },
   {
     "id": 119,
-    "name": "Page 119",
+    "name": "الصفحة 119",
     "verse_count": 6,
     "chapter_id": 5,
     "group_id": 12,
@@ -1072,7 +1072,7 @@
   },
   {
     "id": 120,
-    "name": "Page 120",
+    "name": "الصفحة 120",
     "verse_count": 6,
     "chapter_id": 5,
     "group_id": 12,
@@ -1081,7 +1081,7 @@
   },
   {
     "id": 121,
-    "name": "Page 121",
+    "name": "الصفحة 121",
     "verse_count": 6,
     "chapter_id": 5,
     "group_id": 12,
@@ -1090,7 +1090,7 @@
   },
   {
     "id": 122,
-    "name": "Page 122",
+    "name": "الصفحة 122",
     "verse_count": 7,
     "chapter_id": 5,
     "group_id": 13,
@@ -1099,7 +1099,7 @@
   },
   {
     "id": 123,
-    "name": "Page 123",
+    "name": "الصفحة 123",
     "verse_count": 6,
     "chapter_id": 5,
     "group_id": 13,
@@ -1108,7 +1108,7 @@
   },
   {
     "id": 124,
-    "name": "Page 124",
+    "name": "الصفحة 124",
     "verse_count": 8,
     "chapter_id": 5,
     "group_id": 13,
@@ -1117,7 +1117,7 @@
   },
   {
     "id": 125,
-    "name": "Page 125",
+    "name": "الصفحة 125",
     "verse_count": 5,
     "chapter_id": 5,
     "group_id": 13,
@@ -1126,7 +1126,7 @@
   },
   {
     "id": 126,
-    "name": "Page 126",
+    "name": "الصفحة 126",
     "verse_count": 5,
     "chapter_id": 5,
     "group_id": 13,
@@ -1135,7 +1135,7 @@
   },
   {
     "id": 127,
-    "name": "Page 127",
+    "name": "الصفحة 127",
     "verse_count": 7,
     "chapter_id": 5,
     "group_id": 13,
@@ -1144,7 +1144,7 @@
   },
   {
     "id": 128,
-    "name": "Page 128",
+    "name": "الصفحة 128",
     "verse_count": 8,
     "chapter_id": 6,
     "group_id": 13,
@@ -1153,7 +1153,7 @@
   },
   {
     "id": 129,
-    "name": "Page 129",
+    "name": "الصفحة 129",
     "verse_count": 10,
     "chapter_id": 6,
     "group_id": 13,
@@ -1162,7 +1162,7 @@
   },
   {
     "id": 130,
-    "name": "Page 130",
+    "name": "الصفحة 130",
     "verse_count": 9,
     "chapter_id": 6,
     "group_id": 13,
@@ -1171,7 +1171,7 @@
   },
   {
     "id": 131,
-    "name": "Page 131",
+    "name": "الصفحة 131",
     "verse_count": 8,
     "chapter_id": 6,
     "group_id": 13,
@@ -1180,7 +1180,7 @@
   },
   {
     "id": 132,
-    "name": "Page 132",
+    "name": "الصفحة 132",
     "verse_count": 9,
     "chapter_id": 6,
     "group_id": 14,
@@ -1189,7 +1189,7 @@
   },
   {
     "id": 133,
-    "name": "Page 133",
+    "name": "الصفحة 133",
     "verse_count": 8,
     "chapter_id": 6,
     "group_id": 14,
@@ -1198,7 +1198,7 @@
   },
   {
     "id": 134,
-    "name": "Page 134",
+    "name": "الصفحة 134",
     "verse_count": 7,
     "chapter_id": 6,
     "group_id": 14,
@@ -1207,7 +1207,7 @@
   },
   {
     "id": 135,
-    "name": "Page 135",
+    "name": "الصفحة 135",
     "verse_count": 9,
     "chapter_id": 6,
     "group_id": 14,
@@ -1216,7 +1216,7 @@
   },
   {
     "id": 136,
-    "name": "Page 136",
+    "name": "الصفحة 136",
     "verse_count": 5,
     "chapter_id": 6,
     "group_id": 14,
@@ -1225,7 +1225,7 @@
   },
   {
     "id": 137,
-    "name": "Page 137",
+    "name": "الصفحة 137",
     "verse_count": 8,
     "chapter_id": 6,
     "group_id": 14,
@@ -1234,7 +1234,7 @@
   },
   {
     "id": 138,
-    "name": "Page 138",
+    "name": "الصفحة 138",
     "verse_count": 9,
     "chapter_id": 6,
     "group_id": 14,
@@ -1243,7 +1243,7 @@
   },
   {
     "id": 139,
-    "name": "Page 139",
+    "name": "الصفحة 139",
     "verse_count": 4,
     "chapter_id": 6,
     "group_id": 14,
@@ -1252,7 +1252,7 @@
   },
   {
     "id": 140,
-    "name": "Page 140",
+    "name": "الصفحة 140",
     "verse_count": 7,
     "chapter_id": 6,
     "group_id": 14,
@@ -1261,7 +1261,7 @@
   },
   {
     "id": 141,
-    "name": "Page 141",
+    "name": "الصفحة 141",
     "verse_count": 9,
     "chapter_id": 6,
     "group_id": 14,
@@ -1270,7 +1270,7 @@
   },
   {
     "id": 142,
-    "name": "Page 142",
+    "name": "الصفحة 142",
     "verse_count": 8,
     "chapter_id": 6,
     "group_id": 15,
@@ -1279,7 +1279,7 @@
   },
   {
     "id": 143,
-    "name": "Page 143",
+    "name": "الصفحة 143",
     "verse_count": 6,
     "chapter_id": 6,
     "group_id": 15,
@@ -1288,7 +1288,7 @@
   },
   {
     "id": 144,
-    "name": "Page 144",
+    "name": "الصفحة 144",
     "verse_count": 7,
     "chapter_id": 6,
     "group_id": 15,
@@ -1297,7 +1297,7 @@
   },
   {
     "id": 145,
-    "name": "Page 145",
+    "name": "الصفحة 145",
     "verse_count": 6,
     "chapter_id": 6,
     "group_id": 15,
@@ -1306,7 +1306,7 @@
   },
   {
     "id": 146,
-    "name": "Page 146",
+    "name": "الصفحة 146",
     "verse_count": 5,
     "chapter_id": 6,
     "group_id": 15,
@@ -1315,7 +1315,7 @@
   },
   {
     "id": 147,
-    "name": "Page 147",
+    "name": "الصفحة 147",
     "verse_count": 4,
     "chapter_id": 6,
     "group_id": 15,
@@ -1324,7 +1324,7 @@
   },
   {
     "id": 148,
-    "name": "Page 148",
+    "name": "الصفحة 148",
     "verse_count": 5,
     "chapter_id": 6,
     "group_id": 15,
@@ -1333,7 +1333,7 @@
   },
   {
     "id": 149,
-    "name": "Page 149",
+    "name": "الصفحة 149",
     "verse_count": 6,
     "chapter_id": 6,
     "group_id": 15,
@@ -1342,7 +1342,7 @@
   },
   {
     "id": 150,
-    "name": "Page 150",
+    "name": "الصفحة 150",
     "verse_count": 8,
     "chapter_id": 6,
     "group_id": 15,
@@ -1351,7 +1351,7 @@
   },
   {
     "id": 151,
-    "name": "Page 151",
+    "name": "الصفحة 151",
     "verse_count": 11,
     "chapter_id": 7,
     "group_id": 16,
@@ -1360,7 +1360,7 @@
   },
   {
     "id": 152,
-    "name": "Page 152",
+    "name": "الصفحة 152",
     "verse_count": 11,
     "chapter_id": 7,
     "group_id": 16,
@@ -1369,7 +1369,7 @@
   },
   {
     "id": 153,
-    "name": "Page 153",
+    "name": "الصفحة 153",
     "verse_count": 8,
     "chapter_id": 7,
     "group_id": 16,
@@ -1378,7 +1378,7 @@
   },
   {
     "id": 154,
-    "name": "Page 154",
+    "name": "الصفحة 154",
     "verse_count": 7,
     "chapter_id": 7,
     "group_id": 16,
@@ -1387,7 +1387,7 @@
   },
   {
     "id": 155,
-    "name": "Page 155",
+    "name": "الصفحة 155",
     "verse_count": 6,
     "chapter_id": 7,
     "group_id": 16,
@@ -1396,7 +1396,7 @@
   },
   {
     "id": 156,
-    "name": "Page 156",
+    "name": "الصفحة 156",
     "verse_count": 8,
     "chapter_id": 7,
     "group_id": 16,
@@ -1405,7 +1405,7 @@
   },
   {
     "id": 157,
-    "name": "Page 157",
+    "name": "الصفحة 157",
     "verse_count": 6,
     "chapter_id": 7,
     "group_id": 16,
@@ -1414,7 +1414,7 @@
   },
   {
     "id": 158,
-    "name": "Page 158",
+    "name": "الصفحة 158",
     "verse_count": 10,
     "chapter_id": 7,
     "group_id": 16,
@@ -1423,7 +1423,7 @@
   },
   {
     "id": 159,
-    "name": "Page 159",
+    "name": "الصفحة 159",
     "verse_count": 6,
     "chapter_id": 7,
     "group_id": 16,
@@ -1432,7 +1432,7 @@
   },
   {
     "id": 160,
-    "name": "Page 160",
+    "name": "الصفحة 160",
     "verse_count": 8,
     "chapter_id": 7,
     "group_id": 16,
@@ -1441,7 +1441,7 @@
   },
   {
     "id": 161,
-    "name": "Page 161",
+    "name": "الصفحة 161",
     "verse_count": 6,
     "chapter_id": 7,
     "group_id": 16,
@@ -1450,7 +1450,7 @@
   },
   {
     "id": 162,
-    "name": "Page 162",
+    "name": "الصفحة 162",
     "verse_count": 8,
     "chapter_id": 7,
     "group_id": 17,
@@ -1459,7 +1459,7 @@
   },
   {
     "id": 163,
-    "name": "Page 163",
+    "name": "الصفحة 163",
     "verse_count": 9,
     "chapter_id": 7,
     "group_id": 17,
@@ -1468,7 +1468,7 @@
   },
   {
     "id": 164,
-    "name": "Page 164",
+    "name": "الصفحة 164",
     "verse_count": 16,
     "chapter_id": 7,
     "group_id": 17,
@@ -1477,7 +1477,7 @@
   },
   {
     "id": 165,
-    "name": "Page 165",
+    "name": "الصفحة 165",
     "verse_count": 10,
     "chapter_id": 7,
     "group_id": 17,
@@ -1486,7 +1486,7 @@
   },
   {
     "id": 166,
-    "name": "Page 166",
+    "name": "الصفحة 166",
     "verse_count": 7,
     "chapter_id": 7,
     "group_id": 17,
@@ -1495,7 +1495,7 @@
   },
   {
     "id": 167,
-    "name": "Page 167",
+    "name": "الصفحة 167",
     "verse_count": 6,
     "chapter_id": 7,
     "group_id": 17,
@@ -1504,7 +1504,7 @@
   },
   {
     "id": 168,
-    "name": "Page 168",
+    "name": "الصفحة 168",
     "verse_count": 6,
     "chapter_id": 7,
     "group_id": 17,
@@ -1513,7 +1513,7 @@
   },
   {
     "id": 169,
-    "name": "Page 169",
+    "name": "الصفحة 169",
     "verse_count": 6,
     "chapter_id": 7,
     "group_id": 17,
@@ -1522,7 +1522,7 @@
   },
   {
     "id": 170,
-    "name": "Page 170",
+    "name": "الصفحة 170",
     "verse_count": 4,
     "chapter_id": 7,
     "group_id": 17,
@@ -1531,7 +1531,7 @@
   },
   {
     "id": 171,
-    "name": "Page 171",
+    "name": "الصفحة 171",
     "verse_count": 4,
     "chapter_id": 7,
     "group_id": 17,
@@ -1540,7 +1540,7 @@
   },
   {
     "id": 172,
-    "name": "Page 172",
+    "name": "الصفحة 172",
     "verse_count": 7,
     "chapter_id": 7,
     "group_id": 17,
@@ -1549,7 +1549,7 @@
   },
   {
     "id": 173,
-    "name": "Page 173",
+    "name": "الصفحة 173",
     "verse_count": 8,
     "chapter_id": 7,
     "group_id": 18,
@@ -1558,7 +1558,7 @@
   },
   {
     "id": 174,
-    "name": "Page 174",
+    "name": "الصفحة 174",
     "verse_count": 9,
     "chapter_id": 7,
     "group_id": 18,
@@ -1567,7 +1567,7 @@
   },
   {
     "id": 175,
-    "name": "Page 175",
+    "name": "الصفحة 175",
     "verse_count": 8,
     "chapter_id": 7,
     "group_id": 18,
@@ -1576,7 +1576,7 @@
   },
   {
     "id": 176,
-    "name": "Page 176",
+    "name": "الصفحة 176",
     "verse_count": 11,
     "chapter_id": 7,
     "group_id": 18,
@@ -1585,7 +1585,7 @@
   },
   {
     "id": 177,
-    "name": "Page 177",
+    "name": "الصفحة 177",
     "verse_count": 8,
     "chapter_id": 8,
     "group_id": 18,
@@ -1594,7 +1594,7 @@
   },
   {
     "id": 178,
-    "name": "Page 178",
+    "name": "الصفحة 178",
     "verse_count": 8,
     "chapter_id": 8,
     "group_id": 18,
@@ -1603,7 +1603,7 @@
   },
   {
     "id": 179,
-    "name": "Page 179",
+    "name": "الصفحة 179",
     "verse_count": 9,
     "chapter_id": 8,
     "group_id": 18,
@@ -1612,7 +1612,7 @@
   },
   {
     "id": 180,
-    "name": "Page 180",
+    "name": "الصفحة 180",
     "verse_count": 8,
     "chapter_id": 8,
     "group_id": 18,
@@ -1621,7 +1621,7 @@
   },
   {
     "id": 181,
-    "name": "Page 181",
+    "name": "الصفحة 181",
     "verse_count": 7,
     "chapter_id": 8,
     "group_id": 18,
@@ -1630,7 +1630,7 @@
   },
   {
     "id": 182,
-    "name": "Page 182",
+    "name": "الصفحة 182",
     "verse_count": 5,
     "chapter_id": 8,
     "group_id": 19,
@@ -1639,7 +1639,7 @@
   },
   {
     "id": 183,
-    "name": "Page 183",
+    "name": "الصفحة 183",
     "verse_count": 7,
     "chapter_id": 8,
     "group_id": 19,
@@ -1648,7 +1648,7 @@
   },
   {
     "id": 184,
-    "name": "Page 184",
+    "name": "الصفحة 184",
     "verse_count": 9,
     "chapter_id": 8,
     "group_id": 19,
@@ -1657,7 +1657,7 @@
   },
   {
     "id": 185,
-    "name": "Page 185",
+    "name": "الصفحة 185",
     "verse_count": 8,
     "chapter_id": 8,
     "group_id": 19,
@@ -1666,7 +1666,7 @@
   },
   {
     "id": 186,
-    "name": "Page 186",
+    "name": "الصفحة 186",
     "verse_count": 6,
     "chapter_id": 8,
     "group_id": 19,
@@ -1675,7 +1675,7 @@
   },
   {
     "id": 187,
-    "name": "Page 187",
+    "name": "الصفحة 187",
     "verse_count": 6,
     "chapter_id": 9,
     "group_id": 19,
@@ -1684,7 +1684,7 @@
   },
   {
     "id": 188,
-    "name": "Page 188",
+    "name": "الصفحة 188",
     "verse_count": 7,
     "chapter_id": 9,
     "group_id": 19,
@@ -1693,7 +1693,7 @@
   },
   {
     "id": 189,
-    "name": "Page 189",
+    "name": "الصفحة 189",
     "verse_count": 7,
     "chapter_id": 9,
     "group_id": 19,
@@ -1702,7 +1702,7 @@
   },
   {
     "id": 190,
-    "name": "Page 190",
+    "name": "الصفحة 190",
     "verse_count": 6,
     "chapter_id": 9,
     "group_id": 19,
@@ -1711,7 +1711,7 @@
   },
   {
     "id": 191,
-    "name": "Page 191",
+    "name": "الصفحة 191",
     "verse_count": 5,
     "chapter_id": 9,
     "group_id": 19,
@@ -1720,7 +1720,7 @@
   },
   {
     "id": 192,
-    "name": "Page 192",
+    "name": "الصفحة 192",
     "verse_count": 5,
     "chapter_id": 9,
     "group_id": 19,
@@ -1729,7 +1729,7 @@
   },
   {
     "id": 193,
-    "name": "Page 193",
+    "name": "الصفحة 193",
     "verse_count": 4,
     "chapter_id": 9,
     "group_id": 20,
@@ -1738,7 +1738,7 @@
   },
   {
     "id": 194,
-    "name": "Page 194",
+    "name": "الصفحة 194",
     "verse_count": 7,
     "chapter_id": 9,
     "group_id": 20,
@@ -1747,7 +1747,7 @@
   },
   {
     "id": 195,
-    "name": "Page 195",
+    "name": "الصفحة 195",
     "verse_count": 7,
     "chapter_id": 9,
     "group_id": 20,
@@ -1756,7 +1756,7 @@
   },
   {
     "id": 196,
-    "name": "Page 196",
+    "name": "الصفحة 196",
     "verse_count": 7,
     "chapter_id": 9,
     "group_id": 20,
@@ -1765,7 +1765,7 @@
   },
   {
     "id": 197,
-    "name": "Page 197",
+    "name": "الصفحة 197",
     "verse_count": 7,
     "chapter_id": 9,
     "group_id": 20,
@@ -1774,7 +1774,7 @@
   },
   {
     "id": 198,
-    "name": "Page 198",
+    "name": "الصفحة 198",
     "verse_count": 4,
     "chapter_id": 9,
     "group_id": 20,
@@ -1783,7 +1783,7 @@
   },
   {
     "id": 199,
-    "name": "Page 199",
+    "name": "الصفحة 199",
     "verse_count": 7,
     "chapter_id": 9,
     "group_id": 20,
@@ -1792,7 +1792,7 @@
   },
   {
     "id": 200,
-    "name": "Page 200",
+    "name": "الصفحة 200",
     "verse_count": 7,
     "chapter_id": 9,
     "group_id": 20,
@@ -1801,7 +1801,7 @@
   },
   {
     "id": 201,
-    "name": "Page 201",
+    "name": "الصفحة 201",
     "verse_count": 7,
     "chapter_id": 9,
     "group_id": 20,
@@ -1810,7 +1810,7 @@
   },
   {
     "id": 202,
-    "name": "Page 202",
+    "name": "الصفحة 202",
     "verse_count": 6,
     "chapter_id": 9,
     "group_id": 21,
@@ -1819,7 +1819,7 @@
   },
   {
     "id": 203,
-    "name": "Page 203",
+    "name": "الصفحة 203",
     "verse_count": 7,
     "chapter_id": 9,
     "group_id": 21,
@@ -1828,7 +1828,7 @@
   },
   {
     "id": 204,
-    "name": "Page 204",
+    "name": "الصفحة 204",
     "verse_count": 5,
     "chapter_id": 9,
     "group_id": 21,
@@ -1837,7 +1837,7 @@
   },
   {
     "id": 205,
-    "name": "Page 205",
+    "name": "الصفحة 205",
     "verse_count": 6,
     "chapter_id": 9,
     "group_id": 21,
@@ -1846,7 +1846,7 @@
   },
   {
     "id": 206,
-    "name": "Page 206",
+    "name": "الصفحة 206",
     "verse_count": 5,
     "chapter_id": 9,
     "group_id": 21,
@@ -1855,7 +1855,7 @@
   },
   {
     "id": 207,
-    "name": "Page 207",
+    "name": "الصفحة 207",
     "verse_count": 7,
     "chapter_id": 9,
     "group_id": 21,
@@ -1864,7 +1864,7 @@
   },
   {
     "id": 208,
-    "name": "Page 208",
+    "name": "الصفحة 208",
     "verse_count": 6,
     "chapter_id": 10,
     "group_id": 21,
@@ -1873,7 +1873,7 @@
   },
   {
     "id": 209,
-    "name": "Page 209",
+    "name": "الصفحة 209",
     "verse_count": 8,
     "chapter_id": 10,
     "group_id": 21,
@@ -1882,7 +1882,7 @@
   },
   {
     "id": 210,
-    "name": "Page 210",
+    "name": "الصفحة 210",
     "verse_count": 6,
     "chapter_id": 10,
     "group_id": 21,
@@ -1891,7 +1891,7 @@
   },
   {
     "id": 211,
-    "name": "Page 211",
+    "name": "الصفحة 211",
     "verse_count": 5,
     "chapter_id": 10,
     "group_id": 21,
@@ -1900,7 +1900,7 @@
   },
   {
     "id": 212,
-    "name": "Page 212",
+    "name": "الصفحة 212",
     "verse_count": 8,
     "chapter_id": 10,
     "group_id": 22,
@@ -1909,7 +1909,7 @@
   },
   {
     "id": 213,
-    "name": "Page 213",
+    "name": "الصفحة 213",
     "verse_count": 9,
     "chapter_id": 10,
     "group_id": 22,
@@ -1918,7 +1918,7 @@
   },
   {
     "id": 214,
-    "name": "Page 214",
+    "name": "الصفحة 214",
     "verse_count": 11,
     "chapter_id": 10,
     "group_id": 22,
@@ -1927,7 +1927,7 @@
   },
   {
     "id": 215,
-    "name": "Page 215",
+    "name": "الصفحة 215",
     "verse_count": 8,
     "chapter_id": 10,
     "group_id": 22,
@@ -1936,7 +1936,7 @@
   },
   {
     "id": 216,
-    "name": "Page 216",
+    "name": "الصفحة 216",
     "verse_count": 9,
     "chapter_id": 10,
     "group_id": 22,
@@ -1945,7 +1945,7 @@
   },
   {
     "id": 217,
-    "name": "Page 217",
+    "name": "الصفحة 217",
     "verse_count": 8,
     "chapter_id": 10,
     "group_id": 22,
@@ -1954,7 +1954,7 @@
   },
   {
     "id": 218,
-    "name": "Page 218",
+    "name": "الصفحة 218",
     "verse_count": 10,
     "chapter_id": 10,
     "group_id": 22,
@@ -1963,7 +1963,7 @@
   },
   {
     "id": 219,
-    "name": "Page 219",
+    "name": "الصفحة 219",
     "verse_count": 9,
     "chapter_id": 10,
     "group_id": 22,
@@ -1972,7 +1972,7 @@
   },
   {
     "id": 220,
-    "name": "Page 220",
+    "name": "الصفحة 220",
     "verse_count": 9,
     "chapter_id": 10,
     "group_id": 22,
@@ -1981,7 +1981,7 @@
   },
   {
     "id": 221,
-    "name": "Page 221",
+    "name": "الصفحة 221",
     "verse_count": 8,
     "chapter_id": 10,
     "group_id": 22,
@@ -1990,7 +1990,7 @@
   },
   {
     "id": 222,
-    "name": "Page 222",
+    "name": "الصفحة 222",
     "verse_count": 7,
     "chapter_id": 11,
     "group_id": 23,
@@ -1999,7 +1999,7 @@
   },
   {
     "id": 223,
-    "name": "Page 223",
+    "name": "الصفحة 223",
     "verse_count": 7,
     "chapter_id": 11,
     "group_id": 23,
@@ -2008,7 +2008,7 @@
   },
   {
     "id": 224,
-    "name": "Page 224",
+    "name": "الصفحة 224",
     "verse_count": 9,
     "chapter_id": 11,
     "group_id": 23,
@@ -2017,7 +2017,7 @@
   },
   {
     "id": 225,
-    "name": "Page 225",
+    "name": "الصفحة 225",
     "verse_count": 9,
     "chapter_id": 11,
     "group_id": 23,
@@ -2026,7 +2026,7 @@
   },
   {
     "id": 226,
-    "name": "Page 226",
+    "name": "الصفحة 226",
     "verse_count": 8,
     "chapter_id": 11,
     "group_id": 23,
@@ -2035,7 +2035,7 @@
   },
   {
     "id": 227,
-    "name": "Page 227",
+    "name": "الصفحة 227",
     "verse_count": 8,
     "chapter_id": 11,
     "group_id": 23,
@@ -2044,7 +2044,7 @@
   },
   {
     "id": 228,
-    "name": "Page 228",
+    "name": "الصفحة 228",
     "verse_count": 9,
     "chapter_id": 11,
     "group_id": 23,
@@ -2053,7 +2053,7 @@
   },
   {
     "id": 229,
-    "name": "Page 229",
+    "name": "الصفحة 229",
     "verse_count": 9,
     "chapter_id": 11,
     "group_id": 23,
@@ -2062,7 +2062,7 @@
   },
   {
     "id": 230,
-    "name": "Page 230",
+    "name": "الصفحة 230",
     "verse_count": 10,
     "chapter_id": 11,
     "group_id": 23,
@@ -2071,7 +2071,7 @@
   },
   {
     "id": 231,
-    "name": "Page 231",
+    "name": "الصفحة 231",
     "verse_count": 7,
     "chapter_id": 11,
     "group_id": 23,
@@ -2080,7 +2080,7 @@
   },
   {
     "id": 232,
-    "name": "Page 232",
+    "name": "الصفحة 232",
     "verse_count": 9,
     "chapter_id": 11,
     "group_id": 24,
@@ -2089,7 +2089,7 @@
   },
   {
     "id": 233,
-    "name": "Page 233",
+    "name": "الصفحة 233",
     "verse_count": 11,
     "chapter_id": 11,
     "group_id": 24,
@@ -2098,7 +2098,7 @@
   },
   {
     "id": 234,
-    "name": "Page 234",
+    "name": "الصفحة 234",
     "verse_count": 9,
     "chapter_id": 11,
     "group_id": 24,
@@ -2107,7 +2107,7 @@
   },
   {
     "id": 235,
-    "name": "Page 235",
+    "name": "الصفحة 235",
     "verse_count": 10,
     "chapter_id": 11,
     "group_id": 24,
@@ -2116,7 +2116,7 @@
   },
   {
     "id": 236,
-    "name": "Page 236",
+    "name": "الصفحة 236",
     "verse_count": 10,
     "chapter_id": 12,
     "group_id": 24,
@@ -2125,7 +2125,7 @@
   },
   {
     "id": 237,
-    "name": "Page 237",
+    "name": "الصفحة 237",
     "verse_count": 8,
     "chapter_id": 12,
     "group_id": 24,
@@ -2134,7 +2134,7 @@
   },
   {
     "id": 238,
-    "name": "Page 238",
+    "name": "الصفحة 238",
     "verse_count": 8,
     "chapter_id": 12,
     "group_id": 24,
@@ -2143,7 +2143,7 @@
   },
   {
     "id": 239,
-    "name": "Page 239",
+    "name": "الصفحة 239",
     "verse_count": 7,
     "chapter_id": 12,
     "group_id": 24,
@@ -2152,7 +2152,7 @@
   },
   {
     "id": 240,
-    "name": "Page 240",
+    "name": "الصفحة 240",
     "verse_count": 6,
     "chapter_id": 12,
     "group_id": 24,
@@ -2161,7 +2161,7 @@
   },
   {
     "id": 241,
-    "name": "Page 241",
+    "name": "الصفحة 241",
     "verse_count": 9,
     "chapter_id": 12,
     "group_id": 24,
@@ -2170,7 +2170,7 @@
   },
   {
     "id": 242,
-    "name": "Page 242",
+    "name": "الصفحة 242",
     "verse_count": 11,
     "chapter_id": 12,
     "group_id": 25,
@@ -2179,7 +2179,7 @@
   },
   {
     "id": 243,
-    "name": "Page 243",
+    "name": "الصفحة 243",
     "verse_count": 6,
     "chapter_id": 12,
     "group_id": 25,
@@ -2188,7 +2188,7 @@
   },
   {
     "id": 244,
-    "name": "Page 244",
+    "name": "الصفحة 244",
     "verse_count": 9,
     "chapter_id": 12,
     "group_id": 25,
@@ -2197,7 +2197,7 @@
   },
   {
     "id": 245,
-    "name": "Page 245",
+    "name": "الصفحة 245",
     "verse_count": 8,
     "chapter_id": 12,
     "group_id": 25,
@@ -2206,7 +2206,7 @@
   },
   {
     "id": 246,
-    "name": "Page 246",
+    "name": "الصفحة 246",
     "verse_count": 9,
     "chapter_id": 12,
     "group_id": 25,
@@ -2215,7 +2215,7 @@
   },
   {
     "id": 247,
-    "name": "Page 247",
+    "name": "الصفحة 247",
     "verse_count": 8,
     "chapter_id": 12,
     "group_id": 25,
@@ -2224,7 +2224,7 @@
   },
   {
     "id": 248,
-    "name": "Page 248",
+    "name": "الصفحة 248",
     "verse_count": 8,
     "chapter_id": 12,
     "group_id": 25,
@@ -2233,7 +2233,7 @@
   },
   {
     "id": 249,
-    "name": "Page 249",
+    "name": "الصفحة 249",
     "verse_count": 5,
     "chapter_id": 13,
     "group_id": 25,
@@ -2242,7 +2242,7 @@
   },
   {
     "id": 250,
-    "name": "Page 250",
+    "name": "الصفحة 250",
     "verse_count": 8,
     "chapter_id": 13,
     "group_id": 25,
@@ -2251,7 +2251,7 @@
   },
   {
     "id": 251,
-    "name": "Page 251",
+    "name": "الصفحة 251",
     "verse_count": 5,
     "chapter_id": 13,
     "group_id": 25,
@@ -2260,7 +2260,7 @@
   },
   {
     "id": 252,
-    "name": "Page 252",
+    "name": "الصفحة 252",
     "verse_count": 10,
     "chapter_id": 13,
     "group_id": 26,
@@ -2269,7 +2269,7 @@
   },
   {
     "id": 253,
-    "name": "Page 253",
+    "name": "الصفحة 253",
     "verse_count": 6,
     "chapter_id": 13,
     "group_id": 26,
@@ -2278,7 +2278,7 @@
   },
   {
     "id": 254,
-    "name": "Page 254",
+    "name": "الصفحة 254",
     "verse_count": 8,
     "chapter_id": 13,
     "group_id": 26,
@@ -2287,7 +2287,7 @@
   },
   {
     "id": 255,
-    "name": "Page 255",
+    "name": "الصفحة 255",
     "verse_count": 6,
     "chapter_id": 13,
     "group_id": 26,
@@ -2296,7 +2296,7 @@
   },
   {
     "id": 256,
-    "name": "Page 256",
+    "name": "الصفحة 256",
     "verse_count": 5,
     "chapter_id": 14,
     "group_id": 26,
@@ -2305,7 +2305,7 @@
   },
   {
     "id": 257,
-    "name": "Page 257",
+    "name": "الصفحة 257",
     "verse_count": 8,
     "chapter_id": 14,
     "group_id": 26,
@@ -2314,7 +2314,7 @@
   },
   {
     "id": 258,
-    "name": "Page 258",
+    "name": "الصفحة 258",
     "verse_count": 6,
     "chapter_id": 14,
     "group_id": 26,
@@ -2323,7 +2323,7 @@
   },
   {
     "id": 259,
-    "name": "Page 259",
+    "name": "الصفحة 259",
     "verse_count": 9,
     "chapter_id": 14,
     "group_id": 26,
@@ -2332,7 +2332,7 @@
   },
   {
     "id": 260,
-    "name": "Page 260",
+    "name": "الصفحة 260",
     "verse_count": 9,
     "chapter_id": 14,
     "group_id": 26,
@@ -2341,7 +2341,7 @@
   },
   {
     "id": 261,
-    "name": "Page 261",
+    "name": "الصفحة 261",
     "verse_count": 10,
     "chapter_id": 14,
     "group_id": 26,
@@ -2350,7 +2350,7 @@
   },
   {
     "id": 262,
-    "name": "Page 262",
+    "name": "الصفحة 262",
     "verse_count": 15,
     "chapter_id": 15,
     "group_id": 27,
@@ -2359,7 +2359,7 @@
   },
   {
     "id": 263,
-    "name": "Page 263",
+    "name": "الصفحة 263",
     "verse_count": 16,
     "chapter_id": 15,
     "group_id": 27,
@@ -2368,7 +2368,7 @@
   },
   {
     "id": 264,
-    "name": "Page 264",
+    "name": "الصفحة 264",
     "verse_count": 20,
     "chapter_id": 15,
     "group_id": 27,
@@ -2377,7 +2377,7 @@
   },
   {
     "id": 265,
-    "name": "Page 265",
+    "name": "الصفحة 265",
     "verse_count": 19,
     "chapter_id": 15,
     "group_id": 27,
@@ -2386,7 +2386,7 @@
   },
   {
     "id": 266,
-    "name": "Page 266",
+    "name": "الصفحة 266",
     "verse_count": 20,
     "chapter_id": 15,
     "group_id": 27,
@@ -2395,7 +2395,7 @@
   },
   {
     "id": 267,
-    "name": "Page 267",
+    "name": "الصفحة 267",
     "verse_count": 15,
     "chapter_id": 15,
     "group_id": 27,
@@ -2404,7 +2404,7 @@
   },
   {
     "id": 268,
-    "name": "Page 268",
+    "name": "الصفحة 268",
     "verse_count": 8,
     "chapter_id": 16,
     "group_id": 27,
@@ -2413,7 +2413,7 @@
   },
   {
     "id": 269,
-    "name": "Page 269",
+    "name": "الصفحة 269",
     "verse_count": 12,
     "chapter_id": 16,
     "group_id": 27,
@@ -2422,7 +2422,7 @@
   },
   {
     "id": 270,
-    "name": "Page 270",
+    "name": "الصفحة 270",
     "verse_count": 8,
     "chapter_id": 16,
     "group_id": 27,
@@ -2431,7 +2431,7 @@
   },
   {
     "id": 271,
-    "name": "Page 271",
+    "name": "الصفحة 271",
     "verse_count": 8,
     "chapter_id": 16,
     "group_id": 27,
@@ -2440,7 +2440,7 @@
   },
   {
     "id": 272,
-    "name": "Page 272",
+    "name": "الصفحة 272",
     "verse_count": 12,
     "chapter_id": 16,
     "group_id": 27,
@@ -2449,7 +2449,7 @@
   },
   {
     "id": 273,
-    "name": "Page 273",
+    "name": "الصفحة 273",
     "verse_count": 10,
     "chapter_id": 16,
     "group_id": 28,
@@ -2458,7 +2458,7 @@
   },
   {
     "id": 274,
-    "name": "Page 274",
+    "name": "الصفحة 274",
     "verse_count": 8,
     "chapter_id": 16,
     "group_id": 28,
@@ -2467,7 +2467,7 @@
   },
   {
     "id": 275,
-    "name": "Page 275",
+    "name": "الصفحة 275",
     "verse_count": 7,
     "chapter_id": 16,
     "group_id": 28,
@@ -2476,7 +2476,7 @@
   },
   {
     "id": 276,
-    "name": "Page 276",
+    "name": "الصفحة 276",
     "verse_count": 8,
     "chapter_id": 16,
     "group_id": 28,
@@ -2485,7 +2485,7 @@
   },
   {
     "id": 277,
-    "name": "Page 277",
+    "name": "الصفحة 277",
     "verse_count": 6,
     "chapter_id": 16,
     "group_id": 28,
@@ -2494,7 +2494,7 @@
   },
   {
     "id": 278,
-    "name": "Page 278",
+    "name": "الصفحة 278",
     "verse_count": 9,
     "chapter_id": 16,
     "group_id": 28,
@@ -2503,7 +2503,7 @@
   },
   {
     "id": 279,
-    "name": "Page 279",
+    "name": "الصفحة 279",
     "verse_count": 8,
     "chapter_id": 16,
     "group_id": 28,
@@ -2512,7 +2512,7 @@
   },
   {
     "id": 280,
-    "name": "Page 280",
+    "name": "الصفحة 280",
     "verse_count": 8,
     "chapter_id": 16,
     "group_id": 28,
@@ -2521,7 +2521,7 @@
   },
   {
     "id": 281,
-    "name": "Page 281",
+    "name": "الصفحة 281",
     "verse_count": 10,
     "chapter_id": 16,
     "group_id": 28,
@@ -2530,7 +2530,7 @@
   },
   {
     "id": 282,
-    "name": "Page 282",
+    "name": "الصفحة 282",
     "verse_count": 7,
     "chapter_id": 17,
     "group_id": 29,
@@ -2539,7 +2539,7 @@
   },
   {
     "id": 283,
-    "name": "Page 283",
+    "name": "الصفحة 283",
     "verse_count": 10,
     "chapter_id": 17,
     "group_id": 29,
@@ -2548,7 +2548,7 @@
   },
   {
     "id": 284,
-    "name": "Page 284",
+    "name": "الصفحة 284",
     "verse_count": 10,
     "chapter_id": 17,
     "group_id": 29,
@@ -2557,7 +2557,7 @@
   },
   {
     "id": 285,
-    "name": "Page 285",
+    "name": "الصفحة 285",
     "verse_count": 11,
     "chapter_id": 17,
     "group_id": 29,
@@ -2566,7 +2566,7 @@
   },
   {
     "id": 286,
-    "name": "Page 286",
+    "name": "الصفحة 286",
     "verse_count": 11,
     "chapter_id": 17,
     "group_id": 29,
@@ -2575,7 +2575,7 @@
   },
   {
     "id": 287,
-    "name": "Page 287",
+    "name": "الصفحة 287",
     "verse_count": 9,
     "chapter_id": 17,
     "group_id": 29,
@@ -2584,7 +2584,7 @@
   },
   {
     "id": 288,
-    "name": "Page 288",
+    "name": "الصفحة 288",
     "verse_count": 8,
     "chapter_id": 17,
     "group_id": 29,
@@ -2593,7 +2593,7 @@
   },
   {
     "id": 289,
-    "name": "Page 289",
+    "name": "الصفحة 289",
     "verse_count": 9,
     "chapter_id": 17,
     "group_id": 29,
@@ -2602,7 +2602,7 @@
   },
   {
     "id": 290,
-    "name": "Page 290",
+    "name": "الصفحة 290",
     "verse_count": 11,
     "chapter_id": 17,
     "group_id": 29,
@@ -2611,7 +2611,7 @@
   },
   {
     "id": 291,
-    "name": "Page 291",
+    "name": "الصفحة 291",
     "verse_count": 10,
     "chapter_id": 17,
     "group_id": 29,
@@ -2620,7 +2620,7 @@
   },
   {
     "id": 292,
-    "name": "Page 292",
+    "name": "الصفحة 292",
     "verse_count": 8,
     "chapter_id": 17,
     "group_id": 29,
@@ -2629,7 +2629,7 @@
   },
   {
     "id": 293,
-    "name": "Page 293",
+    "name": "الصفحة 293",
     "verse_count": 11,
     "chapter_id": 17,
     "group_id": 30,
@@ -2638,7 +2638,7 @@
   },
   {
     "id": 294,
-    "name": "Page 294",
+    "name": "الصفحة 294",
     "verse_count": 11,
     "chapter_id": 18,
     "group_id": 30,
@@ -2647,7 +2647,7 @@
   },
   {
     "id": 295,
-    "name": "Page 295",
+    "name": "الصفحة 295",
     "verse_count": 5,
     "chapter_id": 18,
     "group_id": 30,
@@ -2656,7 +2656,7 @@
   },
   {
     "id": 296,
-    "name": "Page 296",
+    "name": "الصفحة 296",
     "verse_count": 7,
     "chapter_id": 18,
     "group_id": 30,
@@ -2665,7 +2665,7 @@
   },
   {
     "id": 297,
-    "name": "Page 297",
+    "name": "الصفحة 297",
     "verse_count": 7,
     "chapter_id": 18,
     "group_id": 30,
@@ -2674,7 +2674,7 @@
   },
   {
     "id": 298,
-    "name": "Page 298",
+    "name": "الصفحة 298",
     "verse_count": 11,
     "chapter_id": 18,
     "group_id": 30,
@@ -2683,7 +2683,7 @@
   },
   {
     "id": 299,
-    "name": "Page 299",
+    "name": "الصفحة 299",
     "verse_count": 8,
     "chapter_id": 18,
     "group_id": 30,
@@ -2692,7 +2692,7 @@
   },
   {
     "id": 300,
-    "name": "Page 300",
+    "name": "الصفحة 300",
     "verse_count": 8,
     "chapter_id": 18,
     "group_id": 30,
@@ -2701,7 +2701,7 @@
   },
   {
     "id": 301,
-    "name": "Page 301",
+    "name": "الصفحة 301",
     "verse_count": 13,
     "chapter_id": 18,
     "group_id": 30,
@@ -2710,7 +2710,7 @@
   },
   {
     "id": 302,
-    "name": "Page 302",
+    "name": "الصفحة 302",
     "verse_count": 9,
     "chapter_id": 18,
     "group_id": 31,
@@ -2719,7 +2719,7 @@
   },
   {
     "id": 303,
-    "name": "Page 303",
+    "name": "الصفحة 303",
     "verse_count": 14,
     "chapter_id": 18,
     "group_id": 31,
@@ -2728,7 +2728,7 @@
   },
   {
     "id": 304,
-    "name": "Page 304",
+    "name": "الصفحة 304",
     "verse_count": 13,
     "chapter_id": 18,
     "group_id": 31,
@@ -2737,7 +2737,7 @@
   },
   {
     "id": 305,
-    "name": "Page 305",
+    "name": "الصفحة 305",
     "verse_count": 11,
     "chapter_id": 19,
     "group_id": 31,
@@ -2746,7 +2746,7 @@
   },
   {
     "id": 306,
-    "name": "Page 306",
+    "name": "الصفحة 306",
     "verse_count": 14,
     "chapter_id": 19,
     "group_id": 31,
@@ -2755,7 +2755,7 @@
   },
   {
     "id": 307,
-    "name": "Page 307",
+    "name": "الصفحة 307",
     "verse_count": 13,
     "chapter_id": 19,
     "group_id": 31,
@@ -2764,7 +2764,7 @@
   },
   {
     "id": 308,
-    "name": "Page 308",
+    "name": "الصفحة 308",
     "verse_count": 13,
     "chapter_id": 19,
     "group_id": 31,
@@ -2773,7 +2773,7 @@
   },
   {
     "id": 309,
-    "name": "Page 309",
+    "name": "الصفحة 309",
     "verse_count": 13,
     "chapter_id": 19,
     "group_id": 31,
@@ -2782,7 +2782,7 @@
   },
   {
     "id": 310,
-    "name": "Page 310",
+    "name": "الصفحة 310",
     "verse_count": 12,
     "chapter_id": 19,
     "group_id": 31,
@@ -2791,7 +2791,7 @@
   },
   {
     "id": 311,
-    "name": "Page 311",
+    "name": "الصفحة 311",
     "verse_count": 19,
     "chapter_id": 19,
     "group_id": 31,
@@ -2800,7 +2800,7 @@
   },
   {
     "id": 312,
-    "name": "Page 312",
+    "name": "الصفحة 312",
     "verse_count": 15,
     "chapter_id": 19,
     "group_id": 31,
@@ -2809,7 +2809,7 @@
   },
   {
     "id": 313,
-    "name": "Page 313",
+    "name": "الصفحة 313",
     "verse_count": 25,
     "chapter_id": 20,
     "group_id": 32,
@@ -2818,7 +2818,7 @@
   },
   {
     "id": 314,
-    "name": "Page 314",
+    "name": "الصفحة 314",
     "verse_count": 14,
     "chapter_id": 20,
     "group_id": 32,
@@ -2827,7 +2827,7 @@
   },
   {
     "id": 315,
-    "name": "Page 315",
+    "name": "الصفحة 315",
     "verse_count": 13,
     "chapter_id": 20,
     "group_id": 32,
@@ -2836,7 +2836,7 @@
   },
   {
     "id": 316,
-    "name": "Page 316",
+    "name": "الصفحة 316",
     "verse_count": 12,
     "chapter_id": 20,
     "group_id": 32,
@@ -2845,7 +2845,7 @@
   },
   {
     "id": 317,
-    "name": "Page 317",
+    "name": "الصفحة 317",
     "verse_count": 11,
     "chapter_id": 20,
     "group_id": 32,
@@ -2854,7 +2854,7 @@
   },
   {
     "id": 318,
-    "name": "Page 318",
+    "name": "الصفحة 318",
     "verse_count": 11,
     "chapter_id": 20,
     "group_id": 32,
@@ -2863,7 +2863,7 @@
   },
   {
     "id": 319,
-    "name": "Page 319",
+    "name": "الصفحة 319",
     "verse_count": 15,
     "chapter_id": 20,
     "group_id": 32,
@@ -2872,7 +2872,7 @@
   },
   {
     "id": 320,
-    "name": "Page 320",
+    "name": "الصفحة 320",
     "verse_count": 12,
     "chapter_id": 20,
     "group_id": 32,
@@ -2881,7 +2881,7 @@
   },
   {
     "id": 321,
-    "name": "Page 321",
+    "name": "الصفحة 321",
     "verse_count": 10,
     "chapter_id": 20,
     "group_id": 32,
@@ -2890,7 +2890,7 @@
   },
   {
     "id": 322,
-    "name": "Page 322",
+    "name": "الصفحة 322",
     "verse_count": 10,
     "chapter_id": 21,
     "group_id": 33,
@@ -2899,7 +2899,7 @@
   },
   {
     "id": 323,
-    "name": "Page 323",
+    "name": "الصفحة 323",
     "verse_count": 14,
     "chapter_id": 21,
     "group_id": 33,
@@ -2908,7 +2908,7 @@
   },
   {
     "id": 324,
-    "name": "Page 324",
+    "name": "الصفحة 324",
     "verse_count": 11,
     "chapter_id": 21,
     "group_id": 33,
@@ -2917,7 +2917,7 @@
   },
   {
     "id": 325,
-    "name": "Page 325",
+    "name": "الصفحة 325",
     "verse_count": 9,
     "chapter_id": 21,
     "group_id": 33,
@@ -2926,7 +2926,7 @@
   },
   {
     "id": 326,
-    "name": "Page 326",
+    "name": "الصفحة 326",
     "verse_count": 13,
     "chapter_id": 21,
     "group_id": 33,
@@ -2935,7 +2935,7 @@
   },
   {
     "id": 327,
-    "name": "Page 327",
+    "name": "الصفحة 327",
     "verse_count": 15,
     "chapter_id": 21,
     "group_id": 33,
@@ -2944,7 +2944,7 @@
   },
   {
     "id": 328,
-    "name": "Page 328",
+    "name": "الصفحة 328",
     "verse_count": 9,
     "chapter_id": 21,
     "group_id": 33,
@@ -2953,7 +2953,7 @@
   },
   {
     "id": 329,
-    "name": "Page 329",
+    "name": "الصفحة 329",
     "verse_count": 9,
     "chapter_id": 21,
     "group_id": 33,
@@ -2962,7 +2962,7 @@
   },
   {
     "id": 330,
-    "name": "Page 330",
+    "name": "الصفحة 330",
     "verse_count": 11,
     "chapter_id": 21,
     "group_id": 33,
@@ -2971,7 +2971,7 @@
   },
   {
     "id": 331,
-    "name": "Page 331",
+    "name": "الصفحة 331",
     "verse_count": 11,
     "chapter_id": 21,
     "group_id": 33,
@@ -2980,7 +2980,7 @@
   },
   {
     "id": 332,
-    "name": "Page 332",
+    "name": "الصفحة 332",
     "verse_count": 5,
     "chapter_id": 22,
     "group_id": 34,
@@ -2989,7 +2989,7 @@
   },
   {
     "id": 333,
-    "name": "Page 333",
+    "name": "الصفحة 333",
     "verse_count": 10,
     "chapter_id": 22,
     "group_id": 34,
@@ -2998,7 +2998,7 @@
   },
   {
     "id": 334,
-    "name": "Page 334",
+    "name": "الصفحة 334",
     "verse_count": 8,
     "chapter_id": 22,
     "group_id": 34,
@@ -3007,7 +3007,7 @@
   },
   {
     "id": 335,
-    "name": "Page 335",
+    "name": "الصفحة 335",
     "verse_count": 7,
     "chapter_id": 22,
     "group_id": 34,
@@ -3016,7 +3016,7 @@
   },
   {
     "id": 336,
-    "name": "Page 336",
+    "name": "الصفحة 336",
     "verse_count": 8,
     "chapter_id": 22,
     "group_id": 34,
@@ -3025,7 +3025,7 @@
   },
   {
     "id": 337,
-    "name": "Page 337",
+    "name": "الصفحة 337",
     "verse_count": 8,
     "chapter_id": 22,
     "group_id": 34,
@@ -3034,7 +3034,7 @@
   },
   {
     "id": 338,
-    "name": "Page 338",
+    "name": "الصفحة 338",
     "verse_count": 9,
     "chapter_id": 22,
     "group_id": 34,
@@ -3043,7 +3043,7 @@
   },
   {
     "id": 339,
-    "name": "Page 339",
+    "name": "الصفحة 339",
     "verse_count": 9,
     "chapter_id": 22,
     "group_id": 34,
@@ -3052,7 +3052,7 @@
   },
   {
     "id": 340,
-    "name": "Page 340",
+    "name": "الصفحة 340",
     "verse_count": 8,
     "chapter_id": 22,
     "group_id": 34,
@@ -3061,7 +3061,7 @@
   },
   {
     "id": 341,
-    "name": "Page 341",
+    "name": "الصفحة 341",
     "verse_count": 6,
     "chapter_id": 22,
     "group_id": 34,
@@ -3070,7 +3070,7 @@
   },
   {
     "id": 342,
-    "name": "Page 342",
+    "name": "الصفحة 342",
     "verse_count": 17,
     "chapter_id": 23,
     "group_id": 35,
@@ -3079,7 +3079,7 @@
   },
   {
     "id": 343,
-    "name": "Page 343",
+    "name": "الصفحة 343",
     "verse_count": 10,
     "chapter_id": 23,
     "group_id": 35,
@@ -3088,7 +3088,7 @@
   },
   {
     "id": 344,
-    "name": "Page 344",
+    "name": "الصفحة 344",
     "verse_count": 15,
     "chapter_id": 23,
     "group_id": 35,
@@ -3097,7 +3097,7 @@
   },
   {
     "id": 345,
-    "name": "Page 345",
+    "name": "الصفحة 345",
     "verse_count": 17,
     "chapter_id": 23,
     "group_id": 35,
@@ -3106,7 +3106,7 @@
   },
   {
     "id": 346,
-    "name": "Page 346",
+    "name": "الصفحة 346",
     "verse_count": 15,
     "chapter_id": 23,
     "group_id": 35,
@@ -3115,7 +3115,7 @@
   },
   {
     "id": 347,
-    "name": "Page 347",
+    "name": "الصفحة 347",
     "verse_count": 15,
     "chapter_id": 23,
     "group_id": 35,
@@ -3124,7 +3124,7 @@
   },
   {
     "id": 348,
-    "name": "Page 348",
+    "name": "الصفحة 348",
     "verse_count": 15,
     "chapter_id": 23,
     "group_id": 35,
@@ -3133,7 +3133,7 @@
   },
   {
     "id": 349,
-    "name": "Page 349",
+    "name": "الصفحة 349",
     "verse_count": 14,
     "chapter_id": 23,
     "group_id": 35,
@@ -3142,7 +3142,7 @@
   },
   {
     "id": 350,
-    "name": "Page 350",
+    "name": "الصفحة 350",
     "verse_count": 10,
     "chapter_id": 24,
     "group_id": 35,
@@ -3151,7 +3151,7 @@
   },
   {
     "id": 351,
-    "name": "Page 351",
+    "name": "الصفحة 351",
     "verse_count": 10,
     "chapter_id": 24,
     "group_id": 35,
@@ -3160,7 +3160,7 @@
   },
   {
     "id": 352,
-    "name": "Page 352",
+    "name": "الصفحة 352",
     "verse_count": 7,
     "chapter_id": 24,
     "group_id": 36,
@@ -3169,7 +3169,7 @@
   },
   {
     "id": 353,
-    "name": "Page 353",
+    "name": "الصفحة 353",
     "verse_count": 4,
     "chapter_id": 24,
     "group_id": 36,
@@ -3178,7 +3178,7 @@
   },
   {
     "id": 354,
-    "name": "Page 354",
+    "name": "الصفحة 354",
     "verse_count": 5,
     "chapter_id": 24,
     "group_id": 36,
@@ -3187,7 +3187,7 @@
   },
   {
     "id": 355,
-    "name": "Page 355",
+    "name": "الصفحة 355",
     "verse_count": 7,
     "chapter_id": 24,
     "group_id": 36,
@@ -3196,7 +3196,7 @@
   },
   {
     "id": 356,
-    "name": "Page 356",
+    "name": "الصفحة 356",
     "verse_count": 10,
     "chapter_id": 24,
     "group_id": 36,
@@ -3205,7 +3205,7 @@
   },
   {
     "id": 357,
-    "name": "Page 357",
+    "name": "الصفحة 357",
     "verse_count": 5,
     "chapter_id": 24,
     "group_id": 36,
@@ -3214,7 +3214,7 @@
   },
   {
     "id": 358,
-    "name": "Page 358",
+    "name": "الصفحة 358",
     "verse_count": 3,
     "chapter_id": 24,
     "group_id": 36,
@@ -3223,7 +3223,7 @@
   },
   {
     "id": 359,
-    "name": "Page 359",
+    "name": "الصفحة 359",
     "verse_count": 5,
     "chapter_id": 24,
     "group_id": 36,
@@ -3232,7 +3232,7 @@
   },
   {
     "id": 360,
-    "name": "Page 360",
+    "name": "الصفحة 360",
     "verse_count": 9,
     "chapter_id": 25,
     "group_id": 36,
@@ -3241,7 +3241,7 @@
   },
   {
     "id": 361,
-    "name": "Page 361",
+    "name": "الصفحة 361",
     "verse_count": 9,
     "chapter_id": 25,
     "group_id": 36,
@@ -3250,7 +3250,7 @@
   },
   {
     "id": 362,
-    "name": "Page 362",
+    "name": "الصفحة 362",
     "verse_count": 12,
     "chapter_id": 25,
     "group_id": 37,
@@ -3259,7 +3259,7 @@
   },
   {
     "id": 363,
-    "name": "Page 363",
+    "name": "الصفحة 363",
     "verse_count": 11,
     "chapter_id": 25,
     "group_id": 37,
@@ -3268,7 +3268,7 @@
   },
   {
     "id": 364,
-    "name": "Page 364",
+    "name": "الصفحة 364",
     "verse_count": 12,
     "chapter_id": 25,
     "group_id": 37,
@@ -3277,7 +3277,7 @@
   },
   {
     "id": 365,
-    "name": "Page 365",
+    "name": "الصفحة 365",
     "verse_count": 12,
     "chapter_id": 25,
     "group_id": 37,
@@ -3286,7 +3286,7 @@
   },
   {
     "id": 366,
-    "name": "Page 366",
+    "name": "الصفحة 366",
     "verse_count": 10,
     "chapter_id": 25,
     "group_id": 37,
@@ -3295,7 +3295,7 @@
   },
   {
     "id": 367,
-    "name": "Page 367",
+    "name": "الصفحة 367",
     "verse_count": 19,
     "chapter_id": 26,
     "group_id": 37,
@@ -3304,7 +3304,7 @@
   },
   {
     "id": 368,
-    "name": "Page 368",
+    "name": "الصفحة 368",
     "verse_count": 20,
     "chapter_id": 26,
     "group_id": 37,
@@ -3313,7 +3313,7 @@
   },
   {
     "id": 369,
-    "name": "Page 369",
+    "name": "الصفحة 369",
     "verse_count": 21,
     "chapter_id": 26,
     "group_id": 37,
@@ -3322,7 +3322,7 @@
   },
   {
     "id": 370,
-    "name": "Page 370",
+    "name": "الصفحة 370",
     "verse_count": 23,
     "chapter_id": 26,
     "group_id": 37,
@@ -3331,7 +3331,7 @@
   },
   {
     "id": 371,
-    "name": "Page 371",
+    "name": "الصفحة 371",
     "verse_count": 28,
     "chapter_id": 26,
     "group_id": 37,
@@ -3340,7 +3340,7 @@
   },
   {
     "id": 372,
-    "name": "Page 372",
+    "name": "الصفحة 372",
     "verse_count": 25,
     "chapter_id": 26,
     "group_id": 38,
@@ -3349,7 +3349,7 @@
   },
   {
     "id": 373,
-    "name": "Page 373",
+    "name": "الصفحة 373",
     "verse_count": 23,
     "chapter_id": 26,
     "group_id": 38,
@@ -3358,7 +3358,7 @@
   },
   {
     "id": 374,
-    "name": "Page 374",
+    "name": "الصفحة 374",
     "verse_count": 24,
     "chapter_id": 26,
     "group_id": 38,
@@ -3367,7 +3367,7 @@
   },
   {
     "id": 375,
-    "name": "Page 375",
+    "name": "الصفحة 375",
     "verse_count": 23,
     "chapter_id": 26,
     "group_id": 38,
@@ -3376,7 +3376,7 @@
   },
   {
     "id": 376,
-    "name": "Page 376",
+    "name": "الصفحة 376",
     "verse_count": 21,
     "chapter_id": 26,
     "group_id": 38,
@@ -3385,7 +3385,7 @@
   },
   {
     "id": 377,
-    "name": "Page 377",
+    "name": "الصفحة 377",
     "verse_count": 13,
     "chapter_id": 27,
     "group_id": 38,
@@ -3394,7 +3394,7 @@
   },
   {
     "id": 378,
-    "name": "Page 378",
+    "name": "الصفحة 378",
     "verse_count": 9,
     "chapter_id": 27,
     "group_id": 38,
@@ -3403,7 +3403,7 @@
   },
   {
     "id": 379,
-    "name": "Page 379",
+    "name": "الصفحة 379",
     "verse_count": 13,
     "chapter_id": 27,
     "group_id": 38,
@@ -3412,7 +3412,7 @@
   },
   {
     "id": 380,
-    "name": "Page 380",
+    "name": "الصفحة 380",
     "verse_count": 9,
     "chapter_id": 27,
     "group_id": 38,
@@ -3421,7 +3421,7 @@
   },
   {
     "id": 381,
-    "name": "Page 381",
+    "name": "الصفحة 381",
     "verse_count": 11,
     "chapter_id": 27,
     "group_id": 38,
@@ -3430,7 +3430,7 @@
   },
   {
     "id": 382,
-    "name": "Page 382",
+    "name": "الصفحة 382",
     "verse_count": 8,
     "chapter_id": 27,
     "group_id": 39,
@@ -3439,7 +3439,7 @@
   },
   {
     "id": 383,
-    "name": "Page 383",
+    "name": "الصفحة 383",
     "verse_count": 13,
     "chapter_id": 27,
     "group_id": 39,
@@ -3448,7 +3448,7 @@
   },
   {
     "id": 384,
-    "name": "Page 384",
+    "name": "الصفحة 384",
     "verse_count": 12,
     "chapter_id": 27,
     "group_id": 39,
@@ -3457,7 +3457,7 @@
   },
   {
     "id": 385,
-    "name": "Page 385",
+    "name": "الصفحة 385",
     "verse_count": 10,
     "chapter_id": 27,
     "group_id": 39,
@@ -3466,7 +3466,7 @@
   },
   {
     "id": 386,
-    "name": "Page 386",
+    "name": "الصفحة 386",
     "verse_count": 8,
     "chapter_id": 28,
     "group_id": 39,
@@ -3475,7 +3475,7 @@
   },
   {
     "id": 387,
-    "name": "Page 387",
+    "name": "الصفحة 387",
     "verse_count": 8,
     "chapter_id": 28,
     "group_id": 39,
@@ -3484,7 +3484,7 @@
   },
   {
     "id": 388,
-    "name": "Page 388",
+    "name": "الصفحة 388",
     "verse_count": 7,
     "chapter_id": 28,
     "group_id": 39,
@@ -3493,7 +3493,7 @@
   },
   {
     "id": 389,
-    "name": "Page 389",
+    "name": "الصفحة 389",
     "verse_count": 7,
     "chapter_id": 28,
     "group_id": 39,
@@ -3502,7 +3502,7 @@
   },
   {
     "id": 390,
-    "name": "Page 390",
+    "name": "الصفحة 390",
     "verse_count": 8,
     "chapter_id": 28,
     "group_id": 39,
@@ -3511,7 +3511,7 @@
   },
   {
     "id": 391,
-    "name": "Page 391",
+    "name": "الصفحة 391",
     "verse_count": 7,
     "chapter_id": 28,
     "group_id": 39,
@@ -3520,7 +3520,7 @@
   },
   {
     "id": 392,
-    "name": "Page 392",
+    "name": "الصفحة 392",
     "verse_count": 9,
     "chapter_id": 28,
     "group_id": 40,
@@ -3529,7 +3529,7 @@
   },
   {
     "id": 393,
-    "name": "Page 393",
+    "name": "الصفحة 393",
     "verse_count": 11,
     "chapter_id": 28,
     "group_id": 40,
@@ -3538,7 +3538,7 @@
   },
   {
     "id": 394,
-    "name": "Page 394",
+    "name": "الصفحة 394",
     "verse_count": 7,
     "chapter_id": 28,
     "group_id": 40,
@@ -3547,7 +3547,7 @@
   },
   {
     "id": 395,
-    "name": "Page 395",
+    "name": "الصفحة 395",
     "verse_count": 7,
     "chapter_id": 28,
     "group_id": 40,
@@ -3556,7 +3556,7 @@
   },
   {
     "id": 396,
-    "name": "Page 396",
+    "name": "الصفحة 396",
     "verse_count": 10,
     "chapter_id": 28,
     "group_id": 40,
@@ -3565,7 +3565,7 @@
   },
   {
     "id": 397,
-    "name": "Page 397",
+    "name": "الصفحة 397",
     "verse_count": 8,
     "chapter_id": 29,
     "group_id": 40,
@@ -3574,7 +3574,7 @@
   },
   {
     "id": 398,
-    "name": "Page 398",
+    "name": "الصفحة 398",
     "verse_count": 9,
     "chapter_id": 29,
     "group_id": 40,
@@ -3583,7 +3583,7 @@
   },
   {
     "id": 399,
-    "name": "Page 399",
+    "name": "الصفحة 399",
     "verse_count": 7,
     "chapter_id": 29,
     "group_id": 40,
@@ -3592,7 +3592,7 @@
   },
   {
     "id": 400,
-    "name": "Page 400",
+    "name": "الصفحة 400",
     "verse_count": 8,
     "chapter_id": 29,
     "group_id": 40,
@@ -3601,7 +3601,7 @@
   },
   {
     "id": 401,
-    "name": "Page 401",
+    "name": "الصفحة 401",
     "verse_count": 7,
     "chapter_id": 29,
     "group_id": 40,
@@ -3610,7 +3610,7 @@
   },
   {
     "id": 402,
-    "name": "Page 402",
+    "name": "الصفحة 402",
     "verse_count": 7,
     "chapter_id": 29,
     "group_id": 41,
@@ -3619,7 +3619,7 @@
   },
   {
     "id": 403,
-    "name": "Page 403",
+    "name": "الصفحة 403",
     "verse_count": 11,
     "chapter_id": 29,
     "group_id": 41,
@@ -3628,7 +3628,7 @@
   },
   {
     "id": 404,
-    "name": "Page 404",
+    "name": "الصفحة 404",
     "verse_count": 11,
     "chapter_id": 29,
     "group_id": 41,
@@ -3637,7 +3637,7 @@
   },
   {
     "id": 405,
-    "name": "Page 405",
+    "name": "الصفحة 405",
     "verse_count": 10,
     "chapter_id": 30,
     "group_id": 41,
@@ -3646,7 +3646,7 @@
   },
   {
     "id": 406,
-    "name": "Page 406",
+    "name": "الصفحة 406",
     "verse_count": 9,
     "chapter_id": 30,
     "group_id": 41,
@@ -3655,7 +3655,7 @@
   },
   {
     "id": 407,
-    "name": "Page 407",
+    "name": "الصفحة 407",
     "verse_count": 8,
     "chapter_id": 30,
     "group_id": 41,
@@ -3664,7 +3664,7 @@
   },
   {
     "id": 408,
-    "name": "Page 408",
+    "name": "الصفحة 408",
     "verse_count": 9,
     "chapter_id": 30,
     "group_id": 41,
@@ -3673,7 +3673,7 @@
   },
   {
     "id": 409,
-    "name": "Page 409",
+    "name": "الصفحة 409",
     "verse_count": 9,
     "chapter_id": 30,
     "group_id": 41,
@@ -3682,7 +3682,7 @@
   },
   {
     "id": 410,
-    "name": "Page 410",
+    "name": "الصفحة 410",
     "verse_count": 10,
     "chapter_id": 30,
     "group_id": 41,
@@ -3691,7 +3691,7 @@
   },
   {
     "id": 411,
-    "name": "Page 411",
+    "name": "الصفحة 411",
     "verse_count": 11,
     "chapter_id": 31,
     "group_id": 41,
@@ -3700,7 +3700,7 @@
   },
   {
     "id": 412,
-    "name": "Page 412",
+    "name": "الصفحة 412",
     "verse_count": 8,
     "chapter_id": 31,
     "group_id": 41,
@@ -3709,7 +3709,7 @@
   },
   {
     "id": 413,
-    "name": "Page 413",
+    "name": "الصفحة 413",
     "verse_count": 9,
     "chapter_id": 31,
     "group_id": 41,
@@ -3718,7 +3718,7 @@
   },
   {
     "id": 414,
-    "name": "Page 414",
+    "name": "الصفحة 414",
     "verse_count": 6,
     "chapter_id": 31,
     "group_id": 42,
@@ -3727,7 +3727,7 @@
   },
   {
     "id": 415,
-    "name": "Page 415",
+    "name": "الصفحة 415",
     "verse_count": 11,
     "chapter_id": 32,
     "group_id": 42,
@@ -3736,7 +3736,7 @@
   },
   {
     "id": 416,
-    "name": "Page 416",
+    "name": "الصفحة 416",
     "verse_count": 9,
     "chapter_id": 32,
     "group_id": 42,
@@ -3745,7 +3745,7 @@
   },
   {
     "id": 417,
-    "name": "Page 417",
+    "name": "الصفحة 417",
     "verse_count": 10,
     "chapter_id": 32,
     "group_id": 42,
@@ -3754,7 +3754,7 @@
   },
   {
     "id": 418,
-    "name": "Page 418",
+    "name": "الصفحة 418",
     "verse_count": 6,
     "chapter_id": 33,
     "group_id": 42,
@@ -3763,7 +3763,7 @@
   },
   {
     "id": 419,
-    "name": "Page 419",
+    "name": "الصفحة 419",
     "verse_count": 9,
     "chapter_id": 33,
     "group_id": 42,
@@ -3772,7 +3772,7 @@
   },
   {
     "id": 420,
-    "name": "Page 420",
+    "name": "الصفحة 420",
     "verse_count": 7,
     "chapter_id": 33,
     "group_id": 42,
@@ -3781,7 +3781,7 @@
   },
   {
     "id": 421,
-    "name": "Page 421",
+    "name": "الصفحة 421",
     "verse_count": 8,
     "chapter_id": 33,
     "group_id": 42,
@@ -3790,7 +3790,7 @@
   },
   {
     "id": 422,
-    "name": "Page 422",
+    "name": "الصفحة 422",
     "verse_count": 5,
     "chapter_id": 33,
     "group_id": 43,
@@ -3799,7 +3799,7 @@
   },
   {
     "id": 423,
-    "name": "Page 423",
+    "name": "الصفحة 423",
     "verse_count": 8,
     "chapter_id": 33,
     "group_id": 43,
@@ -3808,7 +3808,7 @@
   },
   {
     "id": 424,
-    "name": "Page 424",
+    "name": "الصفحة 424",
     "verse_count": 7,
     "chapter_id": 33,
     "group_id": 43,
@@ -3817,7 +3817,7 @@
   },
   {
     "id": 425,
-    "name": "Page 425",
+    "name": "الصفحة 425",
     "verse_count": 4,
     "chapter_id": 33,
     "group_id": 43,
@@ -3826,7 +3826,7 @@
   },
   {
     "id": 426,
-    "name": "Page 426",
+    "name": "الصفحة 426",
     "verse_count": 8,
     "chapter_id": 33,
     "group_id": 43,
@@ -3835,7 +3835,7 @@
   },
   {
     "id": 427,
-    "name": "Page 427",
+    "name": "الصفحة 427",
     "verse_count": 11,
     "chapter_id": 33,
     "group_id": 43,
@@ -3844,7 +3844,7 @@
   },
   {
     "id": 428,
-    "name": "Page 428",
+    "name": "الصفحة 428",
     "verse_count": 7,
     "chapter_id": 34,
     "group_id": 43,
@@ -3853,7 +3853,7 @@
   },
   {
     "id": 429,
-    "name": "Page 429",
+    "name": "الصفحة 429",
     "verse_count": 7,
     "chapter_id": 34,
     "group_id": 43,
@@ -3862,7 +3862,7 @@
   },
   {
     "id": 430,
-    "name": "Page 430",
+    "name": "الصفحة 430",
     "verse_count": 8,
     "chapter_id": 34,
     "group_id": 43,
@@ -3871,7 +3871,7 @@
   },
   {
     "id": 431,
-    "name": "Page 431",
+    "name": "الصفحة 431",
     "verse_count": 9,
     "chapter_id": 34,
     "group_id": 43,
@@ -3880,7 +3880,7 @@
   },
   {
     "id": 432,
-    "name": "Page 432",
+    "name": "الصفحة 432",
     "verse_count": 8,
     "chapter_id": 34,
     "group_id": 44,
@@ -3889,7 +3889,7 @@
   },
   {
     "id": 433,
-    "name": "Page 433",
+    "name": "الصفحة 433",
     "verse_count": 9,
     "chapter_id": 34,
     "group_id": 44,
@@ -3898,7 +3898,7 @@
   },
   {
     "id": 434,
-    "name": "Page 434",
+    "name": "الصفحة 434",
     "verse_count": 9,
     "chapter_id": 34,
     "group_id": 44,
@@ -3907,7 +3907,7 @@
   },
   {
     "id": 435,
-    "name": "Page 435",
+    "name": "الصفحة 435",
     "verse_count": 8,
     "chapter_id": 35,
     "group_id": 44,
@@ -3916,7 +3916,7 @@
   },
   {
     "id": 436,
-    "name": "Page 436",
+    "name": "الصفحة 436",
     "verse_count": 7,
     "chapter_id": 35,
     "group_id": 44,
@@ -3925,7 +3925,7 @@
   },
   {
     "id": 437,
-    "name": "Page 437",
+    "name": "الصفحة 437",
     "verse_count": 12,
     "chapter_id": 35,
     "group_id": 44,
@@ -3934,7 +3934,7 @@
   },
   {
     "id": 438,
-    "name": "Page 438",
+    "name": "الصفحة 438",
     "verse_count": 8,
     "chapter_id": 35,
     "group_id": 44,
@@ -3943,7 +3943,7 @@
   },
   {
     "id": 439,
-    "name": "Page 439",
+    "name": "الصفحة 439",
     "verse_count": 6,
     "chapter_id": 35,
     "group_id": 44,
@@ -3952,7 +3952,7 @@
   },
   {
     "id": 440,
-    "name": "Page 440",
+    "name": "الصفحة 440",
     "verse_count": 13,
     "chapter_id": 35,
     "group_id": 44,
@@ -3961,7 +3961,7 @@
   },
   {
     "id": 441,
-    "name": "Page 441",
+    "name": "الصفحة 441",
     "verse_count": 15,
     "chapter_id": 36,
     "group_id": 44,
@@ -3970,7 +3970,7 @@
   },
   {
     "id": 442,
-    "name": "Page 442",
+    "name": "الصفحة 442",
     "verse_count": 13,
     "chapter_id": 36,
     "group_id": 45,
@@ -3979,7 +3979,7 @@
   },
   {
     "id": 443,
-    "name": "Page 443",
+    "name": "الصفحة 443",
     "verse_count": 14,
     "chapter_id": 36,
     "group_id": 45,
@@ -3988,7 +3988,7 @@
   },
   {
     "id": 444,
-    "name": "Page 444",
+    "name": "الصفحة 444",
     "verse_count": 16,
     "chapter_id": 36,
     "group_id": 45,
@@ -3997,7 +3997,7 @@
   },
   {
     "id": 445,
-    "name": "Page 445",
+    "name": "الصفحة 445",
     "verse_count": 13,
     "chapter_id": 36,
     "group_id": 45,
@@ -4006,7 +4006,7 @@
   },
   {
     "id": 446,
-    "name": "Page 446",
+    "name": "الصفحة 446",
     "verse_count": 24,
     "chapter_id": 37,
     "group_id": 45,
@@ -4015,7 +4015,7 @@
   },
   {
     "id": 447,
-    "name": "Page 447",
+    "name": "الصفحة 447",
     "verse_count": 27,
     "chapter_id": 37,
     "group_id": 45,
@@ -4024,7 +4024,7 @@
   },
   {
     "id": 448,
-    "name": "Page 448",
+    "name": "الصفحة 448",
     "verse_count": 25,
     "chapter_id": 37,
     "group_id": 45,
@@ -4033,7 +4033,7 @@
   },
   {
     "id": 449,
-    "name": "Page 449",
+    "name": "الصفحة 449",
     "verse_count": 26,
     "chapter_id": 37,
     "group_id": 45,
@@ -4042,7 +4042,7 @@
   },
   {
     "id": 450,
-    "name": "Page 450",
+    "name": "الصفحة 450",
     "verse_count": 24,
     "chapter_id": 37,
     "group_id": 45,
@@ -4051,7 +4051,7 @@
   },
   {
     "id": 451,
-    "name": "Page 451",
+    "name": "الصفحة 451",
     "verse_count": 27,
     "chapter_id": 37,
     "group_id": 45,
@@ -4060,7 +4060,7 @@
   },
   {
     "id": 452,
-    "name": "Page 452",
+    "name": "الصفحة 452",
     "verse_count": 29,
     "chapter_id": 37,
     "group_id": 46,
@@ -4069,7 +4069,7 @@
   },
   {
     "id": 453,
-    "name": "Page 453",
+    "name": "الصفحة 453",
     "verse_count": 16,
     "chapter_id": 38,
     "group_id": 46,
@@ -4078,7 +4078,7 @@
   },
   {
     "id": 454,
-    "name": "Page 454",
+    "name": "الصفحة 454",
     "verse_count": 10,
     "chapter_id": 38,
     "group_id": 46,
@@ -4087,7 +4087,7 @@
   },
   {
     "id": 455,
-    "name": "Page 455",
+    "name": "الصفحة 455",
     "verse_count": 16,
     "chapter_id": 38,
     "group_id": 46,
@@ -4096,7 +4096,7 @@
   },
   {
     "id": 456,
-    "name": "Page 456",
+    "name": "الصفحة 456",
     "verse_count": 19,
     "chapter_id": 38,
     "group_id": 46,
@@ -4105,7 +4105,7 @@
   },
   {
     "id": 457,
-    "name": "Page 457",
+    "name": "الصفحة 457",
     "verse_count": 22,
     "chapter_id": 38,
     "group_id": 46,
@@ -4114,7 +4114,7 @@
   },
   {
     "id": 458,
-    "name": "Page 458",
+    "name": "الصفحة 458",
     "verse_count": 10,
     "chapter_id": 38,
     "group_id": 46,
@@ -4123,7 +4123,7 @@
   },
   {
     "id": 459,
-    "name": "Page 459",
+    "name": "الصفحة 459",
     "verse_count": 5,
     "chapter_id": 39,
     "group_id": 46,
@@ -4132,7 +4132,7 @@
   },
   {
     "id": 460,
-    "name": "Page 460",
+    "name": "الصفحة 460",
     "verse_count": 11,
     "chapter_id": 39,
     "group_id": 46,
@@ -4141,7 +4141,7 @@
   },
   {
     "id": 461,
-    "name": "Page 461",
+    "name": "الصفحة 461",
     "verse_count": 10,
     "chapter_id": 39,
     "group_id": 46,
@@ -4150,7 +4150,7 @@
   },
   {
     "id": 462,
-    "name": "Page 462",
+    "name": "الصفحة 462",
     "verse_count": 9,
     "chapter_id": 39,
     "group_id": 47,
@@ -4159,7 +4159,7 @@
   },
   {
     "id": 463,
-    "name": "Page 463",
+    "name": "الصفحة 463",
     "verse_count": 7,
     "chapter_id": 39,
     "group_id": 47,
@@ -4168,7 +4168,7 @@
   },
   {
     "id": 464,
-    "name": "Page 464",
+    "name": "الصفحة 464",
     "verse_count": 9,
     "chapter_id": 39,
     "group_id": 47,
@@ -4177,7 +4177,7 @@
   },
   {
     "id": 465,
-    "name": "Page 465",
+    "name": "الصفحة 465",
     "verse_count": 11,
     "chapter_id": 39,
     "group_id": 47,
@@ -4186,7 +4186,7 @@
   },
   {
     "id": 466,
-    "name": "Page 466",
+    "name": "الصفحة 466",
     "verse_count": 7,
     "chapter_id": 39,
     "group_id": 47,
@@ -4195,7 +4195,7 @@
   },
   {
     "id": 467,
-    "name": "Page 467",
+    "name": "الصفحة 467",
     "verse_count": 8,
     "chapter_id": 39,
     "group_id": 47,
@@ -4204,7 +4204,7 @@
   },
   {
     "id": 468,
-    "name": "Page 468",
+    "name": "الصفحة 468",
     "verse_count": 9,
     "chapter_id": 40,
     "group_id": 47,
@@ -4213,7 +4213,7 @@
   },
   {
     "id": 469,
-    "name": "Page 469",
+    "name": "الصفحة 469",
     "verse_count": 9,
     "chapter_id": 40,
     "group_id": 47,
@@ -4222,7 +4222,7 @@
   },
   {
     "id": 470,
-    "name": "Page 470",
+    "name": "الصفحة 470",
     "verse_count": 8,
     "chapter_id": 40,
     "group_id": 47,
@@ -4231,7 +4231,7 @@
   },
   {
     "id": 471,
-    "name": "Page 471",
+    "name": "الصفحة 471",
     "verse_count": 7,
     "chapter_id": 40,
     "group_id": 47,
@@ -4240,7 +4240,7 @@
   },
   {
     "id": 472,
-    "name": "Page 472",
+    "name": "الصفحة 472",
     "verse_count": 9,
     "chapter_id": 40,
     "group_id": 48,
@@ -4249,7 +4249,7 @@
   },
   {
     "id": 473,
-    "name": "Page 473",
+    "name": "الصفحة 473",
     "verse_count": 9,
     "chapter_id": 40,
     "group_id": 48,
@@ -4258,7 +4258,7 @@
   },
   {
     "id": 474,
-    "name": "Page 474",
+    "name": "الصفحة 474",
     "verse_count": 8,
     "chapter_id": 40,
     "group_id": 48,
@@ -4267,7 +4267,7 @@
   },
   {
     "id": 475,
-    "name": "Page 475",
+    "name": "الصفحة 475",
     "verse_count": 11,
     "chapter_id": 40,
     "group_id": 48,
@@ -4276,7 +4276,7 @@
   },
   {
     "id": 476,
-    "name": "Page 476",
+    "name": "الصفحة 476",
     "verse_count": 8,
     "chapter_id": 40,
     "group_id": 48,
@@ -4285,7 +4285,7 @@
   },
   {
     "id": 477,
-    "name": "Page 477",
+    "name": "الصفحة 477",
     "verse_count": 11,
     "chapter_id": 41,
     "group_id": 48,
@@ -4294,7 +4294,7 @@
   },
   {
     "id": 478,
-    "name": "Page 478",
+    "name": "الصفحة 478",
     "verse_count": 9,
     "chapter_id": 41,
     "group_id": 48,
@@ -4303,7 +4303,7 @@
   },
   {
     "id": 479,
-    "name": "Page 479",
+    "name": "الصفحة 479",
     "verse_count": 9,
     "chapter_id": 41,
     "group_id": 48,
@@ -4312,7 +4312,7 @@
   },
   {
     "id": 480,
-    "name": "Page 480",
+    "name": "الصفحة 480",
     "verse_count": 9,
     "chapter_id": 41,
     "group_id": 48,
@@ -4321,7 +4321,7 @@
   },
   {
     "id": 481,
-    "name": "Page 481",
+    "name": "الصفحة 481",
     "verse_count": 8,
     "chapter_id": 41,
     "group_id": 48,
@@ -4330,7 +4330,7 @@
   },
   {
     "id": 482,
-    "name": "Page 482",
+    "name": "الصفحة 482",
     "verse_count": 8,
     "chapter_id": 41,
     "group_id": 49,
@@ -4339,7 +4339,7 @@
   },
   {
     "id": 483,
-    "name": "Page 483",
+    "name": "الصفحة 483",
     "verse_count": 10,
     "chapter_id": 42,
     "group_id": 49,
@@ -4348,7 +4348,7 @@
   },
   {
     "id": 484,
-    "name": "Page 484",
+    "name": "الصفحة 484",
     "verse_count": 5,
     "chapter_id": 42,
     "group_id": 49,
@@ -4357,7 +4357,7 @@
   },
   {
     "id": 485,
-    "name": "Page 485",
+    "name": "الصفحة 485",
     "verse_count": 7,
     "chapter_id": 42,
     "group_id": 49,
@@ -4366,7 +4366,7 @@
   },
   {
     "id": 486,
-    "name": "Page 486",
+    "name": "الصفحة 486",
     "verse_count": 9,
     "chapter_id": 42,
     "group_id": 49,
@@ -4375,7 +4375,7 @@
   },
   {
     "id": 487,
-    "name": "Page 487",
+    "name": "الصفحة 487",
     "verse_count": 13,
     "chapter_id": 42,
     "group_id": 49,
@@ -4384,7 +4384,7 @@
   },
   {
     "id": 488,
-    "name": "Page 488",
+    "name": "الصفحة 488",
     "verse_count": 7,
     "chapter_id": 42,
     "group_id": 49,
@@ -4393,7 +4393,7 @@
   },
   {
     "id": 489,
-    "name": "Page 489",
+    "name": "الصفحة 489",
     "verse_count": 12,
     "chapter_id": 42,
     "group_id": 49,
@@ -4402,7 +4402,7 @@
   },
   {
     "id": 490,
-    "name": "Page 490",
+    "name": "الصفحة 490",
     "verse_count": 12,
     "chapter_id": 43,
     "group_id": 49,
@@ -4411,7 +4411,7 @@
   },
   {
     "id": 491,
-    "name": "Page 491",
+    "name": "الصفحة 491",
     "verse_count": 11,
     "chapter_id": 43,
     "group_id": 49,
@@ -4420,7 +4420,7 @@
   },
   {
     "id": 492,
-    "name": "Page 492",
+    "name": "الصفحة 492",
     "verse_count": 14,
     "chapter_id": 43,
     "group_id": 50,
@@ -4429,7 +4429,7 @@
   },
   {
     "id": 493,
-    "name": "Page 493",
+    "name": "الصفحة 493",
     "verse_count": 13,
     "chapter_id": 43,
     "group_id": 50,
@@ -4438,7 +4438,7 @@
   },
   {
     "id": 494,
-    "name": "Page 494",
+    "name": "الصفحة 494",
     "verse_count": 13,
     "chapter_id": 43,
     "group_id": 50,
@@ -4447,7 +4447,7 @@
   },
   {
     "id": 495,
-    "name": "Page 495",
+    "name": "الصفحة 495",
     "verse_count": 16,
     "chapter_id": 43,
     "group_id": 50,
@@ -4456,7 +4456,7 @@
   },
   {
     "id": 496,
-    "name": "Page 496",
+    "name": "الصفحة 496",
     "verse_count": 18,
     "chapter_id": 44,
     "group_id": 50,
@@ -4465,7 +4465,7 @@
   },
   {
     "id": 497,
-    "name": "Page 497",
+    "name": "الصفحة 497",
     "verse_count": 21,
     "chapter_id": 44,
     "group_id": 50,
@@ -4474,7 +4474,7 @@
   },
   {
     "id": 498,
-    "name": "Page 498",
+    "name": "الصفحة 498",
     "verse_count": 20,
     "chapter_id": 44,
     "group_id": 50,
@@ -4483,7 +4483,7 @@
   },
   {
     "id": 499,
-    "name": "Page 499",
+    "name": "الصفحة 499",
     "verse_count": 13,
     "chapter_id": 45,
     "group_id": 50,
@@ -4492,7 +4492,7 @@
   },
   {
     "id": 500,
-    "name": "Page 500",
+    "name": "الصفحة 500",
     "verse_count": 9,
     "chapter_id": 45,
     "group_id": 50,
@@ -4501,7 +4501,7 @@
   },
   {
     "id": 501,
-    "name": "Page 501",
+    "name": "الصفحة 501",
     "verse_count": 10,
     "chapter_id": 45,
     "group_id": 50,
@@ -4510,7 +4510,7 @@
   },
   {
     "id": 502,
-    "name": "Page 502",
+    "name": "الصفحة 502",
     "verse_count": 10,
     "chapter_id": 45,
     "group_id": 50,
@@ -4519,7 +4519,7 @@
   },
   {
     "id": 503,
-    "name": "Page 503",
+    "name": "الصفحة 503",
     "verse_count": 9,
     "chapter_id": 46,
     "group_id": 51,
@@ -4528,7 +4528,7 @@
   },
   {
     "id": 504,
-    "name": "Page 504",
+    "name": "الصفحة 504",
     "verse_count": 6,
     "chapter_id": 46,
     "group_id": 51,
@@ -4537,7 +4537,7 @@
   },
   {
     "id": 505,
-    "name": "Page 505",
+    "name": "الصفحة 505",
     "verse_count": 8,
     "chapter_id": 46,
     "group_id": 51,
@@ -4546,7 +4546,7 @@
   },
   {
     "id": 506,
-    "name": "Page 506",
+    "name": "الصفحة 506",
     "verse_count": 7,
     "chapter_id": 46,
     "group_id": 51,
@@ -4555,7 +4555,7 @@
   },
   {
     "id": 507,
-    "name": "Page 507",
+    "name": "الصفحة 507",
     "verse_count": 11,
     "chapter_id": 47,
     "group_id": 51,
@@ -4564,7 +4564,7 @@
   },
   {
     "id": 508,
-    "name": "Page 508",
+    "name": "الصفحة 508",
     "verse_count": 8,
     "chapter_id": 47,
     "group_id": 51,
@@ -4573,7 +4573,7 @@
   },
   {
     "id": 509,
-    "name": "Page 509",
+    "name": "الصفحة 509",
     "verse_count": 10,
     "chapter_id": 47,
     "group_id": 51,
@@ -4582,7 +4582,7 @@
   },
   {
     "id": 510,
-    "name": "Page 510",
+    "name": "الصفحة 510",
     "verse_count": 9,
     "chapter_id": 47,
     "group_id": 51,
@@ -4591,7 +4591,7 @@
   },
   {
     "id": 511,
-    "name": "Page 511",
+    "name": "الصفحة 511",
     "verse_count": 9,
     "chapter_id": 48,
     "group_id": 51,
@@ -4600,7 +4600,7 @@
   },
   {
     "id": 512,
-    "name": "Page 512",
+    "name": "الصفحة 512",
     "verse_count": 6,
     "chapter_id": 48,
     "group_id": 51,
@@ -4609,7 +4609,7 @@
   },
   {
     "id": 513,
-    "name": "Page 513",
+    "name": "الصفحة 513",
     "verse_count": 8,
     "chapter_id": 48,
     "group_id": 51,
@@ -4618,7 +4618,7 @@
   },
   {
     "id": 514,
-    "name": "Page 514",
+    "name": "الصفحة 514",
     "verse_count": 5,
     "chapter_id": 48,
     "group_id": 52,
@@ -4627,7 +4627,7 @@
   },
   {
     "id": 515,
-    "name": "Page 515",
+    "name": "الصفحة 515",
     "verse_count": 5,
     "chapter_id": 48,
     "group_id": 52,
@@ -4636,7 +4636,7 @@
   },
   {
     "id": 516,
-    "name": "Page 516",
+    "name": "الصفحة 516",
     "verse_count": 7,
     "chapter_id": 49,
     "group_id": 52,
@@ -4645,7 +4645,7 @@
   },
   {
     "id": 517,
-    "name": "Page 517",
+    "name": "الصفحة 517",
     "verse_count": 7,
     "chapter_id": 49,
     "group_id": 52,
@@ -4654,7 +4654,7 @@
   },
   {
     "id": 518,
-    "name": "Page 518",
+    "name": "الصفحة 518",
     "verse_count": 15,
     "chapter_id": 50,
     "group_id": 52,
@@ -4663,7 +4663,7 @@
   },
   {
     "id": 519,
-    "name": "Page 519",
+    "name": "الصفحة 519",
     "verse_count": 20,
     "chapter_id": 50,
     "group_id": 52,
@@ -4672,7 +4672,7 @@
   },
   {
     "id": 520,
-    "name": "Page 520",
+    "name": "الصفحة 520",
     "verse_count": 16,
     "chapter_id": 50,
     "group_id": 52,
@@ -4681,7 +4681,7 @@
   },
   {
     "id": 521,
-    "name": "Page 521",
+    "name": "الصفحة 521",
     "verse_count": 24,
     "chapter_id": 51,
     "group_id": 52,
@@ -4690,7 +4690,7 @@
   },
   {
     "id": 522,
-    "name": "Page 522",
+    "name": "الصفحة 522",
     "verse_count": 21,
     "chapter_id": 51,
     "group_id": 53,
@@ -4699,7 +4699,7 @@
   },
   {
     "id": 523,
-    "name": "Page 523",
+    "name": "الصفحة 523",
     "verse_count": 23,
     "chapter_id": 51,
     "group_id": 53,
@@ -4708,7 +4708,7 @@
   },
   {
     "id": 524,
-    "name": "Page 524",
+    "name": "الصفحة 524",
     "verse_count": 17,
     "chapter_id": 52,
     "group_id": 53,
@@ -4717,7 +4717,7 @@
   },
   {
     "id": 525,
-    "name": "Page 525",
+    "name": "الصفحة 525",
     "verse_count": 18,
     "chapter_id": 52,
     "group_id": 53,
@@ -4726,7 +4726,7 @@
   },
   {
     "id": 526,
-    "name": "Page 526",
+    "name": "الصفحة 526",
     "verse_count": 26,
     "chapter_id": 53,
     "group_id": 53,
@@ -4735,7 +4735,7 @@
   },
   {
     "id": 527,
-    "name": "Page 527",
+    "name": "الصفحة 527",
     "verse_count": 18,
     "chapter_id": 53,
     "group_id": 53,
@@ -4744,7 +4744,7 @@
   },
   {
     "id": 528,
-    "name": "Page 528",
+    "name": "الصفحة 528",
     "verse_count": 24,
     "chapter_id": 53,
     "group_id": 53,
@@ -4753,7 +4753,7 @@
   },
   {
     "id": 529,
-    "name": "Page 529",
+    "name": "الصفحة 529",
     "verse_count": 21,
     "chapter_id": 54,
     "group_id": 53,
@@ -4762,7 +4762,7 @@
   },
   {
     "id": 530,
-    "name": "Page 530",
+    "name": "الصفحة 530",
     "verse_count": 22,
     "chapter_id": 54,
     "group_id": 53,
@@ -4771,7 +4771,7 @@
   },
   {
     "id": 531,
-    "name": "Page 531",
+    "name": "الصفحة 531",
     "verse_count": 22,
     "chapter_id": 54,
     "group_id": 53,
@@ -4780,7 +4780,7 @@
   },
   {
     "id": 532,
-    "name": "Page 532",
+    "name": "الصفحة 532",
     "verse_count": 24,
     "chapter_id": 55,
     "group_id": 54,
@@ -4789,7 +4789,7 @@
   },
   {
     "id": 533,
-    "name": "Page 533",
+    "name": "الصفحة 533",
     "verse_count": 27,
     "chapter_id": 55,
     "group_id": 54,
@@ -4798,7 +4798,7 @@
   },
   {
     "id": 534,
-    "name": "Page 534",
+    "name": "الصفحة 534",
     "verse_count": 27,
     "chapter_id": 55,
     "group_id": 54,
@@ -4807,7 +4807,7 @@
   },
   {
     "id": 535,
-    "name": "Page 535",
+    "name": "الصفحة 535",
     "verse_count": 34,
     "chapter_id": 56,
     "group_id": 54,
@@ -4816,7 +4816,7 @@
   },
   {
     "id": 536,
-    "name": "Page 536",
+    "name": "الصفحة 536",
     "verse_count": 26,
     "chapter_id": 56,
     "group_id": 54,
@@ -4825,7 +4825,7 @@
   },
   {
     "id": 537,
-    "name": "Page 537",
+    "name": "الصفحة 537",
     "verse_count": 23,
     "chapter_id": 56,
     "group_id": 54,
@@ -4834,7 +4834,7 @@
   },
   {
     "id": 538,
-    "name": "Page 538",
+    "name": "الصفحة 538",
     "verse_count": 8,
     "chapter_id": 57,
     "group_id": 54,
@@ -4843,7 +4843,7 @@
   },
   {
     "id": 539,
-    "name": "Page 539",
+    "name": "الصفحة 539",
     "verse_count": 7,
     "chapter_id": 57,
     "group_id": 54,
@@ -4852,7 +4852,7 @@
   },
   {
     "id": 540,
-    "name": "Page 540",
+    "name": "الصفحة 540",
     "verse_count": 6,
     "chapter_id": 57,
     "group_id": 54,
@@ -4861,7 +4861,7 @@
   },
   {
     "id": 541,
-    "name": "Page 541",
+    "name": "الصفحة 541",
     "verse_count": 5,
     "chapter_id": 57,
     "group_id": 54,
@@ -4870,7 +4870,7 @@
   },
   {
     "id": 542,
-    "name": "Page 542",
+    "name": "الصفحة 542",
     "verse_count": 6,
     "chapter_id": 58,
     "group_id": 55,
@@ -4879,7 +4879,7 @@
   },
   {
     "id": 543,
-    "name": "Page 543",
+    "name": "الصفحة 543",
     "verse_count": 5,
     "chapter_id": 58,
     "group_id": 55,
@@ -4888,7 +4888,7 @@
   },
   {
     "id": 544,
-    "name": "Page 544",
+    "name": "الصفحة 544",
     "verse_count": 10,
     "chapter_id": 58,
     "group_id": 55,
@@ -4897,7 +4897,7 @@
   },
   {
     "id": 545,
-    "name": "Page 545",
+    "name": "الصفحة 545",
     "verse_count": 4,
     "chapter_id": 58,
     "group_id": 55,
@@ -4906,7 +4906,7 @@
   },
   {
     "id": 546,
-    "name": "Page 546",
+    "name": "الصفحة 546",
     "verse_count": 6,
     "chapter_id": 59,
     "group_id": 55,
@@ -4915,7 +4915,7 @@
   },
   {
     "id": 547,
-    "name": "Page 547",
+    "name": "الصفحة 547",
     "verse_count": 7,
     "chapter_id": 59,
     "group_id": 55,
@@ -4924,7 +4924,7 @@
   },
   {
     "id": 548,
-    "name": "Page 548",
+    "name": "الصفحة 548",
     "verse_count": 8,
     "chapter_id": 59,
     "group_id": 55,
@@ -4933,7 +4933,7 @@
   },
   {
     "id": 549,
-    "name": "Page 549",
+    "name": "الصفحة 549",
     "verse_count": 5,
     "chapter_id": 60,
     "group_id": 55,
@@ -4942,7 +4942,7 @@
   },
   {
     "id": 550,
-    "name": "Page 550",
+    "name": "الصفحة 550",
     "verse_count": 6,
     "chapter_id": 60,
     "group_id": 55,
@@ -4951,7 +4951,7 @@
   },
   {
     "id": 551,
-    "name": "Page 551",
+    "name": "الصفحة 551",
     "verse_count": 7,
     "chapter_id": 60,
     "group_id": 55,
@@ -4960,7 +4960,7 @@
   },
   {
     "id": 552,
-    "name": "Page 552",
+    "name": "الصفحة 552",
     "verse_count": 9,
     "chapter_id": 61,
     "group_id": 55,
@@ -4969,7 +4969,7 @@
   },
   {
     "id": 553,
-    "name": "Page 553",
+    "name": "الصفحة 553",
     "verse_count": 8,
     "chapter_id": 62,
     "group_id": 56,
@@ -4978,7 +4978,7 @@
   },
   {
     "id": 554,
-    "name": "Page 554",
+    "name": "الصفحة 554",
     "verse_count": 7,
     "chapter_id": 62,
     "group_id": 56,
@@ -4987,7 +4987,7 @@
   },
   {
     "id": 555,
-    "name": "Page 555",
+    "name": "الصفحة 555",
     "verse_count": 7,
     "chapter_id": 63,
     "group_id": 56,
@@ -4996,7 +4996,7 @@
   },
   {
     "id": 556,
-    "name": "Page 556",
+    "name": "الصفحة 556",
     "verse_count": 9,
     "chapter_id": 64,
     "group_id": 56,
@@ -5005,7 +5005,7 @@
   },
   {
     "id": 557,
-    "name": "Page 557",
+    "name": "الصفحة 557",
     "verse_count": 9,
     "chapter_id": 64,
     "group_id": 56,
@@ -5014,7 +5014,7 @@
   },
   {
     "id": 558,
-    "name": "Page 558",
+    "name": "الصفحة 558",
     "verse_count": 5,
     "chapter_id": 65,
     "group_id": 56,
@@ -5023,7 +5023,7 @@
   },
   {
     "id": 559,
-    "name": "Page 559",
+    "name": "الصفحة 559",
     "verse_count": 7,
     "chapter_id": 65,
     "group_id": 56,
@@ -5032,7 +5032,7 @@
   },
   {
     "id": 560,
-    "name": "Page 560",
+    "name": "الصفحة 560",
     "verse_count": 7,
     "chapter_id": 66,
     "group_id": 56,
@@ -5041,7 +5041,7 @@
   },
   {
     "id": 561,
-    "name": "Page 561",
+    "name": "الصفحة 561",
     "verse_count": 5,
     "chapter_id": 66,
     "group_id": 56,
@@ -5050,7 +5050,7 @@
   },
   {
     "id": 562,
-    "name": "Page 562",
+    "name": "الصفحة 562",
     "verse_count": 12,
     "chapter_id": 67,
     "group_id": 57,
@@ -5059,7 +5059,7 @@
   },
   {
     "id": 563,
-    "name": "Page 563",
+    "name": "الصفحة 563",
     "verse_count": 14,
     "chapter_id": 67,
     "group_id": 57,
@@ -5068,7 +5068,7 @@
   },
   {
     "id": 564,
-    "name": "Page 564",
+    "name": "الصفحة 564",
     "verse_count": 19,
     "chapter_id": 67,
     "group_id": 57,
@@ -5077,7 +5077,7 @@
   },
   {
     "id": 565,
-    "name": "Page 565",
+    "name": "الصفحة 565",
     "verse_count": 27,
     "chapter_id": 68,
     "group_id": 57,
@@ -5086,7 +5086,7 @@
   },
   {
     "id": 566,
-    "name": "Page 566",
+    "name": "الصفحة 566",
     "verse_count": 18,
     "chapter_id": 68,
     "group_id": 57,
@@ -5095,7 +5095,7 @@
   },
   {
     "id": 567,
-    "name": "Page 567",
+    "name": "الصفحة 567",
     "verse_count": 26,
     "chapter_id": 69,
     "group_id": 57,
@@ -5104,7 +5104,7 @@
   },
   {
     "id": 568,
-    "name": "Page 568",
+    "name": "الصفحة 568",
     "verse_count": 28,
     "chapter_id": 69,
     "group_id": 57,
@@ -5113,7 +5113,7 @@
   },
   {
     "id": 569,
-    "name": "Page 569",
+    "name": "الصفحة 569",
     "verse_count": 29,
     "chapter_id": 70,
     "group_id": 57,
@@ -5122,7 +5122,7 @@
   },
   {
     "id": 570,
-    "name": "Page 570",
+    "name": "الصفحة 570",
     "verse_count": 15,
     "chapter_id": 70,
     "group_id": 57,
@@ -5131,7 +5131,7 @@
   },
   {
     "id": 571,
-    "name": "Page 571",
+    "name": "الصفحة 571",
     "verse_count": 18,
     "chapter_id": 71,
     "group_id": 57,
@@ -5140,7 +5140,7 @@
   },
   {
     "id": 572,
-    "name": "Page 572",
+    "name": "الصفحة 572",
     "verse_count": 13,
     "chapter_id": 72,
     "group_id": 58,
@@ -5149,7 +5149,7 @@
   },
   {
     "id": 573,
-    "name": "Page 573",
+    "name": "الصفحة 573",
     "verse_count": 15,
     "chapter_id": 72,
     "group_id": 58,
@@ -5158,7 +5158,7 @@
   },
   {
     "id": 574,
-    "name": "Page 574",
+    "name": "الصفحة 574",
     "verse_count": 19,
     "chapter_id": 73,
     "group_id": 58,
@@ -5167,7 +5167,7 @@
   },
   {
     "id": 575,
-    "name": "Page 575",
+    "name": "الصفحة 575",
     "verse_count": 18,
     "chapter_id": 73,
     "group_id": 58,
@@ -5176,7 +5176,7 @@
   },
   {
     "id": 576,
-    "name": "Page 576",
+    "name": "الصفحة 576",
     "verse_count": 30,
     "chapter_id": 74,
     "group_id": 58,
@@ -5185,7 +5185,7 @@
   },
   {
     "id": 577,
-    "name": "Page 577",
+    "name": "الصفحة 577",
     "verse_count": 28,
     "chapter_id": 74,
     "group_id": 58,
@@ -5194,7 +5194,7 @@
   },
   {
     "id": 578,
-    "name": "Page 578",
+    "name": "الصفحة 578",
     "verse_count": 26,
     "chapter_id": 75,
     "group_id": 58,
@@ -5203,7 +5203,7 @@
   },
   {
     "id": 579,
-    "name": "Page 579",
+    "name": "الصفحة 579",
     "verse_count": 20,
     "chapter_id": 76,
     "group_id": 58,
@@ -5212,7 +5212,7 @@
   },
   {
     "id": 580,
-    "name": "Page 580",
+    "name": "الصفحة 580",
     "verse_count": 25,
     "chapter_id": 76,
     "group_id": 58,
@@ -5221,7 +5221,7 @@
   },
   {
     "id": 581,
-    "name": "Page 581",
+    "name": "الصفحة 581",
     "verse_count": 31,
     "chapter_id": 77,
     "group_id": 58,
@@ -5230,7 +5230,7 @@
   },
   {
     "id": 582,
-    "name": "Page 582",
+    "name": "الصفحة 582",
     "verse_count": 30,
     "chapter_id": 78,
     "group_id": 59,
@@ -5239,7 +5239,7 @@
   },
   {
     "id": 583,
-    "name": "Page 583",
+    "name": "الصفحة 583",
     "verse_count": 25,
     "chapter_id": 78,
     "group_id": 59,
@@ -5248,7 +5248,7 @@
   },
   {
     "id": 584,
-    "name": "Page 584",
+    "name": "الصفحة 584",
     "verse_count": 31,
     "chapter_id": 79,
     "group_id": 59,
@@ -5257,7 +5257,7 @@
   },
   {
     "id": 585,
-    "name": "Page 585",
+    "name": "الصفحة 585",
     "verse_count": 42,
     "chapter_id": 80,
     "group_id": 59,
@@ -5266,7 +5266,7 @@
   },
   {
     "id": 586,
-    "name": "Page 586",
+    "name": "الصفحة 586",
     "verse_count": 29,
     "chapter_id": 81,
     "group_id": 59,
@@ -5275,7 +5275,7 @@
   },
   {
     "id": 587,
-    "name": "Page 587",
+    "name": "الصفحة 587",
     "verse_count": 25,
     "chapter_id": 82,
     "group_id": 59,
@@ -5284,7 +5284,7 @@
   },
   {
     "id": 588,
-    "name": "Page 588",
+    "name": "الصفحة 588",
     "verse_count": 28,
     "chapter_id": 83,
     "group_id": 59,
@@ -5293,7 +5293,7 @@
   },
   {
     "id": 589,
-    "name": "Page 589",
+    "name": "الصفحة 589",
     "verse_count": 27,
     "chapter_id": 83,
     "group_id": 59,
@@ -5302,7 +5302,7 @@
   },
   {
     "id": 590,
-    "name": "Page 590",
+    "name": "الصفحة 590",
     "verse_count": 22,
     "chapter_id": 85,
     "group_id": 59,
@@ -5311,7 +5311,7 @@
   },
   {
     "id": 591,
-    "name": "Page 591",
+    "name": "الصفحة 591",
     "verse_count": 32,
     "chapter_id": 86,
     "group_id": 59,
@@ -5320,7 +5320,7 @@
   },
   {
     "id": 592,
-    "name": "Page 592",
+    "name": "الصفحة 592",
     "verse_count": 30,
     "chapter_id": 87,
     "group_id": 60,
@@ -5329,7 +5329,7 @@
   },
   {
     "id": 593,
-    "name": "Page 593",
+    "name": "الصفحة 593",
     "verse_count": 23,
     "chapter_id": 89,
     "group_id": 60,
@@ -5338,7 +5338,7 @@
   },
   {
     "id": 594,
-    "name": "Page 594",
+    "name": "الصفحة 594",
     "verse_count": 27,
     "chapter_id": 89,
     "group_id": 60,
@@ -5347,7 +5347,7 @@
   },
   {
     "id": 595,
-    "name": "Page 595",
+    "name": "الصفحة 595",
     "verse_count": 29,
     "chapter_id": 91,
     "group_id": 60,
@@ -5356,7 +5356,7 @@
   },
   {
     "id": 596,
-    "name": "Page 596",
+    "name": "الصفحة 596",
     "verse_count": 26,
     "chapter_id": 92,
     "group_id": 60,
@@ -5365,7 +5365,7 @@
   },
   {
     "id": 597,
-    "name": "Page 597",
+    "name": "الصفحة 597",
     "verse_count": 27,
     "chapter_id": 95,
     "group_id": 60,
@@ -5374,7 +5374,7 @@
   },
   {
     "id": 598,
-    "name": "Page 598",
+    "name": "الصفحة 598",
     "verse_count": 12,
     "chapter_id": 97,
     "group_id": 60,
@@ -5383,7 +5383,7 @@
   },
   {
     "id": 599,
-    "name": "Page 599",
+    "name": "الصفحة 599",
     "verse_count": 18,
     "chapter_id": 98,
     "group_id": 60,
@@ -5392,7 +5392,7 @@
   },
   {
     "id": 600,
-    "name": "Page 600",
+    "name": "الصفحة 600",
     "verse_count": 21,
     "chapter_id": 100,
     "group_id": 60,
@@ -5401,7 +5401,7 @@
   },
   {
     "id": 601,
-    "name": "Page 601",
+    "name": "الصفحة 601",
     "verse_count": 17,
     "chapter_id": 103,
     "group_id": 60,
@@ -5410,7 +5410,7 @@
   },
   {
     "id": 602,
-    "name": "Page 602",
+    "name": "الصفحة 602",
     "verse_count": 14,
     "chapter_id": 106,
     "group_id": 60,
@@ -5419,7 +5419,7 @@
   },
   {
     "id": 603,
-    "name": "Page 603",
+    "name": "الصفحة 603",
     "verse_count": 14,
     "chapter_id": 109,
     "group_id": 60,
@@ -5428,7 +5428,7 @@
   },
   {
     "id": 604,
-    "name": "Page 604",
+    "name": "الصفحة 604",
     "verse_count": 15,
     "chapter_id": 112,
     "group_id": 60,
